@@ -1,0 +1,26 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {british}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Acronyms}{5}{section*.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Notation}{6}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Motivation}{7}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Review}{9}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}The Spatial Stokes Layer}{9}{subsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Background}{11}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Main sections of the project}{12}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Evaluation}{13}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusion}{14}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}First Appendix}{15}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{19}{appendix*.9}%

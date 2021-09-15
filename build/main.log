@@ -1,0 +1,2120 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  16 SEP 2021 01:22
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\british.
+ldf
+Language: british 2017/06/06 v3.3r English support from the babel system
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.
+ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\lst@mode=\count193
+\lst@gtempboxa=\box50
+\lst@token=\toks17
+\lst@length=\count194
+\lst@currlwidth=\dimen140
+\lst@column=\count195
+\lst@pos=\count196
+\lst@lostspace=\dimen141
+\lst@width=\dimen142
+\lst@newlines=\count197
+\lst@lineno=\count198
+\lst@maxwidth=\dimen143
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count199
+\lst@skipnumbers=\count266
+\lst@framebox=\box51
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.
+sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count267
+\Hy@pagecounter=\count268
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-lang
+patches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.st
+y
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count269
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count270
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen145
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count271
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count272
+\c@Item=\count273
+\c@Hfootnote=\count274
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count275
+\c@bookmark@seq@number=\count276
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count277
+\multirow@dima=\skip51
+\bigstrutjot=\dimen148
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
+y
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen149
+\enit@toks=\toks18
+\enit@inbox=\box52
+\enit@count@id=\count278
+\enitdp@description=\count279
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count280
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count281
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count282
+\c@listtotal=\count283
+\c@listcount=\count284
+\c@liststart=\count285
+\c@liststop=\count286
+\c@citecount=\count287
+\c@citetotal=\count288
+\c@multicitecount=\count289
+\c@multicitetotal=\count290
+\c@instcount=\count291
+\c@maxnames=\count292
+\c@minnames=\count293
+\c@maxitems=\count294
+\c@minitems=\count295
+\c@citecounter=\count296
+\c@maxcitecounter=\count297
+\c@savedcitecounter=\count298
+\c@uniquelist=\count299
+\c@uniquename=\count300
+\c@refsection=\count301
+\c@refsegment=\count302
+\c@maxextratitle=\count303
+\c@maxextratitleyear=\count304
+\c@maxextraname=\count305
+\c@maxextradate=\count306
+\c@maxextraalpha=\count307
+\c@abbrvpenalty=\count308
+\c@highnamepenalty=\count309
+\c@lownamepenalty=\count310
+\c@maxparens=\count311
+\c@parenlevel=\count312
+\blx@tempcnta=\count313
+\blx@tempcntb=\count314
+\blx@tempcntc=\count315
+\blx@maxsection=\count316
+\blx@maxsegment@0=\count317
+\blx@notetype=\count318
+\blx@parenlevel@text=\count319
+\blx@parenlevel@foot=\count320
+\blx@sectionciteorder@0=\count321
+\blx@entrysetcounter=\count322
+\blx@biblioinstance=\count323
+\labelnumberwidth=\skip53
+\labelalphawidth=\skip54
+\biblabelsep=\skip55
+\bibitemsep=\skip56
+\bibnamesep=\skip57
+\bibinitsep=\skip58
+\bibparsep=\skip59
+\bibhang=\skip60
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count324
+\c@maxcomprange=\count325
+\c@mincompwidth=\count326
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count327
+\c@savedafterword=\count328
+\c@annotator=\count329
+\c@savedannotator=\count330
+\c@author=\count331
+\c@savedauthor=\count332
+\c@bookauthor=\count333
+\c@savedbookauthor=\count334
+\c@commentator=\count335
+\c@savedcommentator=\count336
+\c@editor=\count337
+\c@savededitor=\count338
+\c@editora=\count339
+\c@savededitora=\count340
+\c@editorb=\count341
+\c@savededitorb=\count342
+\c@editorc=\count343
+\c@savededitorc=\count344
+\c@foreword=\count345
+\c@savedforeword=\count346
+\c@holder=\count347
+\c@savedholder=\count348
+\c@introduction=\count349
+\c@savedintroduction=\count350
+\c@namea=\count351
+\c@savednamea=\count352
+\c@nameb=\count353
+\c@savednameb=\count354
+\c@namec=\count355
+\c@savednamec=\count356
+\c@translator=\count357
+\c@savedtranslator=\count358
+\c@shortauthor=\count359
+\c@savedshortauthor=\count360
+\c@shorteditor=\count361
+\c@savedshorteditor=\count362
+\c@labelname=\count363
+\c@savedlabelname=\count364
+\c@institution=\count365
+\c@savedinstitution=\count366
+\c@lista=\count367
+\c@savedlista=\count368
+\c@listb=\count369
+\c@savedlistb=\count370
+\c@listc=\count371
+\c@savedlistc=\count372
+\c@listd=\count373
+\c@savedlistd=\count374
+\c@liste=\count375
+\c@savedliste=\count376
+\c@listf=\count377
+\c@savedlistf=\count378
+\c@location=\count379
+\c@savedlocation=\count380
+\c@organization=\count381
+\c@savedorganization=\count382
+\c@origlocation=\count383
+\c@savedoriglocation=\count384
+\c@origpublisher=\count385
+\c@savedorigpublisher=\count386
+\c@publisher=\count387
+\c@savedpublisher=\count388
+\c@language=\count389
+\c@savedlanguage=\count390
+\c@origlanguage=\count391
+\c@savedoriglanguage=\count392
+\c@pageref=\count393
+\c@savedpageref=\count394
+\shorthandwidth=\skip61
+\shortjournalwidth=\skip62
+\shortserieswidth=\skip63
+\shorttitlewidth=\skip64
+\shortauthorwidth=\skip65
+\shorteditorwidth=\skip66
+\locallabelnumberwidth=\skip67
+\locallabelalphawidth=\skip68
+\localshorthandwidth=\skip69
+\localshortjournalwidth=\skip70
+\localshortserieswidth=\skip71
+\localshorttitlewidth=\skip72
+\localshortauthorwidth=\skip73
+\localshorteditorwidth=\skip74
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.de
+f
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count395
+\c@textcitetotal=\count396
+\c@textcitemaxnames=\count397
+\c@biburlbigbreakpenalty=\count398
+\c@biburlbreakpenalty=\count399
+\c@biburlnumpenalty=\count400
+\c@biburlucpenalty=\count401
+\c@biburllcpenalty=\count402
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count403
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-c
+omp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.b
+bx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.
+bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count404
+\c@bbx:relatedtotal=\count405
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-c
+omp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count406
+\c@cbx@tempcntb=\count407
+\c@cbx@tempcntc=\count408
+\c@cbx@tempcntd=\count409
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count410
+\csq@gtype=\count411
+\csq@glevel=\count412
+\csq@qlevel=\count413
+\csq@maxlvl=\count414
+\csq@tshold=\count415
+\csq@ltx@everypar=\toks19
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.de
+f
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count416
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count417
+\c@continuedfloat=\count418
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count419
+\float@exts=\toks20
+\float@box=\box53
+\@float@everytoks=\toks21
+\@floatcapt=\box54
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.st
+y
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+)
+\XKV@depth=\count420
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.
+sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box55
+)
+\tc@llx=\dimen159
+\tc@lly=\dimen160
+\tc@urx=\dimen161
+\tc@ury=\dimen162
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.de
+f
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen163
+\adjbox@Height=\dimen164
+\adjbox@Depth=\dimen165
+\adjbox@Totalheight=\dimen166
+\adjbox@pwidth=\dimen167
+\adjbox@pheight=\dimen168
+\adjbox@pdepth=\dimen169
+\adjbox@ptotalheight=\dimen170
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.st
+y
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count421
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box56
+\sift@deathcycles=\count422
+\@vwid@loff=\dimen171
+\@vwid@roff=\dimen172
+))
+Package hyperref Info: Option `colorlinks' set `false' on input line 26.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.st
+y
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip75
+\subfigcapskip=\skip76
+\subfigcaptopadj=\dimen173
+\subfigbottomskip=\skip77
+\subfigcapmargin=\dimen174
+\subfiglabelskip=\skip78
+\c@subfigure=\count423
+\c@lofdepth=\count424
+\c@subtable=\count425
+\c@lotdepth=\count426
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cf
+g)
+\subfig@top=\skip79
+\subfig@bottom=\skip80
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip81
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen175
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen176
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count427
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count428
+\leftroot@=\count429
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count430
+\DOTSCASE@=\count431
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+\big@size=\dimen177
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count432
+\c@MaxMatrixCols=\count433
+\dotsspace@=\muskip21
+\c@parentequation=\count434
+\dspbrk@lvl=\count435
+\tag@help=\toks25
+\row@=\count436
+\column@=\count437
+\maxfields@=\count438
+\andhelp@=\toks26
+\eqnshift@=\dimen178
+\alignsep@=\dimen179
+\tagshift@=\dimen180
+\tagwidth@=\dimen181
+\totwidth@=\dimen182
+\lineht@=\dimen183
+\@envbody=\toks27
+\multlinegap=\skip82
+\multlinetaggap=\skip83
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.st
+y
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz
+.sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.s
+ty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen184
+\pgfutil@tempdimb=\dimen185
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-common-lists.tex))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfuti
+l-latex.def
+\pgfutil@abb=\box59
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs
+.code.tex
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex
+)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore
+.sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys
+.sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+s.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+sfiltered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen186
+\pgf@y=\dimen187
+\pgf@xa=\dimen188
+\pgf@ya=\dimen189
+\pgf@xb=\dimen190
+\pgf@yb=\dimen191
+\pgf@xc=\dimen192
+\pgf@yc=\dimen193
+\pgf@xd=\dimen194
+\pgf@yd=\dimen195
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count439
+\c@pgf@countb=\count440
+\c@pgf@countc=\count441
+\c@pgf@countd=\count442
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count443
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.
+cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+yssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count444
+\pgfsyssoftpath@bigbuffer@items=\count445
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfs
+ysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+re.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
+e.tex
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc
+.code.tex
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil
+.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpars
+er.code.tex
+\pgfmath@dimen=\dimen196
+\pgfmath@count=\count446
+\pgfmath@box=\box60
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.code.tex
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.basic.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.trigonometric.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.random.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.comparison.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.base.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.round.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.misc.code.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunc
+tions.integerarithmetics.code.tex)))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloa
+t.code.tex
+\c@pgfmathroundto@lastzeros=\count447
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code
+.tex)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen197
+\pgf@picmaxx=\dimen198
+\pgf@picminy=\dimen199
+\pgf@picmaxy=\dimen256
+\pgf@pathminx=\dimen257
+\pgf@pathmaxx=\dimen258
+\pgf@pathminy=\dimen259
+\pgf@pathmaxy=\dimen260
+\pgf@xx=\dimen261
+\pgf@xy=\dimen262
+\pgf@yx=\dimen263
+\pgf@yy=\dimen264
+\pgf@zx=\dimen265
+\pgf@zy=\dimen266
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen267
+\pgf@path@lasty=\dimen268
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen269
+\pgf@shorten@start@additional=\dimen270
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count448
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+regraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen271
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+retransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen272
+\pgf@pt@y=\dimen273
+\pgf@pt@temp=\dimen274
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+requick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen275
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen276
+\pgf@sys@shading@range@num=\count449
+\pgf@shadingcount=\count450
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+reexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box64
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+relayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+retransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+repatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfco
+rerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+eshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box65
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+eplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
+omp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen277
+\pgf@nodesepend=\dimen278
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfc
+omp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.s
+ty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.
+sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkey
+s.code.tex))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
+e.tex))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor
+.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.cod
+e.tex)
+\pgffor@iter=\dimen279
+\pgffor@skip=\dimen280
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflib
+raryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count451
+\pgfplotmarksize=\dimen281
+)
+\tikz@lastx=\dimen282
+\tikz@lasty=\dimen283
+\tikz@lastxsaved=\dimen284
+\tikz@lastysaved=\dimen285
+\tikz@lastmovetox=\dimen286
+\tikz@lastmovetoy=\dimen287
+\tikzleveldistance=\dimen288
+\tikzsiblingdistance=\dimen289
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count452
+\tikznumberofchildren=\count453
+\tikznumberofcurrentchild=\count454
+\tikz@fig@count=\count455
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodul
+ematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count456
+\pgfmatrixcurrentcolumn=\count457
+\pgf@matrix@numberofcolumns=\count458
+)
+\tikz@expandcount=\count459
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/ti
+kz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count460
+\calc@Bcount=\count461
+\calc@Adimen=\dimen290
+\calc@Bdimen=\dimen291
+\calc@Askip=\skip84
+\calc@Bskip=\skip85
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count462
+\calc@Cskip=\skip86
+)
+\c@@todonotes@numberoftodonotes=\count463
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-09-06 v3.0.29 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen292
+\l__siunitx_angle_marker_box=\box70
+\l__siunitx_angle_unit_box=\box71
+\l__siunitx_compound_count_int=\count464
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/translations\translati
+ons.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+)
+\l__siunitx_number_exponent_fixed_int=\count465
+\l__siunitx_number_min_decimal_int=\count466
+\l__siunitx_number_min_integer_int=\count467
+\l__siunitx_number_round_precision_int=\count468
+\l__siunitx_number_group_minimum_int=\count469
+\l__siunitx_table_tmp_box=\box72
+\l__siunitx_table_tmp_dim=\dimen293
+\l__siunitx_table_column_width_dim=\dimen294
+\l__siunitx_table_integer_box=\box73
+\l__siunitx_table_decimal_box=\box74
+\l__siunitx_table_before_box=\box75
+\l__siunitx_table_after_box=\box76
+\l__siunitx_table_before_dim=\dimen295
+\l__siunitx_table_carry_dim=\dimen296
+\l__siunitx_unit_tmp_int=\count470
+\l__siunitx_unit_position_int=\count471
+\l__siunitx_unit_total_int=\count472
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count473
+\l__pdf_internal_box=\box77
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen297
+\ar@mcellbox=\box78
+\extrarowheight=\dimen298
+\NC@list=\toks41
+\extratabsurround=\skip87
+\backup@length=\skip88
+\ar@cellbox=\box79
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen299
+\ESO@tempdimb=\dimen300
+)
+\AM@pagewidth=\dimen301
+\AM@pageheight=\dimen302
+\AM@fboxrule=\dimen303
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count474
+\AM@pagebox=\box80
+\AM@global@opts=\toks42
+\AM@pagecnt=\count475
+\AM@toc@title=\toks43
+\c@AM@survey=\count476
+\AM@templatesizebox=\box81
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossa
+ries.sty
+Package: glossaries 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2017/11/14 v2.06 (NLCT)
+\@glsmfirst=\toks44
+\@glsmrest=\toks45
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.st
+y
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+) (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base
+.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count477
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.s
+ty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count478
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count479
+\FP@xia=\count480
+\FP@xib=\count481
+\FP@xfa=\count482
+\FP@xfb=\count483
+\FP@rega=\count484
+\FP@regb=\count485
+\FP@regs=\count486
+\FP@times=\count487
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count488
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks46
+\@dtl@tmpcount=\count489
+\dtl@tmplength=\skip89
+\dtl@sortresult=\count490
+\@dtl@numgrpsepcount=\count491
+\@dtl@datatype=\count492
+\dtl@codeA=\count493
+\dtl@codeB=\count494
+\@dtl@foreach@level=\count495
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossa
+ries-compatible-307.sty
+Package: glossaries-compatible-307 2020/03/19 v4.46 (NLCT)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.st
+y
+Package: tracklang 2020/06/30 v1.5 (NLCT) Track Languages
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.
+tex))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.
+sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glo
+ssaries-english.ldf
+File: glossaries-english.ldf 2014/11/23 v1.0
+)
+\gls@level=\count496
+\@gls@tmpb=\toks47
+\gls@tmplen=\skip90
+\glskeylisttok=\toks48
+\glslabeltok=\toks49
+\glsshorttok=\toks50
+\glslongtok=\toks51
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glos
+sary-hypernav.sty
+Package: glossary-hypernav 2020/03/19 v4.46 (NLCT)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glos
+sary-list.sty
+Package: glossary-list 2020/03/19 v4.46 (NLCT)
+\glslistdottedwidth=\skip91
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glos
+sary-long.sty
+Package: glossary-long 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip92
+\LTright=\skip93
+\LTpre=\skip94
+\LTpost=\skip95
+\LTchunksize=\count497
+\LTcapwidth=\dimen304
+\LT@head=\box82
+\LT@firsthead=\box83
+\LT@foot=\box84
+\LT@lastfoot=\box85
+\LT@gbox=\box86
+\LT@cols=\count498
+\LT@rows=\count499
+\c@LT@tables=\count500
+\c@LT@chunks=\count501
+\LT@p@ftn=\toks52
+)
+\glsdescwidth=\skip96
+\glspagelistwidth=\skip97
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glos
+sary-super.sty
+Package: glossary-super 2020/03/19 v4.46 (NLCT)
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabu
+lar.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count502
+\ST@wd=\dimen305
+\ST@rightskip=\skip98
+\ST@leftskip=\skip99
+\ST@parfillskip=\skip100
+\ST@pageleft=\dimen306
+\ST@headht=\dimen307
+\ST@tailht=\dimen308
+\ST@pagesofar=\dimen309
+\ST@pboxht=\dimen310
+\ST@lineht=\dimen311
+\ST@prevht=\dimen312
+\ST@toadd=\dimen313
+\ST@dimen=\dimen314
+\ST@pbox=\box87
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\glos
+sary-tree.sty
+Package: glossary-tree 2020/03/19 v4.46 (NLCT)
+\glstreeindent=\skip101
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count503
+\Gm@cntv=\count504
+\c@Gm@tempcnt=\count505
+\Gm@bindingoffset=\dimen315
+\Gm@wd@mp=\dimen316
+\Gm@odd@mp=\dimen317
+\Gm@even@mp=\dimen318
+\Gm@layoutwidth=\dimen319
+\Gm@layoutheight=\dimen320
+\Gm@layouthoffset=\dimen321
+\Gm@layoutvoffset=\dimen322
+\Gm@dimlist=\toks53
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'british'.
+
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\Report - MSc Project\build\main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+\c@lstlisting=\count506
+Package hyperref Info: Link coloring OFF on input line 181.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count507
+)
+LaTeX Info: Redefining \ref on input line 181.
+LaTeX Info: Redefining \pageref on input line 181.
+LaTeX Info: Redefining \nameref on input line 181.
+Package biblatex Info: Trying to load language 'british'...
+Package biblatex Info: ... file 'british.lbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\british.l
+bx
+File: british.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.l
+bx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-08-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl
+3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\Report - MSc Project\build\main.bbl)
+Package biblatex Info: Reference section=0 on input line 181.
+Package biblatex Info: Reference segment=0 on input line 181.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: subfigure package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count508
+\scratchdimen=\dimen323
+\scratchbox=\box88
+\nofMPsegments=\count509
+\nofMParguments=\count510
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count511
+\MPscratchDim=\dimen324
+\MPnumerator=\count512
+\makeMPintoPDFobject=\count513
+\everyMPtoPDFconversion=\toks55
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tra
+nslations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.st
+y
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=56.9055pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(title/title.tex
+<title/logo.png, id=6, 1284.8pt x 338.26375pt>
+File: title/logo.png Graphic file (type png)
+<use title/logo.png>
+Package pdftex.def Info: title/logo.png  used on input line 9.
+(pdftex.def)             Requested size: 227.62204pt x 59.9248pt.
+ [1
+
+{C:/Users/Herman/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./title/logo.p
+ng>])pdfTeX warning (ext4): destination with the same identifier (name{page.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.188 \end{abstract}
+                     [1]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.193 \end{abstract}
+                     [1]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\Report - MSc Project\build\main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [2
+
+]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\Report - MSc Project\build\main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [3
+
+]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\Report - MSc Project\build\main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+ [4
+
+]
+
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={main}]
+. Rerun may be required (or you may have forgotten to use commands like \gls) o
+n input line 200.
+
+Using TeX to sort glossary entries---this may take a while
+Using TeX to sort glossary entries---this may take a while
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+main.tex:200: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.200 \printnoidxglossaries
+                           
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+[5
+
+
+
+] (introduction/introduction.tex [6
+
+
+]
+Chapter 1.
+
+Underfull \vbox (badness 3758) has occurred while \output is active []
+
+ [7
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+<introduction/fig/riblets.jpeg, id=214, 698.61pt x 331.99031pt>
+File: introduction/fig/riblets.jpeg Graphic file (type jpg)
+<use introduction/fig/riblets.jpeg>
+Package pdftex.def Info: introduction/fig/riblets.jpeg  used on input line 18.
+(pdftex.def)             Requested size: 213.39568pt x 101.40633pt.
+
+introduction/introduction.tex:35: You can't use `\eqno' in math mode.
+\endmathdisplay@a ...\df@tag \@empty \else \veqno 
+                                                  \alt@tag \df@tag \fi \ifx ...
+l.35 ,\end{equation}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+introduction/introduction.tex:35: Missing } inserted.
+<inserted text> 
+                }
+l.35 ,\end{equation}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[9 <./introduction/fig/riblets.jpeg>]) (background/background.tex [10]
+Chapter 2.
+) (project/project.tex [11
+
+]
+Chapter 3.
+) (evaluation/evaluation.tex [12
+
+]
+Chapter 4.
+) (conclusion/conclusion.tex [13
+
+]
+Chapter 5.
+) (appendix/appendix.tex [14
+
+]
+Appendix A.
+) [15
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+09.
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (19.8486pt too wide) in paragraph at lines 210--210
+\T1/cmr/m/n/10 2011), pp. 13491351. \T1/cmr/m/sc/10 doi\T1/cmr/m/n/10 : []$\T1
+/cmtt/m/n/10 10 . 1098 / rsta . 2010 . 0375$[]\T1/cmr/m/n/10 . \T1/cmr/m/sc/10 
+url\T1/cmr/m/n/10 : []$\T1/cmtt/m/n/10 https : / / royalsocietypublishing .
+ []
+
+[16
+
+] [17] [18] [19]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\Report - MSc Project\build\main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 44689 strings out of 478927
+ 871196 string characters out of 2852061
+ 1608684 words of memory out of 3000000
+ 61730 multiletter control sequences out of 15000+600000
+ 420102 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,6n,97p,2178b,2866s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-su
+per-t1.enc}{C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-su
+per/cm-super-ts1.enc}<C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Herman/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Herman/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Herman/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/H
+erman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
+/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-sup
+er/sfbi1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/cm-super/sfbx1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/cm-super/sfbx1200.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/Herman/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users/Herman/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/Herman/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users
+/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1000.pfb>
+<C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc
+1200.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-s
+uper/sfcc1440.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/cm-super/sfrm1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/cm-super/sfrm1200.pfb><C:/Users/Herman/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/cm-super/sfti1000.pfb><C:/Users/Herman/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/cm-super/sfti1200.pfb><C:/Users/Herman/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on "C:\Users\Herman\OneDrive - Imperial College London\Documents
+\School\MSc\Project\Report - MSc Project\build\main.pdf" (21 pages, 546524 byte
+s).
+PDF statistics:
+ 542 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+

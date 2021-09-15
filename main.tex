@@ -1,0 +1,212 @@
+\documentclass[a4paper, twoside]{report}
+
+\usepackage[british]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage[backend=biber,style=numeric-comp,sorting=none]{biblatex}
+\usepackage{url}
+\addbibresource{Project.bib}
+\usepackage{csquotes}
+\usepackage{bookmark}
+
+\usepackage[justification=centering]{caption}
+%paragraph indentation
+\setlength{\parindent}{4em} 
+%paragraph spacing
+\setlength{\parskip}{0.15em}
+%Line spacing
+\renewcommand{\baselinestretch}{1.5}
+\usepackage{lscape}
+\usepackage{color}
+\usepackage{float}
+\usepackage{adjustbox}
+\hypersetup{colorlinks=false}
+\usepackage{subfigure}
+\usepackage{amsmath}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\s}{\sum_{n=1}^{\infty}}
+\newcommand{\p}{\partial}
+\providecommand*{\celsius}{\ensuremath{\mathrm{^\circ C}}}
+\newcommand\Rey{\mbox{\textit{Re}}}  % Reynolds number
+\newcommand\Pran{\mbox{\textit{Pr}}} % Prandtl number, cf TeX's \Pr product
+\newcommand\Pen{\mbox{\textit{Pe}}}  % Peclet number
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{siunitx}
+\usepackage{physics}
+\usepackage{pdfpages}
+\usepackage{listings}
+\usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+\definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
+\definecolor{mylilas}{RGB}{170,55,241}
+\usepackage[toc,acronyms]{glossaries}
+\newglossary[nlg]{notation}{not}{ntn}{Notation}
+
+%% Sets page size and margins
+\usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=2cm]{geometry}
+
+\title{Semi-Empirical Optimisation of the Shape of a Surface Reducing Turbulent Skin Friction}
+\author{Herman (Hon Man) Mak}
+% Update supervisor and other title stuff in title/title.tex
+
+%Glossary
+
+\makenoidxglossaries
+\newglossaryentry{re}
+{
+	type=notation,
+	name={\ensuremath{\mbox{\textit{Re}}}},
+	description={Reynolds number, and is equal to $\frac{U L}{\nu}$, a characteristic velocity $U$ multiplied by a characteristic length $L$ divided by kinematic viscosity $\nu$},
+	sort={Reynolds}
+}
+\newglossaryentry{nu}
+{
+	type=notation,
+	name={\ensuremath{\nu}},
+	description={kinematic viscosity, defined as the ratio between dynamic viscosity and density $\frac{\mu}{\rho}$}
+}
+\newglossaryentry{mu}
+{
+	type=notation,
+	name={\ensuremath{\mu}},
+	description={dynamic viscosity}
+}
+\newglossaryentry{ro}
+{
+	type=notation,
+	name={\ensuremath{\rho}},
+	description={fluid density}
+}
+\newglossaryentry{gA}
+{
+	type=notation,
+	name={\ensuremath{A_g^{+}}},
+	description={riblet groove area in wall units}
+}
+\newglossaryentry{ut}
+{
+	type=notation,
+	name={\ensuremath{u_{\tau}}},
+	description={friction wall velocity; it is equal to $\sqrt{\frac{\tau_w}{\rho}}$ }
+}
+\newglossaryentry{tw}
+{
+	type=notation,
+	name={\ensuremath{\tau_{w}}},
+	description={wall shear stress}
+}
+\newglossaryentry{T}
+{
+	type=notation,
+	name={\ensuremath{T}},
+	description={period}
+}\newglossaryentry{t}
+{
+	type=notation,
+	name={\ensuremath{t}},
+	description={time}
+}
+
+\newglossaryentry{Ww}
+{
+	type=notation,
+	name={\ensuremath{W_w}},
+	description={spanwise wall velocity}
+}
+\newglossaryentry{diss}
+{
+	type=notation,
+	name={\ensuremath{\Phi}},
+	description={dissipation rate per unit area}
+}
+\newglossaryentry{lm}
+{
+	type=notation,
+	name={\ensuremath{\lambda}},
+	description={wavelength (any subscript denotes direction)}
+}
+\newglossaryentry{Uv}
+{
+	type=notation,
+	name={\ensuremath{\mathbf{U}}},
+	description={velocity vector $\mathbf{U}=(U,V,W)$}
+}
+\newglossaryentry{Uc}
+{
+	type=notation,
+	name={\ensuremath{U}},
+	description={$x$ component of velocity (similarly for $V$, $W$ being the  $y$,  $z$ components of velocity), the triple decomposition is $U=\overline{U}+\tilde{U}+u'$}
+}
+\newglossaryentry{Ub}
+{
+	type=notation,
+	name={\ensuremath{\overline{U}}},
+	description={velocity vector $\mathbf{U}=(U,V,W)$}
+}
+\newglossaryentry{Ut}
+{
+	type=notation,
+	name={\ensuremath{\tilde{U}}},
+	description={velocity vector $\mathbf{U}=(U,V,W)$}
+}
+\newglossaryentry{Up}
+{
+	type=notation,
+	name={\ensuremath{u'}},
+	description={velocity vector $\mathbf{U}=(U,V,W)$}
+}
+
+
+
+
+
+
+\newacronym{tbl}{TBL}{turbulent boundary layer}
+\newacronym{bl}{BL}{boundary layer}
+\newacronym{dr}{DR}{drag reduction}
+\newacronym{trl}{TRL}{technology readiness level}
+\newacronym{dns}{DNS}{direct numerical simulation}
+\newacronym{cfd}{CFD}{computational fluid dynamics}
+\newacronym{tsl}{TSL}{temporal Stokes layer}
+\newacronym{ssl}{SSL}{spatial Stokes layer}
+\newacronym{ww}{WW}{wavy wall}
+\begin{document}
+\sisetup{range-phrase=--}
+\sisetup{range-units=single}
+\input{title/title.tex}
+
+\begin{abstract}
+Your abstract goes here. The abstract is a very brief summary of the dissertation's contents. It should be about half a page long. Somebody unfamiliar with your project should have a good idea of what it's about having read the abstract alone and will know whether it will be of interest to them.
+\end{abstract}
+
+\renewcommand{\abstractname}{Acknowledgements}
+\begin{abstract}
+	It is usual to thank those individuals who have provided particularly useful assistance, technical or otherwise, during your project.
+\end{abstract}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\clearpage
+\printnoidxglossaries
+
+\input{introduction/introduction.tex}
+\input{background/background.tex}
+\input{project/project.tex}
+\input{evaluation/evaluation.tex}
+\input{conclusion/conclusion.tex}
+\input{appendix/appendix.tex}
+
+\printbibliography
+\addcontentsline{toc}{chapter}{Bibliography}
+
+\end{document}
