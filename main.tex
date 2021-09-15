@@ -32,7 +32,6 @@
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\s}{\sum_{n=1}^{\infty}}
 \newcommand{\p}{\partial}
-\providecommand*{\celsius}{\ensuremath{\mathrm{^\circ C}}}
 \newcommand\Rey{\mbox{\textit{Re}}}  % Reynolds number
 \newcommand\Pran{\mbox{\textit{Pr}}} % Prandtl number, cf TeX's \Pr product
 \newcommand\Pen{\mbox{\textit{Pe}}}  % Peclet number
@@ -108,17 +107,17 @@
 	type=notation,
 	name={\ensuremath{T}},
 	description={period}
-}\newglossaryentry{t}
+}
+\newglossaryentry{t}
 {
 	type=notation,
 	name={\ensuremath{t}},
 	description={time}
 }
-
 \newglossaryentry{Ww}
 {
 	type=notation,
-	name={\ensuremath{W_w}},
+	name={\ensuremath{W_{w}}},
 	description={spanwise wall velocity}
 }
 \newglossaryentry{diss}
@@ -164,11 +163,6 @@
 	description={velocity vector $\mathbf{U}=(U,V,W)$}
 }
 
-
-
-
-
-
 \newacronym{tbl}{TBL}{turbulent boundary layer}
 \newacronym{bl}{BL}{boundary layer}
 \newacronym{dr}{DR}{drag reduction}
@@ -178,6 +172,7 @@
 \newacronym{tsl}{TSL}{temporal Stokes layer}
 \newacronym{ssl}{SSL}{spatial Stokes layer}
 \newacronym{ww}{WW}{wavy wall}
+
 \begin{document}
 \sisetup{range-phrase=--}
 \sisetup{range-units=single}
