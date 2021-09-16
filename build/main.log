@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  16 SEP 2021 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  16 SEP 2021 16:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -1653,25 +1653,10 @@ LaTeX Warning: Citation 'bechert2006' on page 5 undefined on input line 14.
 LaTeX Warning: Citation 'szodruch1991' on page 5 undefined on input line 14.
 
 
-LaTeX Warning: Reference `ssec:ssl' on page 5 undefined on input line 14.
-
-
-LaTeX Warning: Citation 'garcia-mayoral2011' on page 5 undefined on input line 
-14.
-
-
-LaTeX Warning: Citation 'garcia-mayoral2011' on page 5 undefined on input line 
-14.
-
-
-LaTeX Warning: Citation 'garcia-mayoral2011' on page 5 undefined on input line 
-14.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-<introduction/fig/riblets.jpeg, id=73, 698.61pt x 331.99031pt>
+<introduction/fig/riblets.jpeg, id=74, 698.61pt x 331.99031pt>
 File: introduction/fig/riblets.jpeg Graphic file (type jpg)
 <use introduction/fig/riblets.jpeg>
 Package pdftex.def Info: introduction/fig/riblets.jpeg  used on input line 18.
@@ -1690,150 +1675,16 @@ LaTeX Warning: Citation 'chernyshenko2013' on page 6 undefined on input line 23
 .
 
 
-LaTeX Warning: Citation 'schlichting2017' on page 6 undefined on input line 30.
+LaTeX Warning: Citation 'schlichting2017' on page 6 undefined on input line 29.
 
 
-
-LaTeX Warning: Citation 'jung1992' on page 6 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'jung1992' on page 6 undefined on input line 32.
-
-
-LaTeX Warning: Citation 'karniadakis2003' on page 6 undefined on input line 32.
-
-
-introduction/introduction.tex:35: You can't use `\eqno' in math mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.35 ,\end{equation}
-                    
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-introduction/introduction.tex:35: Missing } inserted.
-<inserted text> 
-                }
-l.35 ,\end{equation}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-LaTeX Warning: Citation 'jung1992' on page 6 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'viotti2009' on page 6 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'dhanak1999' on page 6 undefined on input line 37.
-
-
-LaTeX Warning: Citation 'karniadakis2003' on page 6 undefined on input line 37.
-
-
-[6 <./introduction/fig/riblets.jpeg>]
-
-LaTeX Warning: Citation 'viotti2009' on page 7 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'baron1996' on page 7 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'viotti2009' on page 7 undefined on input line 40.
-
-
-LaTeX Warning: Citation 'karniadakis2003' on page 7 undefined on input line 40.
-
-
-
-LaTeX Warning: Citation 'viotti2009' on page 7 undefined on input line 42.
-
-
-LaTeX Warning: Reference `fig:ssl' on page 7 undefined on input line 43.
-
-<introduction/fig/ssl.png, id=130, 907.39pt x 590.205pt>
-File: introduction/fig/ssl.png Graphic file (type png)
-<use introduction/fig/ssl.png>
-Package pdftex.def Info: introduction/fig/ssl.png  used on input line 51.
-(pdftex.def)             Requested size: 213.39568pt x 138.79726pt.
-
-LaTeX Warning: Citation 'viotti2009' on page 7 undefined on input line 52.
-
-
-LaTeX Warning: Citation 'viotti2009' on page 7 undefined on input line 52.
-
-
-LaTeX Warning: Citation 'chernyshenko2013' on page 7 undefined on input line 56
-.
-
-
-LaTeX Warning: Citation 'viotti2009' on page 7 undefined on input line 56.
-
-
-LaTeX Warning: Citation 'baj2015' on page 7 undefined on input line 60.
-
-[7 <./introduction/fig/ssl.png>]
-
-LaTeX Warning: Citation 'schlichting2017' on page 8 undefined on input line 66.
-
-
-introduction/introduction.tex:72: Double superscript.
-<argument> ^
-            {2}
-l.72 .\end{align}
-                 
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-introduction/introduction.tex:72: Double superscript.
-<argument> ^
-            {2}
-l.72 .\end{align}
-                 
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-introduction/introduction.tex:72: Double superscript.
-<argument> ^
-            {2}
-l.72 .\end{align}
-                 
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-introduction/introduction.tex:72: Double superscript.
-<argument> ^
-            {2}
-l.72 .\end{align}
-                 
-I treat `x^1^2' essentially like `x^1{}^2'.
-
-) (background/background.tex [8]
+) (conclusion/conclusion.tex [6 <./introduction/fig/riblets.jpeg>]
 Chapter 2.
-) (project/project.tex [9
-
-]
-Chapter 3.
-) (evaluation/evaluation.tex [10
-
-]
-Chapter 4.
-) (conclusion/conclusion.tex [11
-
-]
-Chapter 5.
-) (appendix/appendix.tex [12
-
-]
-Appendix A.
 )
 
 LaTeX Warning: Empty bibliography on input line 223.
 
-[13
+[7
 
 ]
 (C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
@@ -1854,66 +1705,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44581 strings out of 478927
- 866479 string characters out of 2852061
- 1602824 words of memory out of 3000000
- 61659 multiletter control sequences out of 15000+600000
- 420015 words of font info for 54 fonts, out of 8000000 for 9000
+ 44473 strings out of 478927
+ 864307 string characters out of 2852061
+ 1598757 words of memory out of 3000000
+ 61614 multiletter control sequences out of 15000+600000
+ 416541 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,97p,2083b,2325s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{glo:wnum} has been referenced but does not exist,
- replaced by a fixed one
+ 99i,6n,97p,2100b,2325s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{glo:ww} has been referenced but does not exist, r
+eplaced by a fixed one
 
-pdfTeX warning (dest): name{glo:phase} has been referenced but does not exist, 
+pdfTeX warning (dest): name{glo:garea} has been referenced but does not exist, 
 replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:ssl} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:lm} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:tsl} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:tim} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:per} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:awall} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:spanwv} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{glo:mu} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:nu} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:ro} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:tw} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:ut} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:cfd} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:dns} has been referenced but does not exist, re
-placed by a fixed one
-
-pdfTeX warning (dest): name{glo:ww} has been referenced but does not exist, rep
-laced by a fixed one
-
-pdfTeX warning (dest): name{glo:gA} has been referenced but does not exist, rep
-laced by a fixed one
 
 pdfTeX warning (dest): name{glo:trl} has been referenced but does not exist, re
 placed by a fixed one
@@ -1931,36 +1734,32 @@ pdfTeX warning (dest): name{glo:dr} has been referenced but does not exist, rep
 laced by a fixed one
 
 {C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-supe
-r-t1.enc}{C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-supe
-r/cm-super-ts1.enc}<C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Herman/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Herman/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Herman/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/He
-rman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
-/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7
-.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy7.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/cm-super/sfbx1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/Herman/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/Herman/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users/Herman/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/
-Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><
-C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1
-200.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-su
-per/sfcc1440.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/cm-super/sfrm1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/cm-super/sfrm1200.pfb><C:/Users/Herman/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/cm-super/sfti1000.pfb><C:/Users/Herman/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/cm-super/sfti1200.pfb>
+r-t1.enc}<C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmex10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Herman/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Herman/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Herman/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Herm
+an/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1000.pfb><C:/U
+sers/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1200.
+pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/
+sfbx1440.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+cm-super/sfbx1728.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/cm-super/sfbx2074.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/cm-super/sfbx2488.pfb><C:/Users/Herman/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Users/Herman/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1440.pfb><C:/Users/Herman/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/He
+rman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:
+/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfti100
+0.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-supe
+r/sfti1200.pfb>
 Output written on "C:\Users\Herman\OneDrive - Imperial College London\Documents
-\School\MSc\Project\MSc Project Report\build\main.pdf" (15 pages, 463810 bytes)
-.
+\School\MSc\Project\MSc Project Report\build\main.pdf" (9 pages, 371179 bytes).
+
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

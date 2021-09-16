@@ -2379,31 +2379,10 @@
     <bcf:citekey order="24">coustols1990</bcf:citekey>
     <bcf:citekey order="25">bechert2006</bcf:citekey>
     <bcf:citekey order="26">szodruch1991</bcf:citekey>
-    <bcf:citekey order="27">garcia-mayoral2011</bcf:citekey>
-    <bcf:citekey order="28">garcia-mayoral2011</bcf:citekey>
-    <bcf:citekey order="29">garcia-mayoral2011</bcf:citekey>
-    <bcf:citekey order="30">raayai-ardakani2019</bcf:citekey>
-    <bcf:citekey order="31">raayai-ardakani2019</bcf:citekey>
-    <bcf:citekey order="32">chernyshenko2013</bcf:citekey>
-    <bcf:citekey order="34">schlichting2017</bcf:citekey>
-    <bcf:citekey order="35">jung1992</bcf:citekey>
-    <bcf:citekey order="36">jung1992</bcf:citekey>
-    <bcf:citekey order="37">karniadakis2003</bcf:citekey>
-    <bcf:citekey order="38">jung1992</bcf:citekey>
-    <bcf:citekey order="39">viotti2009</bcf:citekey>
-    <bcf:citekey order="40">dhanak1999</bcf:citekey>
-    <bcf:citekey order="42">karniadakis2003</bcf:citekey>
-    <bcf:citekey order="43">viotti2009</bcf:citekey>
-    <bcf:citekey order="44">baron1996</bcf:citekey>
-    <bcf:citekey order="46">viotti2009</bcf:citekey>
-    <bcf:citekey order="46">karniadakis2003</bcf:citekey>
-    <bcf:citekey order="47">viotti2009</bcf:citekey>
-    <bcf:citekey order="49">viotti2009</bcf:citekey>
-    <bcf:citekey order="50">viotti2009</bcf:citekey>
-    <bcf:citekey order="51">chernyshenko2013</bcf:citekey>
-    <bcf:citekey order="53">viotti2009</bcf:citekey>
-    <bcf:citekey order="55">baj2015</bcf:citekey>
-    <bcf:citekey order="56">schlichting2017</bcf:citekey>
+    <bcf:citekey order="27">raayai-ardakani2019</bcf:citekey>
+    <bcf:citekey order="28">raayai-ardakani2019</bcf:citekey>
+    <bcf:citekey order="29">chernyshenko2013</bcf:citekey>
+    <bcf:citekey order="31">schlichting2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
