@@ -34,8 +34,8 @@
       \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explore analysis, reports, news and events about Transport}
@@ -74,8 +74,8 @@
       \strng{authorbibnamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authornamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authorfullhash}{8d2bebb19abb94a0648a7595d952fc1c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{\_eprint: https://doi.org/10.2514/2.2796}
@@ -122,8 +122,8 @@
       \strng{authorbibnamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authornamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authorfullhash}{c9c5a29c29c124de95fa1b6fabde8022}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Third International Mathematical Congress}
@@ -168,8 +168,8 @@
       \strng{authorbibnamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authornamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authorfullhash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{day}{13}
@@ -249,8 +249,8 @@
       \strng{authorbibnamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authornamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authorfullhash}{bcab59f1cad1c838b120517bec900e7f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Turbulent boundary layer control (TBLC) for skin-friction drag reduction is a relatively new technology made possible through the advances in computational-simulation capabilities, which have improved the understanding of the flow structures of turbulence. Advances in micro-electronic technology have enabled the fabrication of active device systems able to manipulating these structures. The combination of simulation, understanding and micro-actuation technologies offers new opportunities to significantly decrease drag, and by doing so, to increase fuel efficiency of future aircraft. The literature review that follows shows that the application of active control turbulent skin-friction drag reduction is considered of prime importance by industry, even though it is still at a low technology readiness level (TRL). This review presents the state of the art of different technologies oriented to the active and passive control for turbulent skin-friction drag reduction and contributes to the improvement of these technologies.}
@@ -312,8 +312,8 @@
       \strng{authornamehash}{c0c4af01894faa89fcdabe796a09bdb2}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The objective of this study is to explore concepts for active control of turbulent boundary layers leading to skin-friction reduction using the direct numerical simulation technique. Significant drag reduction is achieved when the surface boundary condition is modified to suppress the dynamically significant coherent structures present in the wall region. The drag reduction is accompanied by significant reduction in the intensity of the wall-layer structures and reductions in the magnitude of Reynolds shear stress throughout the flow. The apparent outward shift of turbulence statistics in the controlled flows indicates a displaced virtual origin of the boundary layer and a thickened sublayer. Time sequences of the flow fields show that there are essentially two drag-reduction mechanisms. Firstly, within a short time after the control is applied, drag is reduced mainly by deterring the sweep motion without modifying the primary streamwise vortices above the wall. Consequently, the high-shear-rate regions on the wall are moved to the interior of the channel by the control schemes. Secondly, the active control changes the evolution of the wall vorticity layer by stabilizing and preventing lifting of the spanwise vorticity near the wall, which may suppress a source of new streamwise vortices above the wall.}
@@ -367,8 +367,8 @@
       \strng{authorbibnamehash}{086ae8add5ea2b61448103e607542db2}
       \strng{authornamehash}{086ae8add5ea2b61448103e607542db2}
       \strng{authorfullhash}{086ae8add5ea2b61448103e607542db2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper extends the resolvent analysis of McKeon \& Sharma (J. Fluid Mech., vol.~658, 2010, pp. 336–382) to consider flow control techniques that employ linear control laws, focusing on opposition control (Choi, Moin \& Kim, J. Fluid Mech., vol.~262, 1994, pp. 75–110) as an example. Under this formulation, the velocity field for turbulent pipe flow is decomposed into a series of highly amplified (rank-1) response modes, identified from a gain analysis of the Fourier-transformed Navier–Stokes equations. These rank-1 velocity responses represent propagating structures of given streamwise/spanwise wavelength and temporal frequency, whose wall-normal footprint depends on the phase speed of the mode. Opposition control, introduced via the boundary condition on wall-normal velocity, affects the amplification characteristics (and wall-normal structure) of these response modes; a decrease in gain indicates mode suppression, which leads to a decrease in the drag contribution from that mode. With basic assumptions, this rank-1 model reproduces trends observed in previous direct numerical simulation and large eddy simulation, without requiring high-performance computing facilities. Further, a wavenumber–frequency breakdown of control explains the deterioration of opposition control performance with increasing sensor elevation and Reynolds number. It is shown that slower-moving modes localized near the wall (i.e.~attached modes) are suppressed by opposition control. Faster-moving detached modes, which are more energetic at higher Reynolds number and more likely to be detected by sensors far from the wall, are further amplified. These faster-moving modes require a phase lag between sensor and actuator velocity for suppression. Thus, the effectiveness of opposition control is determined by a trade-off between the modes detected by the sensor. However, it may be possible to develop control strategies optimized for individual modes. A brief exploration of such mode-optimized control suggests the potential for significant performance improvement.}
@@ -427,8 +427,8 @@
       \strng{authorbibnamehash}{7686bae2563cd62f84fb300369868ca5}
       \strng{authornamehash}{7686bae2563cd62f84fb300369868ca5}
       \strng{authorfullhash}{7686bae2563cd62f84fb300369868ca5}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -486,8 +486,8 @@
       \strng{authorbibnamehash}{55897cddbe5e19a72e600954ebc5770e}
       \strng{authornamehash}{55897cddbe5e19a72e600954ebc5770e}
       \strng{authorfullhash}{55897cddbe5e19a72e600954ebc5770e}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -543,8 +543,8 @@
       \strng{authorbibnamehash}{7c21d58e943eb193da96b1de9b3efe4d}
       \strng{authornamehash}{7c21d58e943eb193da96b1de9b3efe4d}
       \strng{authorfullhash}{7c21d58e943eb193da96b1de9b3efe4d}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1070-6631, 1089-7666}
@@ -1057,8 +1057,8 @@
       \strng{authorbibnamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authornamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authorfullhash}{f7299e038368868d15e7b1a318c52667}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present an experimental study of a low-Reynolds number shear flow between two surfaces, one of which has a regular grooved texture augmented with a superhydrophobic coating. The combination reduces the effective fluid-surface contact area, thereby appreciably decreasing the drag on the surface and effectively changing the macroscopic boundary condition on the surface from no slip to limited slip. We measure the force on the surface and the velocity field in the immediate vicinity on the surface (and thus the wall shear) simultaneously. The latter facilitates a direct assessment of the effective slip length associated with the drag reduction.}

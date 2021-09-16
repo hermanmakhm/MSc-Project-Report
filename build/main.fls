@@ -1695,10 +1695,6 @@ INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Pr
 INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
 INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
 OUTPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
-INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lot
-INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lot
-INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lot
-OUTPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lot
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1000.tfm
 INPUT .\introduction\introduction.tex
 INPUT introduction\introduction.tex
@@ -1722,6 +1718,13 @@ INPUT .\introduction\fig\riblets.jpeg
 INPUT .\introduction\fig\riblets.jpeg
 INPUT .\introduction\fig\riblets.jpeg
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
+INPUT .\introduction\fig\ssl.png
+INPUT .\introduction\fig\ssl.png
+INPUT introduction\fig\ssl.png
+INPUT .\introduction\fig\ssl.png
+INPUT .\introduction\fig\ssl.png
+INPUT .\introduction\fig\ssl.png
+INPUT .\introduction\fig\ssl.png
 INPUT .\background\background.tex
 INPUT background\background.tex
 INPUT .\background\background.tex

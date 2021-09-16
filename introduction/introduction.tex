@@ -25,26 +25,33 @@ Therefore, researchers have begun to explore other ways to use passive flow cont
 
 
 %It is known that if in a turbulent flow the (wing) surface moves spanwise with a suitable velocity distribution, the friction drag is significantly reduced. Even though causing the wing surface to move requires energy input, the drag reduction is large enough to provide large energy savings. However, such motion is difficult to implement on an aircraft. In a paper (Chernyshenko, 2013, arxiv.org/abs/1304.4638) it was proposed to shape the rigid (not moving) surface in such a way that the resulting fluid motion will emulate the effect of the surface motion without the surface actually moving. For the case of the surface with sinusoidal waves at an angle to the mean flow direction, an optimisation of the angle and the height of the waves was performed. The later comparisons (Ghebali et al., 2017, aip.scitation.org/doi/10.1063/1.5003617) showed that the semi-empirical model of calculating the drag reduction used for optimisation was inaccurate. This might be due to this model not taking into account the energy dissipation due to the laminar viscosity and the shape of the mean velocity profile. This part of the dissipation is negligible at high Reynolds numbers, but it was significant at the Reynolds numbers studied. The project will consist in improving the semi-empirical model and repeating the shape optimisation using the improved model. It is recommended to see the first paper cited above to estimate the degree of mathematical proficiency needed for this project.
-\section{Review}
+\section{Literature Review}
 \subsection{The Spatial Stokes Layer}\label{ssec:ssl}
 The Stokes layer is one of a few exact solutiosn to the Navier-Stokes equation describing the motion of a viscous fluid as a function of the wall normal coordinate $y$, whereby the infinitely long wall is located at the bottom at $y=0$ and oscillating harmonically in its own plane \cite{schlichting2017}. It turns out that the resulting oscillation in the fluid is only of significant magnitude very close to the wall in a so-called ``Stokes layer'' and is significantly damped outside of the said-layer.
 
 \citeauthor*{jung1992} \cite{jung1992} were the first to suggest using a wall oscillating in the spanwise direction to reduce skin friction in 1992, exploiting the above phenomenon to obtain a maximum drag reduction of 40\% at a non-dimensional period of $T^+=100$ using \gls{dns}, a \gls{cfd} method \cite{karniadakis2003}. The $+$ superscript denotes non-dimensionalisation by wall units, which is based upon the wall friction velocity $\gls{ut}=\sqrt{\frac{\gls{tw}}{\gls{ro}}}$, along with the kinematic viscosity $\gls{nu}=\frac{\gls{mu}}{\gls{ro}},$ where \gls{tw} is the wall shear stress of the fluid flow, \gls{ro} is the density of the fluid, and \gls{mu} is the dynamic viscosity of the fluid flow. The spanwise velocity of the wall is given by
 \begin{equation}
-	\gls{Ww} = \hat{W}_w\sin{\left( \frac{2\pi}{T}t \right) 
+	\gls{spanwv} = \gls{awall}\sin{\left( \frac{2\pi}{\gls{per}}\gls{tim} \right) 
 ,\end{equation}
-where $\hat{W}_w$ and \gls{T} denotes the oscillation amplitude and period, and \gls{t} denotes time.
+where \gls{awall} and \gls{per} denotes the oscillation amplitude and period, and \gls{tim} denotes time.
 Moreover, when only one of the channel walls were oscillating, ``the reduction in turbulence activity was observed only near the oscillating wall, while the flow at the other wall remained fully turbulent'' \cite{jung1992}. When phase averaged this coincides with the Stokes layer with temporal forcing \cite{viotti2009}, we will therefore name it \gls{tsl}. \textcite{dhanak1999} observed that the duration of sweep events were reduced by 47\% and their strength reduced by 23\%, suggesting that the skin-friction reduction is a result of the ``attenuation in the formation of streamwise streaks \cite{karniadakis2003}.
 %\textcite{karniadakis2003} provides an excellent review of research in in-plane wall motion up to 2003. 
 
 As this is a form of active flow control, despite significant drag reductions, significant energy must also be expended to overcome the extra shear stress to create the spanwise motion of the fluid \cite{viotti2009}. \textcite{baron1996} was the first to consider the net energy savings from spanwise wall oscillation, and it is now accepted that the net energy savings is 10\% \cite{viotti2009, karniadakis2003}. However, this technique requires moving parts and therefore requires actuators, which is hard to implement in practical applications especially in transport applications.
 
-\textcite{viotti2009} sought to extend the \gls{tsl} from a time-dependent forcing to a stationary, spatial forcing, which potentially allows an extension into passive solutions which can emulate the oscillatory spatial forcing. (------------------------------------------------------------------------------------------------------------------------------------------ kim and hussain--------------------------------???)
-The spatial forcing law is given by
-%\begin{equation}
-%	\gls{Ww} = \hat{W}_w\sin{\left( \frac{2\pi}{\lambda_x} x \right)} 
-%.\end{equation}
+\textcite{viotti2009} sought to extend the \gls{tsl} from a time-dependent forcing to a stationary, spatial forcing, which potentially allows an extension into passive solutions which can emulate the oscillation varying over space instead of time. (------------------------------------------------------------------------------------------------------------------------------------------ kim and hussain--------------------------------???)
+The spatial forcing law can be seen in Figure~\ref{fig:ssl}, and is given by
+\begin{equation}
+	\gls{spanwv} = \gls{awall}\sin{\left( \frac{2\pi}{\gls{lm}_x} x \right)} 
+,\end{equation}
+where $\gls{lm}_x$ denotes the forcing wavelength in the streamwise coordinate $x$.
 
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.5\linewidth]{introduction/fig/ssl.png}
+\caption{Schematic of spanwise wall forcing from \cite{viotti2009}. }
+\label{fig:ssl}
+\end{figure}
 \cite{chernyshenko2013} provides the following context of 
 
 Intro: Motivation, Riblets, and others in general, Lit Review – Stokes Layer Results; SSL+Chernyshenko. Refer to Ghebali DNS. End:Formulation of problem: want to be able to predict drag reduction by WW as f’n of $k_x, k_z$, and What
