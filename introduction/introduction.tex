@@ -26,7 +26,7 @@ Therefore, researchers have begun to explore other ways to use passive flow cont
 
 \section{Literature Review}
 \subsection{The Spatial Stokes Layer (SSL)}%\label{ssec:ssl}
-The Stokes layer is one of a few exact solutiosn to the Navier-Stokes equation describing the motion of a viscous fluid as a function of the wall normal coordinate $y$, whereby the infinitely long wall is located at the bottom at $y=0$ and oscillating harmonically in its own plane \cite{schlichting2017}. It turns out that the resulting oscillation in the fluid is only of significant magnitude very close to the wall in a so-called ``Stokes layer'' and is significantly damped outside of the said-layer.
+The Stokes layer is one of a few exact solutiosn to the Navier-Stokes equation describing the motion of a viscous fluid as a function of the wall normal coordinate $y$, whereby the infinitely long wall is located at the bottom at $y=0$ and oscillating harmonically in its own plane \cite{schlichting2016}. It turns out that the resulting oscillation in the fluid is only of significant magnitude very close to the wall in a so-called ``Stokes layer'' and is significantly damped outside of the said-layer.
 
 \citeauthor*{jung1992} \cite{jung1992} were the first to suggest using a wall oscillating in the spanwise direction to reduce skin friction in 1992, exploiting the above phenomenon to obtain a maximum drag reduction of 40\% at a non-dimensional period of $T^+=100$ using \gls{dns}, a \gls{cfd} method \cite{karniadakis2003}. The $+$ superscript denotes non-dimensionalisation by wall units, which is based upon the wall friction velocity $\gls{ut}=\sqrt{\frac{\gls{tw}}{\gls{ro}}}$, along with the kinematic viscosity $\gls{nu}=\frac{\gls{mu}}{\gls{ro}},$ where \gls{tw} is the wall shear stress of the fluid flow, \gls{ro} is the density of the fluid, and \gls{mu} is the dynamic viscosity of the fluid flow. The spanwise velocity of the wall is given by
 \begin{equation}
@@ -62,7 +62,7 @@ where $\overline{\mathbf{U} }$ is the velocity averaged over time, and space in 
 .\end{equation}
 By including this average, we recognise that there will be periodicity in the $x$ component of the flow velocity; we also include periodicity in the $z$ component of the flow velocity since it will be useful for the \gls{ww} flow, and doesn't affect the definition for the \gls{ssl} flow, whose phase average has no $z$ dependence and therefore $\tilde{W}=0$.
 
-With that definition, we can now solve for the phase averaged velocity of the \gls{ssl} flow. By linearising the \gls{bl} equations in the wall units of the flow around a linear profile, we ignore the stochastic fluctuations $\mathbf{u'} $ and let $\overline{\mathbf{U} } = (y,0,0)$. Moreover, \gls{ssl} is time invariant. Thus, by analysing the order of various values as in \cite{schlichting2017}, and taking $\gls{re}\to \infty$, we get
+With that definition, we can now solve for the phase averaged velocity of the \gls{ssl} flow. By linearising the \gls{bl} equations in the wall units of the flow around a linear profile, we ignore the stochastic fluctuations $\mathbf{u'} $ and let $\overline{\mathbf{U} } = (y,0,0)$. Moreover, \gls{ssl} is time invariant. Thus, by analysing the order of various values as in \cite{schlichting2016}, and taking $\gls{re}\to \infty$, we get
 \begin{align}
 	y^{+} \pdv{\tilde{U}^{+}}{x^{+}} + \tilde{V}^{+} &= -\pdv{p^{+}}{x^{+}} + \pdv[2]{\tilde{U}^{+}}{\left(y^{+}\right)} \\
 	0 &= -\pdv{p^{+}}{y^{+}}  \\
