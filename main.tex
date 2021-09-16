@@ -46,7 +46,7 @@
 \usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
 \definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
 \definecolor{mylilas}{RGB}{170,55,241}
-\usepackage[toc,acronyms]{glossaries}
+\usepackage[toc,acronyms,nomain,nonumberlist]{glossaries}
 \newglossary[nlg]{notation}{not}{ntn}{Notation}
 
 %% Sets page size and margins
@@ -64,7 +64,7 @@
 	type=notation,
 	name={\ensuremath{\mbox{\textit{Re}}}},
 	description={Reynolds number, and is equal to $\frac{U L}{\nu}$, a characteristic velocity $U$ multiplied by a characteristic length $L$ divided by kinematic viscosity $\nu$},
-	sort={Reynolds}
+	sort={\ensuremath{Re}}
 }
 \newglossaryentry{nu}
 {
@@ -126,7 +126,6 @@
 	name={\ensuremath{A_w}},
 	description={oscillation amplitude of spanwise wall velocity $W_w$}
 }
-
 \newglossaryentry{diss}
 {
 	type=notation,
@@ -139,36 +138,49 @@
 	name={\ensuremath{\lambda}},
 	description={wavelength (any subscript denotes direction)}
 }
-\newglossaryentry{uv}
+\newglossaryentry{wnum}
+{
+	type=notation,
+	name={\ensuremath{k}},
+	description={wavenumber $k=\frac{2\pi}{\lambda}$ (any subscript denotes direction)}
+}
+\newglossaryentry{uvec}
 {
 	type=notation,
 	name={\ensuremath{\mathbf{U}}},
 	description={velocity vector $\mathbf{U}=(U,V,W)$}
 }
-\newglossaryentry{uc}
+\newglossaryentry{ucp}
 {
 	type=notation,
 	name={\ensuremath{U}},
 	description={$x$ component of velocity (similarly for $V$, $W$ being the  $y$,  $z$ components of velocity), the triple decomposition is $U=\overline{U}+\tilde{U}+u'$}
 }
-\newglossaryentry{ub}
+\newglossaryentry{ume}
 {
 	type=notation,
-	name={\ensuremath{\overline{U}}},
-	description={velocity vector $\mathbf{U}=(U,V,W)$}
+	name={\ensuremath{\overline{\mathbf{U}}}},
+	description={mean velocity vector with components $(\overline{U},\overline{V},\overline{W})$}
 }
-\newglossaryentry{ut}
+\newglossaryentry{upa}
 {
 	type=notation,
-	name={\ensuremath{\tilde{U}}},
-	description={velocity vector $\mathbf{U}=(U,V,W)$}
+	name={\ensuremath{\tilde{\mathbf{U}}}},
+	description={phase averaged velocity vector with components $(\tilde{U},\tilde{V},\tilde{W})$}
 }
-\newglossaryentry{up}
+\newglossaryentry{ufl}
 {
 	type=notation,
-	name={\ensuremath{u'}},
-	description={velocity vector $\mathbf{U}=(U,V,W)$}
+	name={\ensuremath{\mathbf{u'}}},
+	description={fluctuating velocity vector with components $(u',v',w')$}
 }
+\newglossaryentry{phase}
+{
+	type=notation,
+	name={\ensuremath{\phi}},
+	description={fluctuating velocity vector with components $(u',v',w')$}
+}
+
 
 \newacronym{tbl}{TBL}{turbulent boundary layer}
 \newacronym{bl}{BL}{boundary layer}

@@ -1,15 +1,5 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'build\main.blg'
-[291] biber-MSWIN64:340> INFO - === 
-[363] Biber.pm:415> INFO - Reading 'build\main.bcf'
-[664] Biber.pm:952> INFO - Found 32 citekeys in bib section 0
-[695] Biber.pm:4340> INFO - Processing section 0
-[731] Biber.pm:4531> INFO - Looking for bibtex format file 'Project.bib' for section 0
-[840] bibtex.pm:1689> INFO - LaTeX decoding ...
-[1077] bibtex.pm:1494> INFO - Found BibTeX data source 'Project.bib'
-[1585] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1586] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1586] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-GB'
-[1586] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-GB'
-[1639] bbl.pm:654> INFO - Writing 'build\main.bbl' with encoding 'UTF-8'
-[1694] bbl.pm:757> INFO - Output to build\main.bbl
+[269] biber-MSWIN64:340> INFO - === 
+[342] Utils.pm:411> ERROR - build\main.bcf is malformed, last biblatex run probably failed. Deleted build\main.bbl
+[342] Biber.pm:132> INFO - ERRORS: 1

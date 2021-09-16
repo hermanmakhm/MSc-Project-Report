@@ -1,26 +1,22 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {british}{}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Acronyms}{4}{section*.3}%
+\contentsline {chapter}{\numberline {1}Introduction}{4}{chapter.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Notation}{5}{section*.5}%
+\contentsline {section}{\numberline {1.1}Motivation}{4}{section.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.2}Literature Review}{6}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Motivation}{6}{section.1.1}%
+\contentsline {subsection}{\numberline {1.2.1}The Spatial Stokes Layer (SSL)}{6}{subsection.1.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Literature Review}{8}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Background}{9}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}The Spatial Stokes Layer}{8}{subsection.1.2.1}%
+\contentsline {chapter}{\numberline {3}Main sections of the project}{10}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Background}{10}{chapter.2}%
+\contentsline {chapter}{\numberline {4}Evaluation}{11}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Main sections of the project}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {5}Conclusion}{12}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Evaluation}{12}{chapter.4}%
+\contentsline {chapter}{\numberline {A}First Appendix}{13}{appendix.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusion}{13}{chapter.5}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}First Appendix}{14}{appendix.A}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{18}{appendix*.9}%
+\contentsline {chapter}{Bibliography}{13}{appendix.A}%
