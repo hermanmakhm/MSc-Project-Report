@@ -31,7 +31,14 @@
 \newcommand{\Q}{\mathbb{Q}}
 \newcommand{\N}{\mathbb{N}}
 \newcommand{\s}{\sum_{n=1}^{\infty}}
-\newcommand{\p}{\partial}
+\newcommand{\p}{\ensuremath{^{+}}}
+\newcommand{\ps}{\ensuremath{^{+\gls*{sl}}}}
+\newcommand{\ssl}{\ensuremath{_{\gls*{sl}}}}
+\newcommand{\pw}{\ensuremath{^{+\gls*{wav}}}}
+\newcommand{\ww}{\ensuremath{_{\gls*{wav}}}}
+\newcommand{\pz}{\ensuremath{^{+\gls*{zer}}}}
+\newcommand{\zz}{\ensuremath{_{\gls*{zer}}}}
+\newcommand{\Ai}{\operatorname{Ai}}
 \newcommand\Rey{\mbox{\textit{Re}}}  % Reynolds number
 \newcommand\Pran{\mbox{\textit{Pr}}} % Prandtl number, cf TeX's \Pr product
 \newcommand\Pen{\mbox{\textit{Pe}}}  % Peclet number
@@ -71,21 +78,21 @@
 	type=notation,
 	name={\ensuremath{\nu}},
 	description={kinematic viscosity, defined as the ratio between dynamic viscosity and density $\frac{\mu}{\rho}$},
-	sort={znu}
+	sort={zznu}
 }
 \newglossaryentry{mu}
 {
 	type=notation,
 	name={\ensuremath{\mu}},
 	description={dynamic viscosity},
-	sort={zmu}
+	sort={zzmu}
 }
 \newglossaryentry{ro}
 {
 	type=notation,
 	name={\ensuremath{\rho}},
 	description={fluid density},
-	sort={zrho}
+	sort={zzrho}
 }
 \newglossaryentry{garea}
 {
@@ -106,7 +113,7 @@
 	type=notation,
 	name={\ensuremath{\tau_{w}}},
 	description={wall shear stress},
-	sort={ztauw}
+	sort={zztauw}
 }
 \newglossaryentry{per}
 {
@@ -132,7 +139,7 @@
 \newglossaryentry{awall}
 {
 	type=notation,
-	name={\ensuremath{A_w}},
+	name={\ensuremath{A}},
 	description={oscillation amplitude of spanwise wall velocity $W_w$},
 	sort={Aw}
 }
@@ -141,14 +148,14 @@
 	type=notation,
 	name={\ensuremath{\Phi}},
 	description={dissipation rate per unit area},
-	sort={zPhi}
+	sort={zzPhi}
 }
 \newglossaryentry{lm}
 {
 	type=notation,
 	name={\ensuremath{\lambda}},
 	description={wavelength (any subscript denotes direction)},
-	sort={zlambda}
+	sort={zzlambda}
 }
 \newglossaryentry{wnum}
 {
@@ -161,14 +168,14 @@
 {
 	type=notation,
 	name={\ensuremath{\mathbf{U}}},
-	description={velocity vector $\mathbf{U}=(U,V,W)$},
+	description={velocity vector with components $(U,V,W)$, the triple decomposition thereof is $\mathbf{U} =\overline{\mathbf{U}}+\tilde{\mathbf{u} }+\mathbf{ u'}$},
 	sort={U1}
 }
 \newglossaryentry{ucp}
 {
 	type=notation,
 	name={\ensuremath{U}},
-	description={$x$ component of velocity (similarly for $V$, $W$ being the  $y$,  $z$ components of velocity), the triple decomposition is $U=\overline{U}+\tilde{U}+u'$},
+	description={$x$ component of velocity (similarly $V$, $W$ are the  $y$,  $z$ components of velocity respectively)},
 	sort={U2}
 }
 \newglossaryentry{ume}
@@ -181,8 +188,8 @@
 \newglossaryentry{upa}
 {
 	type=notation,
-	name={\ensuremath{\tilde{\mathbf{U}}}},
-	description={phase averaged velocity vector with components $(\tilde{U},\tilde{V},\tilde{W})$},
+	name={\ensuremath{\tilde{\mathbf{u}}}},
+	description={phase averaged velocity vector with components $(\tilde{u},\tilde{v},\tilde{w})$},
 	sort={U4}
 }
 \newglossaryentry{ufl}
@@ -197,9 +204,71 @@
 	type=notation,
 	name={\ensuremath{\phi}},
 	description={phase along a wave},
-	sort={phi}
+	sort={zzphi}
 }
-
+\newglossaryentry{press}
+{
+	type=notation,
+	name={\ensuremath{p}},
+	description={pressure field},
+	sort={pressure}
+}
+\newglossaryentry{sl}
+{
+	type=notation,
+	name={\text{s}},
+	description={denoting the spatial Stokes layer (SSL) flow},
+	sort={s}
+}
+\newglossaryentry{wav}
+{
+	type=notation,
+	name={\text{ww}},
+	description={denoting the oblique wavy wall (WW) flow},
+	sort={ww}
+}
+\newglossaryentry{zer}
+{
+	type=notation,
+	name={0},
+	description={denoting the reference channel flow},
+	sort={zero}
+}
+\newglossaryentry{wht}
+{
+	type=notation,
+	name={\ensuremath{\hat{W}} },
+	description={amplitude of the phase average oscillation in the $z$ direction $\tilde{W}$},
+	sort={what}
+}
+\newglossaryentry{uht}
+{
+	type=notation,
+	name={\ensuremath{\hat{U}} },
+	description={amplitude of the phase average oscillation in the $x$ direction $\tilde{U}$},
+	sort={uhat}
+}
+\newglossaryentry{yck}
+{
+	type=notation,
+	name={\ensuremath{\check{y}^{+}} },
+	description={equal to $\left( k_x^{+} \right) ^{- 1 / 3}y^{+}$},
+	sort={ycheck}
+}
+\newglossaryentry{uck}
+{
+	type=notation,
+	name={\ensuremath{\check{u}^{+}} },
+	description={part of phase average velocity in the $x$ direction dependent on  $\check{y}^{+}$},
+	sort={ucheck}
+}
+\newglossaryentry{wck}
+{
+	type=notation,
+	name={\ensuremath{\check{w}^{+}} },
+	description={part of phase average velocity in the $z$ direction dependent on  $\check{y}^{+}$},
+	sort={wcheck}
+}
 
 \newacronym{tbl}{TBL}{turbulent boundary layer}
 \newacronym{bl}{BL}{boundary layer}
@@ -210,6 +279,8 @@
 \newacronym{tsl}{TSL}{temporal Stokes layer}
 \newacronym{ssl}{SSL}{spatial Stokes layer}
 \newacronym{ww}{WW}{wavy wall}
+\newacronym{ode}{ODE}{ordinary differential equation}
+\newacronym{pde}{PDE}{partial differential equation}
 
 \begin{document}
 \sisetup{range-phrase=--}
@@ -229,7 +300,8 @@ Your abstract goes here. The abstract is a very brief summary of the dissertatio
 \listoffigures
 %\listoftables
 
-\clearpage
+%\clearpage
+\glsaddall
 \printnoidxglossaries
 
 \input{introduction/introduction.tex}

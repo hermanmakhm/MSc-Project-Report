@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  16 SEP 2021 17:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  17 SEP 2021 03:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -1347,26 +1347,26 @@ Package csquotes Info: Redefining alias 'default' -> 'british'.
 t\MSc Project Report\build\main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 214.
-LaTeX Font Info:    ... okay on input line 214.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 285.
+LaTeX Font Info:    ... okay on input line 285.
 \c@lstlisting=\count506
-Package hyperref Info: Link coloring OFF on input line 214.
+Package hyperref Info: Link coloring OFF on input line 285.
 
 (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1380,8 +1380,263 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count507
 )
-LaTeX Info: Redefining \ref on input line 214.
-LaTeX Info: Redefining \pageref on input line 214.
-LaTeX Info: Redefining \nameref on input line 214.
+LaTeX Info: Redefining \ref on input line 285.
+LaTeX Info: Redefining \pageref on input line 285.
+LaTeX Info: Redefining \nameref on input line 285.
 Package biblatex Info: Trying to load language 'british'...
-Package biblatex Info
+Package biblatex Info: ... file 'british.lbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\british.l
+bx
+File: british.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.l
+bx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-08-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl
+3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\MSc Project Report\build\main.bbl)
+Package biblatex Info: Reference section=0 on input line 285.
+Package biblatex Info: Reference segment=0 on input line 285.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: subfigure package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count508
+\scratchdimen=\dimen323
+\scratchbox=\box88
+\nofMPsegments=\count509
+\nofMParguments=\count510
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count511
+\MPscratchDim=\dimen324
+\MPnumerator=\count512
+\makeMPintoPDFobject=\count513
+\everyMPtoPDFconversion=\toks55
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tra
+nslations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+(C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.st
+y
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=56.9055pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(title/title.tex
+<title/logo.png, id=6, 1284.8pt x 338.26375pt>
+File: title/logo.png Graphic file (type png)
+<use title/logo.png>
+Package pdftex.def Info: title/logo.png  used on input line 9.
+(pdftex.def)             Requested size: 227.62204pt x 59.9248pt.
+ [1
+
+{C:/Users/Herman/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./title/logo.p
+ng>])pdfTeX warning (ext4): destination with the same identifier (name{page.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.292 \end{abstract}
+                     [1]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.297 \end{abstract}
+                     [1]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\MSc Project Report\build\main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [2
+
+]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\MSc Project Report\build\main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+
+Using TeX to sort glossary entries---this may take a while
+[3
+
+]
+Using TeX to sort glossary entries---this may take a while
+[4
+
+
+] [5
+
+
+] (introduction/introduction.tex [6]
+Chapter 1.
+
+Underfull \vbox (badness 3758) has occurred while \output is active []
+
+ [7
+
+]
+<introduction/fig/riblets.jpeg, id=184, 698.61pt x 331.99031pt>
+File: introduction/fig/riblets.jpeg Graphic file (type jpg)
+<use introduction/fig/riblets.jpeg>
+Package pdftex.def Info: introduction/fig/riblets.jpeg  used on input line 18.
+(pdftex.def)             Requested size: 213.39568pt x 101.40633pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+[9 <./introduction/fig/riblets.jpeg>]
+<introduction/fig/ssl.png, id=244, 907.39pt x 590.205pt>
+File: introduction/fig/ssl.png Graphic file (type png)
+<use introduction/fig/ssl.png>
+Package pdftex.def Info: introduction/fig/ssl.png  used on input line 51.
+(pdftex.def)             Requested size: 213.39568pt x 138.79726pt.
+ [10 <./introduction/fig/ssl.png>]
+[11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12])
+(conclusion/conclusion.tex [13]
+Chapter 2.
+) [14
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+14.
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [15
+
+] [16] [17] [18]
+(C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
+t\MSc Project Report\build\main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 45149 strings out of 478927
+ 877248 string characters out of 2852061
+ 1627919 words of memory out of 3000000
+ 62171 multiletter control sequences out of 15000+600000
+ 420016 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,19n,97p,2178b,2866s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-su
+per-t1.enc}<C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmbx7.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Herman/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Herman/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Herman/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/H
+erman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+5.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr7.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Herman/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Users/Herman/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Users/He
+rman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1000.pfb><C:
+/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx120
+0.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-supe
+r/sfbx1440.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/cm-super/sfbx1728.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/cm-super/sfbx2074.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/Herman/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Users/Herman/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Users/Herman/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1440.pfb><C:/Users/
+Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0500.pfb><
+C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0
+700.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-su
+per/sfrm1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/cm-super/sfrm1200.pfb><C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/cm-super/sfti1000.pfb><C:/Users/Herman/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/cm-super/sfti1200.pfb><C:/Users/Herman/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on "C:\Users\Herman\OneDrive - Imperial College London\Documents
+\School\MSc\Project\MSc Project Report\build\main.pdf" (20 pages, 683238 bytes)
+.
+PDF statistics:
+ 617 PDF objects out of 1000 (max. 8388607)
+ 130 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
+
