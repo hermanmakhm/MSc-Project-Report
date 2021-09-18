@@ -34,8 +34,8 @@
       \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explore analysis, reports, news and events about Transport}
@@ -74,8 +74,8 @@
       \strng{authorbibnamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authornamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authorfullhash}{8d2bebb19abb94a0648a7595d952fc1c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{\_eprint: https://doi.org/10.2514/2.2796}
@@ -122,8 +122,8 @@
       \strng{authorbibnamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authornamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authorfullhash}{c9c5a29c29c124de95fa1b6fabde8022}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Third International Mathematical Congress}
@@ -168,8 +168,8 @@
       \strng{authorbibnamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authornamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authorfullhash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{13}
@@ -246,8 +246,8 @@
       \strng{authorbibnamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authornamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authorfullhash}{bcab59f1cad1c838b120517bec900e7f}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Turbulent boundary layer control (TBLC) for skin-friction drag reduction is a relatively new technology made possible through the advances in computational-simulation capabilities, which have improved the understanding of the flow structures of turbulence. Advances in micro-electronic technology have enabled the fabrication of active device systems able to manipulating these structures. The combination of simulation, understanding and micro-actuation technologies offers new opportunities to significantly decrease drag, and by doing so, to increase fuel efficiency of future aircraft. The literature review that follows shows that the application of active control turbulent skin-friction drag reduction is considered of prime importance by industry, even though it is still at a low technology readiness level (TRL). This review presents the state of the art of different technologies oriented to the active and passive control for turbulent skin-friction drag reduction and contributes to the improvement of these technologies.}
@@ -309,8 +309,8 @@
       \strng{authornamehash}{c0c4af01894faa89fcdabe796a09bdb2}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The objective of this study is to explore concepts for active control of turbulent boundary layers leading to skin-friction reduction using the direct numerical simulation technique. Significant drag reduction is achieved when the surface boundary condition is modified to suppress the dynamically significant coherent structures present in the wall region. The drag reduction is accompanied by significant reduction in the intensity of the wall-layer structures and reductions in the magnitude of Reynolds shear stress throughout the flow. The apparent outward shift of turbulence statistics in the controlled flows indicates a displaced virtual origin of the boundary layer and a thickened sublayer. Time sequences of the flow fields show that there are essentially two drag-reduction mechanisms. Firstly, within a short time after the control is applied, drag is reduced mainly by deterring the sweep motion without modifying the primary streamwise vortices above the wall. Consequently, the high-shear-rate regions on the wall are moved to the interior of the channel by the control schemes. Secondly, the active control changes the evolution of the wall vorticity layer by stabilizing and preventing lifting of the spanwise vorticity near the wall, which may suppress a source of new streamwise vortices above the wall.}
@@ -364,8 +364,8 @@
       \strng{authorbibnamehash}{086ae8add5ea2b61448103e607542db2}
       \strng{authornamehash}{086ae8add5ea2b61448103e607542db2}
       \strng{authorfullhash}{086ae8add5ea2b61448103e607542db2}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper extends the resolvent analysis of McKeon \& Sharma (J. Fluid Mech., vol.~658, 2010, pp. 336–382) to consider flow control techniques that employ linear control laws, focusing on opposition control (Choi, Moin \& Kim, J. Fluid Mech., vol.~262, 1994, pp. 75–110) as an example. Under this formulation, the velocity field for turbulent pipe flow is decomposed into a series of highly amplified (rank-1) response modes, identified from a gain analysis of the Fourier-transformed Navier–Stokes equations. These rank-1 velocity responses represent propagating structures of given streamwise/spanwise wavelength and temporal frequency, whose wall-normal footprint depends on the phase speed of the mode. Opposition control, introduced via the boundary condition on wall-normal velocity, affects the amplification characteristics (and wall-normal structure) of these response modes; a decrease in gain indicates mode suppression, which leads to a decrease in the drag contribution from that mode. With basic assumptions, this rank-1 model reproduces trends observed in previous direct numerical simulation and large eddy simulation, without requiring high-performance computing facilities. Further, a wavenumber–frequency breakdown of control explains the deterioration of opposition control performance with increasing sensor elevation and Reynolds number. It is shown that slower-moving modes localized near the wall (i.e.~attached modes) are suppressed by opposition control. Faster-moving detached modes, which are more energetic at higher Reynolds number and more likely to be detected by sensors far from the wall, are further amplified. These faster-moving modes require a phase lag between sensor and actuator velocity for suppression. Thus, the effectiveness of opposition control is determined by a trade-off between the modes detected by the sensor. However, it may be possible to develop control strategies optimized for individual modes. A brief exploration of such mode-optimized control suggests the potential for significant performance improvement.}
@@ -424,8 +424,8 @@
       \strng{authorbibnamehash}{7686bae2563cd62f84fb300369868ca5}
       \strng{authornamehash}{7686bae2563cd62f84fb300369868ca5}
       \strng{authorfullhash}{7686bae2563cd62f84fb300369868ca5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -483,8 +483,8 @@
       \strng{authorbibnamehash}{55897cddbe5e19a72e600954ebc5770e}
       \strng{authornamehash}{55897cddbe5e19a72e600954ebc5770e}
       \strng{authorfullhash}{55897cddbe5e19a72e600954ebc5770e}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -540,8 +540,8 @@
       \strng{authorbibnamehash}{7c21d58e943eb193da96b1de9b3efe4d}
       \strng{authornamehash}{7c21d58e943eb193da96b1de9b3efe4d}
       \strng{authorfullhash}{7c21d58e943eb193da96b1de9b3efe4d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1070-6631, 1089-7666}
@@ -1054,8 +1054,8 @@
       \strng{authorbibnamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authornamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authorfullhash}{f7299e038368868d15e7b1a318c52667}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present an experimental study of a low-Reynolds number shear flow between two surfaces, one of which has a regular grooved texture augmented with a superhydrophobic coating. The combination reduces the effective fluid-surface contact area, thereby appreciably decreasing the drag on the surface and effectively changing the macroscopic boundary condition on the surface from no slip to limited slip. We measure the force on the surface and the velocity field in the immediate vicinity on the surface (and thus the wall shear) simultaneously. The latter facilitates a direct assessment of the effective slip length associated with the drag reduction.}
@@ -1104,8 +1104,8 @@
       \strng{authorbibnamehash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
       \strng{authornamehash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
       \strng{authorfullhash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{\_eprint: https://doi.org/10.2514/3.60126}
@@ -1163,8 +1163,8 @@
       \strng{authornamehash}{c0c4af01894faa89fcdabe796a09bdb2}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Direct numerical simulations of turbulent flows over riblet-mounted surfaces are performed to educe the mechanism of drag reduction by riblets. The computed drag on the riblet surfaces is in good agreement with the existing experimental data. The mean-velocity profiles show upward and downward shifts in the log–law for drag-decreasing and drag-increasing cases, respectively. Turbulence statistics above the riblets are computed and compared with those above a flat plate. Differences in the mean-velocity profile and turbulence quantities are found to be limited to the inner region of the boundary layer. Velocity and vorticity fluctuations as well as the Reynolds shear stresses above the riblets are reduced in drag-reducing configurations. Quadrant analysis indicates that riblets mitigate the positive Reynolds-shear-stress-producing events in drag-reducing configurations. From examination of the instantaneous flow fields, a drag reduction mechanism by riblets is proposed: riblets with small spacings reduce viscous drag by restricting the location of the streamwise vortices above the wetted surface such that only a limited area of the riblets is exposed to the downwash of high-speed fluid that the vortices induce.}
@@ -1217,8 +1217,8 @@
       \strng{authorbibnamehash}{c3f23c05e0ceaca5b1c98e6ec4002270}
       \strng{authornamehash}{c3f23c05e0ceaca5b1c98e6ec4002270}
       \strng{authorfullhash}{c3f23c05e0ceaca5b1c98e6ec4002270}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The interaction of the overlying turbulent flow with riblets, and its impact on their drag reduction properties are analysed. In the so-called viscous regime of vanishing riblet spacing, the drag reduction is proportional to the riblet size, but for larger riblets the proportionality breaks down, and the drag reduction eventually becomes an increase. It is found that the groove cross section A+g is a better characterization of this breakdown than the riblet spacing, with an optimum . It is also found that the breakdown is not associated with the lodging of quasi-streamwise vortices inside the riblet grooves, or with the inapplicability of the Stokes hypothesis to the flow along the grooves, but with the appearance of quasi-two-dimensional spanwise vortices below y+{$\approx$}30, with typical streamwise wavelengths . They are connected with a Kelvin–Helmholtz-like instability of the mean velocity profile, also found in flows over plant canopies and other surfaces with transpiration. A simplified stability model for the ribbed surface approximately accounts for the scaling of the viscous breakdown with~A+g.}
@@ -1594,8 +1594,8 @@
       \strng{authorbibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
       \strng{authornamehash}{0a26cca89a601c477ee609ea21c0c5cb}
       \strng{authorfullhash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new idea for turbulent skin-friction reduction is proposed, wherein the shape of the solid wall is designed to create the spanwise pressure gradient acting similarly to the well-known method of drag reduction by in-plane spanwise wall motion. Estimates based on the assumption of similarity with drag reduction effect of in-plane wall motion suggest that drag reduction of about 2.4\% can be achieved in the flow past a wavy wall, with the crests forming an angle of about 38 degrees with the main flow direction, and the wave period in the main flow direction equal to about 1500 wall units. The required height of the wall waves have to be adjusted to achieve the same intensity of the spanwise motion as that created by an in-plane moving wall of the same wavelength and with peak wall velocity equal to 2 wall units. Further research is being conducted in order to determine this height. Suggestions are made for further research on confirming the feasibility of the proposed method and on optimising the wall shape.}
@@ -1868,6 +1868,558 @@
       \endverb
       \verb{url}
       \verb https://aip.scitation.org/doi/10.1063/1.4923744
+      \endverb
+    \endentry
+    \entry{pope2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=43d7dcd70771120215c9bf615a5fa52f}{%
+           family={Pope},
+           familyi={P\bibinitperiod},
+           given={Stephen\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{43d7dcd70771120215c9bf615a5fa52f}
+      \strng{fullhash}{43d7dcd70771120215c9bf615a5fa52f}
+      \strng{bibnamehash}{43d7dcd70771120215c9bf615a5fa52f}
+      \strng{authorbibnamehash}{43d7dcd70771120215c9bf615a5fa52f}
+      \strng{authornamehash}{43d7dcd70771120215c9bf615a5fa52f}
+      \strng{authorfullhash}{43d7dcd70771120215c9bf615a5fa52f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It was a pleasure to read this important book. To understand and predict the development of turbulent flows represents both a continuing scientific challenge and also a serious practical problem in many different fields. Professor Pope has based his book on graduate level lecture courses on turbulence that he has presented at MIT and at Cornell University. It is intended for students in engineering, applied mathematics, oceanography and atmospheric sciences, as well as researchers and practising engineers. The emphasis is on turbulent flows, rather than on the theory of homogeneous turbulence, and only constant-density, nonreacting flows are considered. The author states that his aim is to explain concepts and develop the necessary mathematical tools, rather than to provide a practical guide to turbulence modelling. The text is divided into two parts. Part I provides an introduction to turbulent flows and the fundamental physical processes involved. Topics discussed in separate chapters include: the equations of fluid motion, the statistical description of turbulent flows, the mean flow equations, free shear flows, scales of turbulent motion and wall flows. The chapter on statistical methods for turbulence is particularly good; together with the related appendices it represents a valuable and accessible introduction to the subject. Several approaches for modelling or simulating turbulent flows are then described in Part II, in which the various chapters describe direct numerical simulation (DNS), turbulent viscosity models such as the k-{$\epsilon$} model, Reynolds stress and related second-moment models, probability density function (pdf) models and large-eddy simulation (LES) techniques. Finally, some necessary mathematical tools are summarized in ten Appendices dealing with a wide range of relevant topics including tensors, Dirac delta functions, Fourier transforms, random processes, derivation of pdf equations, characteristic functions and stochastic descriptions of diffusion processes. I particularly enjoyed the chapters on modelling and simulation of turbulent flows. A unified treatment of the different types of model has enabled the author to make valuable connections between them and to reach clear and logical conclusions about the strengths and weaknesses of each approach. Over many years Professor Pope has made very important contributions to the development and application of pdf methods for the prediction of nonreactive and also reactive turbulent flows. The chapter on this subject is an exceptionally clear description of these powerful and often under-utilized simulation methods. The final chapter, on LES, provides an excellent introduction, with valuable and novel insights into both the promise and the problems of this relatively new and rapidly developing approach. It should be compulsory reading for many LES practitioners. Each section of the book contains a number of exercises, which typically invite the reader either to derive an expression that is quoted in the text or to generalize an analysis set out in the text. These exercises are often divided into several stages, and contain appropriate instructions, so that a diligent student will find his or her way through them. An advantage of the extensive use of appendices and student exercises is that analytical clarity and physical understanding are not obscured by unnecessary algebraic detail or by the need to review basic mathematical tools. The result is an exceptionally clear presentation, together with an often penetrating critique of both classical methods and recent developments in the theory and modelling of turbulent flows. There is excellent cross-referencing between one section and another, and an extensive and up-to-date bibliography. I strongly recommend this book to advanced students of fluid mechanics, to their teachers and to all researchers, engineers and others with a professional interest in turbulent flows. K N C Bray}
+      \field{issn}{0957-0233}
+      \field{journaltitle}{Measurement Science and Technology}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{11}
+      \field{shortjournal}{Meas. Sci. Technol.}
+      \field{title}{Turbulent {{Flows}}}
+      \field{urlday}{17}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{12}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{2020\bibrangedash 2021}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1088/0957-0233/12/11/705
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/0957-0233/12/11/705
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/0957-0233/12/11/705
+      \endverb
+    \endentry
+    \entry{jeong1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3b5b63c088906080c5cd2b3533afc48b}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1b563393808650f056a4e2759bf08e1a}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e20729737572ebb1b43dc018ca831aa9}
+      \strng{fullhash}{e20729737572ebb1b43dc018ca831aa9}
+      \strng{bibnamehash}{e20729737572ebb1b43dc018ca831aa9}
+      \strng{authorbibnamehash}{e20729737572ebb1b43dc018ca831aa9}
+      \strng{authornamehash}{e20729737572ebb1b43dc018ca831aa9}
+      \strng{authorfullhash}{e20729737572ebb1b43dc018ca831aa9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1469-7645, 0022-1120}
+      \field{journaltitle}{Journal of Fluid Mechanics}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{On the Identification of a Vortex}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{285}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{69\bibrangedash 94}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1017/S0022112095000462
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\BMLGRJUE\\Jeong and Hussain - 1995 - On the identification of a vortex.pdf;C\:\\Users\\Herman\\Zotero\\storage\\JN8QF4NI\\D26006DDB95FB28DA80E28A581182DF1.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-the-identification-of-a-vortex/D26006DDB95FB28DA80E28A581182DF1
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-the-identification-of-a-vortex/D26006DDB95FB28DA80E28A581182DF1
+      \endverb
+    \endentry
+    \entry{choi2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=806479d69f6eadf570f0e5570fe8ee2a}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Kwing-So},
+           giveni={K\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=c0c99114eeab3294bd5b783193849191}{%
+           family={Jukes},
+           familyi={J\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b701e5662fbfe4ae343d1b39ea380bdf}{%
+           family={Whalley},
+           familyi={W\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society}%
+      }
+      \strng{namehash}{6930ec2574010360e2a6a1714201c644}
+      \strng{fullhash}{6930ec2574010360e2a6a1714201c644}
+      \strng{bibnamehash}{6930ec2574010360e2a6a1714201c644}
+      \strng{authorbibnamehash}{6930ec2574010360e2a6a1714201c644}
+      \strng{authornamehash}{6930ec2574010360e2a6a1714201c644}
+      \strng{authorfullhash}{6930ec2574010360e2a6a1714201c644}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews turbulent boundary-layer control strategies for skin-friction reduction of aerodynamic bodies. The focus is placed on the drag-reduction mechanisms by two flow control techniques—spanwise oscillation and spanwise travelling wave, which were demonstrated to give up to 45 per cent skin-friction reductions. We show that these techniques can be implemented by dielectric-barrier discharge plasma actuators, which are electric devices that do not require any moving parts or complicated ducting. The experimental results show different modifications to the near-wall structures depending on the control technique.}
+      \field{day}{13}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{month}{4}
+      \field{number}{1940}
+      \field{title}{Turbulent Boundary-Layer Control with Plasma Actuators}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{369}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1443\bibrangedash 1458}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1098/rsta.2010.0362
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\VG657BAY\\Choi et al. - 2011 - Turbulent boundary-layer control with plasma actua.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/full/10.1098/rsta.2010.0362
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/full/10.1098/rsta.2010.0362
+      \endverb
+      \keyw{boundary layers,drag reduction,flow control,plasma actuators,turbulence}
+    \endentry
+    \entry{auteri2010}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fd932ce37827d03c273183097bc0d364}{%
+           family={Auteri},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=511ded8da416cb452fff6aa027499032}{%
+           family={Baron},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=76f04b135f3129d0667fe4e7ed01f0a5}{%
+           family={Belan},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=447aa977afd1ce5e2bbd1a43398b511c}{%
+           family={Campanardi},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b68d8e97928980a68a898d667289c2a6}{%
+           family={Quadrio},
+           familyi={Q\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{b87c65f565ac8814a9a820d4f09dd356}
+      \strng{fullhash}{9cb60d13fcdd36a997be55b72e8ee633}
+      \strng{bibnamehash}{b87c65f565ac8814a9a820d4f09dd356}
+      \strng{authorbibnamehash}{b87c65f565ac8814a9a820d4f09dd356}
+      \strng{authornamehash}{b87c65f565ac8814a9a820d4f09dd356}
+      \strng{authorfullhash}{9cb60d13fcdd36a997be55b72e8ee633}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We experimentally assess the capabilities of an active, open-loop technique for drag reduction in turbulent wall flows recently introduced by Quadrio et al. [J. Fluid Mech. 627, 161 (2009)]. The technique consists of generating streamwise-modulated waves of spanwise velocity at the wall, which travels in the streamwise direction. A proof-of-principle experiment has been devised to measure the reduction of turbulent friction in a pipe flow, in which the wall is subdivided into thin slabs that rotate independently in the azimuthal direction. Different speeds of nearby slabs provide, although in a discrete setting, the desired streamwise variation of transverse velocity. Our experiment confirms the available DNS results, and in particular, demonstrates the possibility of achieving large reductions of friction in the turbulent regime. Reductions up to 33\% are obtained for slowly forward-traveling waves; backward-traveling waves invariably yield drag reduction, whereas a substantial drop of drag reduction occurs for waves traveling forward with a phase speed comparable to the convection speed of near-wall turbulent structures. A Fourier analysis is employed to show that the first harmonics introduced by the discrete spatial waveform that approximates the sinusoidal wave are responsible for significant effects that are indeed observed in the experimental measurements. Practical issues related to the physical implementation of this control scheme and its energetic efficiency are briefly discussed.}
+      \field{day}{1}
+      \field{issn}{1070-6631}
+      \field{journaltitle}{Physics of Fluids}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Experimental Assessment of Drag Reduction by Traveling Waves in a Turbulent Pipe Flow}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{115103}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.3491203
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\D8SIA9VK\\Auteri et al. - 2010 - Experimental assessment of drag reduction by trave.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://aip.scitation.org/doi/full/10.1063/1.3491203
+      \endverb
+      \verb{url}
+      \verb https://aip.scitation.org/doi/full/10.1063/1.3491203
+      \endverb
+    \endentry
+    \entry{quadrio2008}{patent}{}
+      \name{author}{2}{}{%
+        {{hash=78f093c49c89be16b32909dfad405f7e}{%
+           family={Quadrio},
+           familyi={Q\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=da28b7a623e3848215e1fd245ba70626}{%
+           family={Luchini},
+           familyi={L\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{holder}{1}{}{%
+        {{hash=0f1d94703e2a2e4042c233d5089a5e24}{%
+           family={{Politecnico Di Milano, Universita' Degli Studi Di Salerno}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {WO}%
+      }
+      \strng{namehash}{c82a15abf241df1f95d860b0deec1cfd}
+      \strng{fullhash}{c82a15abf241df1f95d860b0deec1cfd}
+      \strng{bibnamehash}{c82a15abf241df1f95d860b0deec1cfd}
+      \strng{authorbibnamehash}{c82a15abf241df1f95d860b0deec1cfd}
+      \strng{authornamehash}{c82a15abf241df1f95d860b0deec1cfd}
+      \strng{authorfullhash}{c82a15abf241df1f95d860b0deec1cfd}
+      \strng{holderbibnamehash}{0f1d94703e2a2e4042c233d5089a5e24}
+      \strng{holdernamehash}{0f1d94703e2a2e4042c233d5089a5e24}
+      \strng{holderfullhash}{0f1d94703e2a2e4042c233d5089a5e24}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is disclosed a method for reducing the viscous friction due to the relative movement of a fluid and an object, wherein the object has an external surface in contact with a layer of the fluid and wherein the external surface has a base plane. The method comprises the following steps: forming on the external surface a plurality of projections projecting from the base plane; and imparting to the layer of fluid, by means of the plurality of projections, a profile with a periodic trajectory parallel to the base plane.}
+      \field{day}{31}
+      \field{month}{12}
+      \field{number}{WO2009000703A1}
+      \field{title}{Method for Reducing the Viscous Friction between a Fluid and an Object}
+      \field{type}{patent}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\IMNP28ZK\\Quadrio and Luchini - 2008 - Method for reducing the viscous friction between a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://patents.google.com/patent/WO2009000703A1/en?oq=Patent+WO%2f2009%2f000703%2c+2008.
+      \endverb
+      \verb{url}
+      \verb https://patents.google.com/patent/WO2009000703A1/en?oq=Patent+WO%2f2009%2f000703%2c+2008.
+      \endverb
+      \keyw{external,forming,periodic trajectory,projections,viscous}
+    \endentry
+    \entry{kramer2010}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=1f008f82f5d74eb25bee5da575b33d46}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f0ca5cbc711244a2efb7e987c522ee0d}{%
+           family={Grueneberger},
+           familyi={G\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e0152d137ff0dd3b70a9373ca93382e7}{%
+           family={Thiele},
+           familyi={T\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e14b2a1c99152360a65176e7cd08cdc3}{%
+           family={Wassen},
+           familyi={W\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d51168c818c19690ca1315ed266cfee6}{%
+           family={Hage},
+           familyi={H\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod}}}%
+        {{hash=13e5617d358f90955012d4e3d54fa570}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago, Illinois}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Aeronautics and Astronautics}%
+      }
+      \strng{namehash}{5d7ea3fc2123747d2b3213efcaf985c9}
+      \strng{fullhash}{4563326dffe406a2e48b93b926406c35}
+      \strng{bibnamehash}{5d7ea3fc2123747d2b3213efcaf985c9}
+      \strng{authorbibnamehash}{5d7ea3fc2123747d2b3213efcaf985c9}
+      \strng{authornamehash}{5d7ea3fc2123747d2b3213efcaf985c9}
+      \strng{authorfullhash}{4563326dffe406a2e48b93b926406c35}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{5th {{Flow Control Conference}}}
+      \field{day}{28}
+      \field{eventtitle}{5th {{Flow Control Conference}}}
+      \field{isbn}{978-1-62410-140-3}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Wavy Riblets for Turbulent Drag Reduction}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2514/6.2010-4583
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\AVUQIL3Q\\Kramer et al. - 2010 - Wavy riblets for turbulent drag reduction.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arc.aiaa.org/doi/10.2514/6.2010-4583
+      \endverb
+      \verb{url}
+      \verb https://arc.aiaa.org/doi/10.2514/6.2010-4583
+      \endverb
+    \endentry
+    \entry{gruneberger2012}{incollection}{}
+      \name{author}{6}{}{%
+        {{hash=d160170dd6413fc41643959bc175b868}{%
+           family={Grüneberger},
+           familyi={G\bibinitperiod},
+           given={Rene},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1f008f82f5d74eb25bee5da575b33d46}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=e14b2a1c99152360a65176e7cd08cdc3}{%
+           family={Wassen},
+           familyi={W\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d51168c818c19690ca1315ed266cfee6}{%
+           family={Hage},
+           familyi={H\bibinitperiod},
+           given={Wolfram},
+           giveni={W\bibinitperiod}}}%
+        {{hash=13e5617d358f90955012d4e3d54fa570}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e0152d137ff0dd3b70a9373ca93382e7}{%
+           family={Thiele},
+           familyi={T\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=94777ba5c1fc5df05fdcee7f5dff16fc}{%
+           family={Tropea},
+           familyi={T\bibinitperiod},
+           given={Cameron},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0136aa5e526613929e0d62e6c69a0d83}{%
+           family={Bleckmann},
+           familyi={B\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{83e8a7894c0fea8138766d7857e25bdc}
+      \strng{fullhash}{6559a909846f3360dbb27ff55b865269}
+      \strng{bibnamehash}{83e8a7894c0fea8138766d7857e25bdc}
+      \strng{authorbibnamehash}{83e8a7894c0fea8138766d7857e25bdc}
+      \strng{authornamehash}{83e8a7894c0fea8138766d7857e25bdc}
+      \strng{authorfullhash}{6559a909846f3360dbb27ff55b865269}
+      \strng{editorbibnamehash}{4bb35959cdfd657b32249fb3fa7b9a9f}
+      \strng{editornamehash}{4bb35959cdfd657b32249fb3fa7b9a9f}
+      \strng{editorfullhash}{4bb35959cdfd657b32249fb3fa7b9a9f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This article reports on a numerical and experimental study of the turbulent drag on riblet surfaces, where the trapezoidal riblet grooves were formed in a wave-like sinusoidal or zigzag pattern. The aim was to enhance the drag-reducing capabilities of conventional, straight riblet grooves by an additional contribution that originates from the induced oscillating lateral flow component. By means of a comprehensive parameter study in an oil channel at Re between 10,000 and 30,000 and DNS simulations at Re {$\tau$} =180, suitable waveform parameters are sought, with which wave-like riblets produce a drag reduction larger than that of their straight counterparts. For a riblet cross-section shape that is known to be optimal for straight grooves, no such beneficial drag modification could be demonstrated. With a riblet groove cross-section different from the optimum shape, an augmented attainable drag reduction in comparison to straight riblet grooves was found within a certain range of the waveform amplitude. The improvement amounts up to 1.3\%-points in terms of drag reduction. Wave-like riblets with reduced riblet height never outperformed the drag reduction of straight riblet grooves of optimal cross-section form, but exhibit a similar drag reduction in the best cases investigated. It is shown that this favourable influence on the riblet-modified turbulent drag persists under a mild misalignment of the riblets to the main flow direction.}
+      \field{booktitle}{Nature-{{Inspired Fluid Mechanics}}: {{Results}} of the {{DFG Priority Programme}} 1207 ''{{Nature}}-Inspired {{Fluid Mechanics}}'' 2006-2012}
+      \field{isbn}{978-3-642-28302-4}
+      \field{langid}{english}
+      \field{series}{Notes on {{Numerical Fluid Mechanics}} and {{Multidisciplinary Design}}}
+      \field{title}{Influence of {{Wave}}-{{Like Riblets}} on {{Turbulent Friction Drag}}}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{311\bibrangedash 329}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1007/978-3-642-28302-4_19
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-28302-4_19
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-28302-4_19
+      \endverb
+      \keyw{Drag Reduction,Friction Drag,Pressure Drag,Wall Shear Stress,Wall Unit}
+    \endentry
+    \entry{ghebali2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=217d26bc35bfb6f4a6eb5faea8f589e2}{%
+           family={Ghebali},
+           familyi={G\bibinitperiod},
+           given={Sacha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a40d7d48ed45af43d10a12b3558a9b76}{%
+           family={Chernyshenko},
+           familyi={C\bibinitperiod},
+           given={Sergei\bibnamedelima I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=17f3cb55f4fe3cdf26c3490a5cc8fd97}{%
+           family={Leschziner},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{7cba2c24df449051c057b49ad67e2ba9}
+      \strng{fullhash}{7cba2c24df449051c057b49ad67e2ba9}
+      \strng{bibnamehash}{7cba2c24df449051c057b49ad67e2ba9}
+      \strng{authorbibnamehash}{7cba2c24df449051c057b49ad67e2ba9}
+      \strng{authornamehash}{7cba2c24df449051c057b49ad67e2ba9}
+      \strng{authorfullhash}{7cba2c24df449051c057b49ad67e2ba9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{1070-6631}
+      \field{journaltitle}{Physics of Fluids}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Can Large-Scale Oblique Undulations on a Solid Wall Reduce the Turbulent Drag?}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{volume}{29}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{105102}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.5003617
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1063/1.5003617
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1063/1.5003617
+      \endverb
+    \endentry
+    \entry{ghebali2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=217d26bc35bfb6f4a6eb5faea8f589e2}{%
+           family={Ghebali},
+           familyi={G\bibinitperiod},
+           given={Sacha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Imperial College London}%
+      }
+      \strng{namehash}{217d26bc35bfb6f4a6eb5faea8f589e2}
+      \strng{fullhash}{217d26bc35bfb6f4a6eb5faea8f589e2}
+      \strng{bibnamehash}{217d26bc35bfb6f4a6eb5faea8f589e2}
+      \strng{authorbibnamehash}{217d26bc35bfb6f4a6eb5faea8f589e2}
+      \strng{authornamehash}{217d26bc35bfb6f4a6eb5faea8f589e2}
+      \strng{authorfullhash}{217d26bc35bfb6f4a6eb5faea8f589e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Accepted: 2018-10-29T14:16:24Z}
+      \field{langid}{american}
+      \field{month}{4}
+      \field{title}{Turbulent Drag Reduction by Oblique Wavy Wall Undulations}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.25560/63827
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\FB7XUAVA\\Ghebali - 2018 - Turbulent drag reduction by oblique wavy wall undu.pdf;C\:\\Users\\Herman\\Zotero\\storage\\RBSI8YZ9\\63827.html
+      \endverb
+      \verb{urlraw}
+      \verb http://spiral.imperial.ac.uk/handle/10044/1/63827
+      \endverb
+      \verb{url}
+      \verb http://spiral.imperial.ac.uk/handle/10044/1/63827
       \endverb
     \endentry
   \enddatalist

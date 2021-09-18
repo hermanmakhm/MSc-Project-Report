@@ -16,7 +16,7 @@ On the other hand, passive flow control in necessarily open-loop, and may have d
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.5\linewidth]{introduction/fig/riblets.jpeg}
-\caption{A schematic of triangular riblets the most commonly researched riblets. Figure modified from \cite{raayai-ardakani2019}.}
+\caption[Schematic of triangular riblets]{A schematic of triangular riblets; the most commonly researched riblets. Figure modified from \cite{raayai-ardakani2019}.}
 \label{fig:riblets}
 \end{figure}
 
@@ -49,7 +49,7 @@ where \gls*{awall} and $\gls*{lm}_x$ denotes the forcing amplitude and the forci
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.5\linewidth]{introduction/fig/ssl.png}
-\caption{Schematic of spanwise wall forcing from \cite{viotti2009}.}
+\caption[Schematic of spanwise wall forcing]{Schematic of spanwise wall forcing from \cite{viotti2009}.}
 \label{fig:ssl}
 \end{figure}
 
@@ -58,9 +58,9 @@ We will now analyse \gls{ssl} flow analytically following \textcite{chernyshenko
 \begin{equation}
 	\mathbf{U} = \overline{\mathbf{U} }+\tilde{\mathbf{u} }+\mathbf{u'}  
 ,\end{equation}
-where $\overline{\mathbf{U} }$ is the velocity averaged over time, and space in the $x$ and  $z$ direction, $\tilde{\mathbf{u} }$ is the phase averaged velocity, and $\mathbf{u'} $ is the remaining stochastic turbulent part of the velocity. Unlike the traditional Reynolds decomposition, we have an extra phase dependent term, which is useful for periodic flows such as \gls{ssl} flow. We can adapt the definition given in \cite{baj2015} to our case and define for some phase angle $\gls*{phase}_0=\gls*{phase}(x_0+m \gls*{lm}_x,z_0+n \gls*{lm}_z)$,
+where $\overline{\mathbf{U} }$ is the velocity averaged over time, and space in the $x$ and  $z$ direction, $\tilde{\mathbf{u} }$ is the phase averaged velocity, and $\mathbf{u'} $ is the remaining stochastic turbulent part of the velocity. Unlike the traditional Reynolds decomposition, we have an extra phase dependent term, which is useful for periodic flows such as \gls{ssl} flow. We can adapt the definition given in \cite{baj2015} to our case and define for some phase angle $\gls*{phase}_0=\gls*{phase}\left(x_0+m \gls*{lm}_x,z_0+n \gls*{lm}_z\right)$,
 \begin{equation}
-	\tilde{\mathbf{u} }(y,\gls*{phase}_0):=\lim_{M\to\infty}\lim_{N\to\infty}\frac{1}{M}\frac{1}{N} \sum_{m=1}^{M} \sum_{n=1}^{N} \mathbf{U}(x_0+n \gls*{lm}_x,y,z_0 +m \gls*{lm}_z)-\overline{\mathbf{U} }(y)  
+	\tilde{\mathbf{u} }\left(y,\gls*{phase}_0\right)\equiv\lim_{M\to\infty}\lim_{N\to\infty}\frac{1}{M}\frac{1}{N} \sum_{m=1}^{M} \sum_{n=1}^{N} \mathbf{U}\left(x_0+n \gls*{lm}_x,y,z_0 +m \gls*{lm}_z\right)-\overline{\mathbf{U} }(y)  
 .\end{equation}
 By including this average, we recognise that there will be periodicity in the $x$ component of the flow velocity; we also include periodicity in the $z$ component of the flow velocity since it will be useful for the \gls{ww} flow, and doesn't affect the definition for the \gls{ssl} flow, whose phase average has no $z$ dependence and therefore $\tilde{w}=0$.
 
@@ -71,11 +71,17 @@ With that definition, we can now solve for the phase averaged velocity of the \g
 	y^{+} \pdv{\tilde{w}^{+}}{x^{+}} &= -\pdv{p^{+}}{z^{+}} + \pdv[2]{\tilde{w}^{+}}{\left( y^{+} \right) } \label{eq:blz}\\
 	0 &= \pdv{\tilde{u}^{+}}{x^{+}} +\pdv{\tilde{v}^{+}}{y^{+}} +\pdv{\tilde{w}^{+}}{z^{+}} \label{eq:blc}
 ,\end{align}
-where $\gls*{press}^{+}$ is the non-dimensionalised pressure field. These are the general \gls{bl} equations (also known as \textit{Prandtl \gls{bl} equations}) when linearised around a linear mean profile (i.e. where we let $\overline{U}^{+}=(y^{+},0,0)$).
+where $\gls*{press}^{+}$ is the non-dimensionalised pressure field. These are the general \gls{bl} equations (also known as \textit{Prandtl \gls{bl} equations}) when linearised around a linear mean profile (i.e. where we let $\overline{U}^{+}=\left(y^{+},0,0\right)$).
 
-At the wall, we have $\tilde{u}\ssl\ps\rvert_{y\ps=0}=\tilde{v}\ssl\ps\rvert_{y\ps=0}=0$, and $\tilde{w}\ssl\ps\rvert_{y\ps=0}=\gls*{wht}\ps e^{i \gls*{wnum}_x\ps x\ps}$, where $\gls*{wht}\ps\ssl=A\ps$ is the wall oscillation amplitude, $\gls*{wnum}_x\ps = \frac{2\pi}{\lambda_x\ps}$ is the non-dimensional wavenumber, $i$ is the imaginary unit, the subscript $\gls*{sl}$ denotes that the variable is related to \gls{ssl} flow, and the superscript $+\gls*{sl}$ denotes non-dimensionalisation by the friction velocity specific to the \gls{ssl} flow $u_{\tau,\gls{sl}}=\sqrt{\frac{\tau_{w,\gls*{sl}}}{\gls*{ro}}} $. Although strictly speaking $\tilde{w}\ssl\ps\rvert_{y=0}$ is only the real part of the exponential function (as well as any other phase averaged terms that we prescribe the exponential function for the rest of this report), however analysis is much more easily done using the exponential function and only taking the real part thereof at the very end. Moreover, since the wall is flat, we expect the pressure gradient in all directions to be zero. We also only expect the spanwise periodic fluctuations to be non-zero, therefore $\tilde{u}\ssl=\tilde{v}\ssl=0  $. This means that to solve for $\tilde{w}\ps$ we only need Equation \eqref{eq:blz}.
+(-----------------------------------------------------------Comparison between laminar and turbulent mean fields: Fig 3 Viotti------------------------------------------------)
 
-Finally, we expect the spanwise velocity to vary not only in $x$ (due to the  $x$ dependence of the prescribed spanwise wall forcing), but also in  $y$ as the Stokes layer decreases in strength away from the wall. Therefore, we get $\tilde{w}\ps(x\ps,\check{y}\ps)=\gls*{wht}\ps\ssl\check{w}\ssl\ps e^{ik\ps_x x\ps}$, where we define $y^{+}=(k^{+}_x)^{-1 /3}\gls*{yck}$ in order to simplify or equations later, and $\check{w}\ssl \ps=\check{w}\ssl \ps(\check{y}\ps)$ as the only part of $\tilde{w}\ps$ dependent on $\check{y}\ps$.\glsadd{wck}
+At the wall, we have $\tilde{u}\ssl\ps\rvert_{y\ps=0}=\tilde{v}\ssl\ps\rvert_{y\ps=0}=0$, and $\tilde{w}\ssl\ps\rvert_{y\ps=0}=\gls*{wht}\ps e^{i \gls*{wnum}_x\ps x\ps}$, where $\gls*{wht}\ps\ssl=A\ps$ is the wall oscillation amplitude, $\gls*{wnum}_x\ps = \frac{2\pi}{\lambda_x\ps}$ is the non-dimensional wavenumber, $i$ is the imaginary unit, the subscript $\gls*{sl}$ denotes that the variable is related to \gls{ssl} flow, and the superscript $+\gls*{sl}$ denotes non-dimensionalisation by the friction velocity specific to the \gls{ssl} flow $u_{\tau,\gls{sl}}=\sqrt{\frac{\tau_{w,\gls*{sl}}}{\gls*{ro}}} $, where $\tau_{w,\gls*{sl}}$ is the time, space, and phase averaged wall shear stress of the  \gls{ssl} flow. Although strictly speaking $\tilde{w}\ssl\ps\rvert_{y=0}$ is only the real part of the exponential function (as well as any other phase averaged terms that we prescribe the exponential function for the rest of this report), however analysis is much more easily done using the exponential function and only taking the real part thereof at the very end. Moreover, since the wall is flat, we expect the pressure gradient in all directions to be zero. We also only expect the spanwise periodic fluctuations to be non-zero, therefore $\tilde{u}\ssl=\tilde{v}\ssl=0  $. This means that to solve for $\tilde{w}\ps$ we only need Equation \eqref{eq:blz}.
+
+Finally, we expect the spanwise velocity to vary not only in $x$ (due to the  $x$ dependence of the prescribed spanwise wall forcing), but also in  $y$ as the Stokes layer decreases in strength away from the wall. Therefore, we get
+\begin{equation}
+	\tilde{w}\ps\left(x\ps,\check{y}\ps\right)=\gls*{wht}\ps\ssl\check{w}\ssl\ps e^{ik\ps_x x\ps}\label{eq:wtlddef}
+,\end{equation}
+where we define $y^{+}=\left(k^{+}_x\right)^{-1 /3}\gls*{yck}$ in order to simplify or equations later, and $\check{w}\ssl \ps=\check{w}\ssl \ps(\check{y}\ps)$ as the only part of $\tilde{w}\ps$ dependent on $\check{y}\ps$.\glsadd{wck}
 Therefore Equation \eqref{eq:blz} becomes
 \begin{align}
 	\left( k_x\ps \right) ^{-1 /3} \check{y}\ps \pdv{x\ps}(\hat{W}\ps \check{w}\ps\ssl e^{ik_x\ps x\ps})&= \pdv[2]{\left( (k_x\ps)^{-1 /3}\check{y} \right) }(\hat{W}\ps \check{w}\ps\ssl e^{ik_x\ps x\ps})\nonumber\\
@@ -83,15 +89,14 @@ Therefore Equation \eqref{eq:blz} becomes
 .\end{align}
 We can see that we can solve for $\check{w}\ps\ssl$ with only an \gls{ode}. We know that at the wall $\check{w}\ps\ssl\rvert_{\check{y}\ps=0}=1$, and since this is a Stokes layer, we want $\check{w}\ps\ssl \to 0$ as $\check{y}\ps\to \infty$. This \gls{ode} can either be solved numerically or be described by an Airy function (denoted $\Ai (\cdot)$) as follows,
  \begin{equation}
-	 \check{w}\ps\ssl(\check{y}\ps)= \frac{\Ai(-i \check{y}\ps e ^{-\frac{4}{3}i\pi})}{\Ai(0)}
+	 \check{w}\ps\ssl(\check{y}\ps)= \frac{\Ai\left(-i \check{y}\ps e ^{-\frac{4}{3}i\pi}\right)}{\Ai(0)}\label{eq:wchecksoln}
 ,\end{equation}
 which gives
 \begin{equation}
-	w\ps\ssl = \Re \left[ \gls*{wht}\ps\ssl e^{i k_{x}\ps x}\frac{\Ai(-i \check{y}\ps e ^{-\frac{4}{3}i\pi})}{\Ai(0)}
- \right] 
+	w\ps\ssl = \Re \left[ \gls*{wht}\ps\ssl e^{i k_{x}\ps x}\frac{\Ai\left(-i \check{y}\ps e ^{-\frac{4}{3}i\pi}\right)}{\Ai(0)}\right] 
 .\end{equation}
 
-\subsubsection{Net Power Saved}
+\subsubsection{Net Power Definition}
 Our ultimate goal is of course to find how much energy we might be able to save using \gls{ssl}. We will calculate the net power saved by having \gls{ssl} in both the top and bottom wall of an infinite flat channel (which was what was done in \textcite{viotti2009} such that comparisons can be made with \gls{dns}, which requires a finite domain), compared with a reference channel flow with no movement. We will denote variables relating to the reference flow with a subscript 0, and similar to the \gls{ssl} flow, we will denote non-dimensionalisation by the wall units of the reference flow with the superscript $+0$.
 
 To find this elusive net power saving, we start with conservation of energy in the channel. Thus,
@@ -113,16 +118,129 @@ Moreover, since the flows being considered throughout the rest of the report hav
 \begin{align}
 	\Phi \p &=\int_{0}^{\infty}  \overline{\left( \dv{\overline{U}}{y\p}  \right) ^2}\dd{y\p}+\int_{0}^{\infty}  \overline{\left( \dv{y\p}(\tilde{u},\tilde{w},0)  \right) ^2} \dd{y\p} + \int_{0}^{\infty}  \overline{\left(\dv{\mathbf{u'} }{y\p}\right) ^2} \dd{y\p}\\
 	&=\int_{0}^{\infty}  \overline{\left( \dv{\overline{U}}{y\p}  \right) ^2}\dd{y\p}+\int_{0}^{\infty}  \overline{\left( \dv{\tilde{u}}{y\p}  \right) ^2} \dd{y\p} +\int_{0}^{\infty}  \overline{\left( \dv{\tilde{w}}{y\p}  \right) ^2} \dd{y\p} + \int_{0}^{\infty}  \overline{\left(\dv{\mathbf{u'} }{y\p}\right) ^2} \dd{y\p}\\
-	&= \Phi_{\overline{U}}\p + \Phi _{\tilde{u}}\p + \Phi _{\tilde{w}}\p + \Phi _{\mathbf{u'} }\p
+	&\equiv \Phi_{\overline{U}}\p + \Phi _{\tilde{u}}\p + \Phi _{\tilde{w}}\p + \Phi _{\mathbf{u'} }\p
 .\end{align}
-For the reference flow $\Phi _{0}\pz=\Phi _{\overline{U},0}\pz+\Phi _{\mathbf{u'} ,0}\pz$, whereas for the \gls{ssl} flow $\Phi \ssl\ps=\Phi _{\overline{U},\gls*{sl}}\ps + \Phi _{\tilde{w},\gls*{sl}}\ps + \Phi _{\mathbf{u'},\gls*{sl} }\ps$. Therefore we can call the $\overline{U}$ and $\mathbf{u'} $ portions of dissipation drag, and the extra $\tilde{w}$ portion of dissipation an extra required portion for the \gls{ssl} flow. We define
+For the reference flow $\Phi _{0}\pz=\Phi _{\overline{U},0}\pz+\Phi _{\mathbf{u'} ,0}\pz$, whereas for the \gls{ssl} flow $\Phi \ssl\ps=\Phi _{\overline{U},\gls*{sl}}\ps + \Phi _{\tilde{w},\gls*{sl}}\ps + \Phi _{\mathbf{u'},\gls*{sl} }\ps$. Therefore we can call the $\overline{U}$ and $\mathbf{u'} $ portions of dissipation drag, and the extra $\tilde{w}$ portion of dissipation an extra required portion for the \gls{ssl} flow.
 
-%, we can determine this as a function of the amount of power saved (i.e. the \gls{dr}) and the amount of power used to effect the oscillatory forcing. To begin 
+Let us now define the net power reduction of the \gls{ssl} channel flow as a percentage of the reference channel flow as follows,
+\begin{align}
+	P_\text{net,\gls*{sl}} &\equiv 100\% \frac{ 2\Phi \zz\pz-2\Phi \ssl\pz }{2\Phi \zz\pz} \\
+			       &= 100\% \frac{\Phi _{\overline{U},0}\pz+\Phi _{\mathbf{u'} ,0}\pz-\left(\Phi _{\overline{U},\gls*{sl}}\pz + \Phi _{\tilde{w},\gls*{sl}}\pz + \Phi _{\mathbf{u'},\gls*{sl} }\pz\right)}{\Phi \zz\pz} \\
+			       &= 100\% \frac{\left(\Phi _{\overline{U},0}\pz-\Phi _{\overline{U},\gls*{sl}}\pz\right)+\left(\Phi _{\mathbf{u'} ,0}\pz - \Phi _{\mathbf{u'},\gls*{sl} }\pz\right)}{\Phi \zz\pz}+100\%\frac{\left(0- \Phi _{\tilde{w},\gls*{sl}}\pz\right) }{\Phi \zz\pz} \\
+			       &= 100\% \frac{\Delta\Phi _{\overline{U},\gls*{sl}}\pz+\Delta \Phi _{\mathbf{u'},\gls*{sl} }\pz}{\Phi \zz\pz}+100\%\frac{ \Delta\Phi _{\tilde{w},\gls*{sl}}\pz }{\Phi \zz\pz} \\
+			       &\equiv P_\text{sav,\gls*{sl}} +  P_\text{req,\gls*{sl}} \label{eq:psavpreqsl}
+,\end{align}
+where $P_\text{sav,\gls*{sl}} $ and $P_\text{req,\gls*{sl}} $ are the resulting power saved due to drag reduction and power required to maintain forcing to conteract spanwise velocity gradients respectively; both are expressed as a percentage of the power required to drive the reference flow. The definition here is numerically equivalent to that of \textcite{viotti2009}, which defines them as a function of dimensional units.
+
+\subsubsection{Power Saved from \gls{ssl} Wall Forcing}
+$P_\text{sav,\gls*{sl}} $ was obtained from \gls{dns} results from \textcite{viotti2009}, which was again conducted at $\gls*{ret}=200$ using different forcing wavelengths $\lambda_x\pz$, and forcing amplitudes $\hat{W}\pz\ssl=1,2,6,12$. \textcite{chernyshenko2013} only used data up to $\lambda_x\pz<3000$, which was digitised via the webapp \textit{WebPlotDigitizer}, and fitted $P_\text{sav,\gls*{sl}}$ at each $\hat{W}\pz\ssl$ on a degree 5 polynomial of $\lambda_x\pz$, i.e.
+\begin{align}
+	P_\text{sav,\gls*{sl}} &= f\left(\lambda_x\pz,\hat{W}\pz\ssl\right)\\
+			       &= c_{0,\hat{W}\pz\ssl} + c_{1,\hat{W}\pz\ssl}\lambda_x\pz+c_{2,\hat{W}\pz\ssl}\left(\lambda_x\pz\right)^{2}+c_{3,\hat{W}\pz\ssl}\left(\lambda_x\pz\right)^{3}+c_{4,\hat{W}\pz\ssl}\left(\lambda_x\pz\right)^{4}+c_{5,\hat{W}\pz\ssl}\left(\lambda_x\pz\right)^{5}\label{eq:psavsl}
+,\end{align}
+where the coefficients are given in Table \ref{tab:psavslcoeff}. The data and curvefits thereof are shown in Figure\ref{fig:psavsl}
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{r|llllll}
+		$\hat{W}\pz\ssl$ & $c_0$ & $c_1$ & $c_2$ & $c_3$ & $c_4$ & $c_5$\\
+		\hline
+		1 & \num{1.135} &  \num{0.002929} &  \num{-1.205E-6} &  \num{1.447E-10} &  \num{-1.047E-13} &  \num{2.609E-17}\\
+		2 & \num{-1.856} &  \num{0.03954} &  \num{-5.285E-5} &  \num{3.498E-8} &  \num{-1.127E-11} &  \num{1.328E-15}\\
+		6 & \num{15.25} &  \num{0.04888} &  \num{-4.441E-5} &  \num{1.628E-8} &  \num{-2.845E-12} &  \num{1.938E-16}\\
+		12 & \num{27.90} &  \num{0.03824} &  \num{-2.810E-5} &  \num{8.015E-9} &  \num{-1.082E-12} &  \num{5.535E-17}
+	\end{tabular}
+	\caption[Coefficients of curvefits of $P_\text{sav,\gls*{sl}} $]{Coefficients of curvefits of $P_\text{sav,\gls*{sl}} $ data from \gls{dns} for different forcing wavelength $\lambda_x\pz$ using different forcing amplitudes $\hat{W}\pz\ssl$ by \textcite{viotti2009}}
+	\label{tab:psavslcoeff}
+\end{table}
+
+\begin{figure}[htbp]
+	\centering
+	\def\svgwidth{0.7\textwidth}
+	\import{introduction/fig/}{psavsl.pdf_tex}
+	\caption[$P_\text{sav,\gls*{sl}} $ as a function of wall forcing wavelength $\lambda_x\pz$]{Power saved due to drag reduction in the  \gls{ssl} flow, $P_\text{sav,\gls*{sl}} $, as a function of wall forcing wavelength $\lambda_x\pz$. The curvefits from \textcite{chernyshenko2013} and corresponding data from \textcite{viotti2009} are for forcing amplitudes $\hat{W}\pz\ssl=1,2,6,12$ which are in order from the bottom to top curve. The figure is slightly modified from \cite{chernyshenko2013}.} 
+	\label{fig:psavsl}
+\end{figure}
+
+\subsubsection{Power Required to Drive \gls{ssl} Wall Forcing}
+In order to find $P_\text{req,\gls*{sl}} $, we begin by expressing $\Delta \Phi _{\tilde{w},\gls*{sl}}\pz=-\Phi _{\tilde{w},\gls*{sl}}\pz$ in the wall units of the \gls{ssl} flow. This requires recognising that dissipation per unit area $\Phi $ has the units of power per unit area, which is equivalent to velocity times force per unit area. This means that $\Phi^{+} $ is non-dimensionalised with the relevant $u_\tau \tau_w$. We will use that below to get
+\begin{align}
+	\Phi _{\tilde{w},\gls*{sl}}\pz &= \frac{\Phi _{\tilde{w},\gls*{sl}}}{u_{\tau,\gls*{zer}}\tau_{w,\gls*{zer}}}\\
+	&=  \frac{\Phi _{\tilde{w},\gls*{sl}}}{u_{\tau,\gls*{sl}}\tau_{w,\gls*{sl}}}\frac{u_{\tau,\gls*{sl}}\tau_{w,\gls*{sl}}}{u_{\tau,\gls*{zer}}\tau_{w,\gls*{zer}}}\\
+	&= \Phi _{\tilde{w},\gls*{sl}}\ps \left( \frac{\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}} \right) ^{3 /2}\label{eq:fislconv}
+.\end{align}
+
+Now we will find $\Phi _{\tilde{w},\gls*{sl}}\ps$ by using Equation \eqref{eq:wtlddef} as follows
+\begin{align}
+	\Phi _{\tilde{w},\gls*{sl}}\ps &= \int_{0}^{\infty} \overline{\left( \dv{\tilde{w}\ssl\ps}{y\ps}  \right) ^2} \dd{y\ps}   \\
+				       &= \int_{0}^{\infty} \left( \dv{\overline{\gls*{wht}\ps\ssl\check{w}\ssl\ps e^{ik\ps_x x\ps}}}{\left((k_x\ps)^{-1 /3}\check{y}\ps\right)}  \right) ^2 \dd{\left(\left(k_x\ps\right)^{-1 /3}\check{y}\ps\right)}   \\
+				       &= \left(\gls*{wht}\ps\ssl\right)^2\left(k_x\ps\right)^{1 /3}\int_{0}^{\infty}\frac{1}{2} \left( \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right) ^2 \dd{\check{y}\ps} \label{eq:fislps}
+.\end{align}
+Since $\check{w}\ssl\ps$ is a known function that we found in Equation \eqref{eq:wchecksoln}, it is possible to evaluate the integral numerically. \textcite{chernyshenko2013} gives $\int_{0}^{\infty}  \frac{1}{2} \left( \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right) ^2 \dd{\check{y}\ps} = 0.3157$. For the other two terms, we wish to non-dimensionalise them with \pz units similar to Equation \eqref{eq:fislconv}, as that is the units that are presented in \textcite{viotti2009}, whose data we will use for calculating both $P_\text{net,\gls*{sl}} $ and $P_\text{net,\gls*{wav}} $. Thus,
+\begin{equation}
+	k_x\ps=\frac{2\pi}{\lambda_x\ps}=\frac{2\pi}{\lambda u_{\tau,\gls*{sl}}/\nu}\frac{u_{\tau,\gls*{zer}}/\nu}{u_{\tau,\gls*{zer}}/\nu}=\frac{2\pi}{\lambda_x\pz}\left( \frac{\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}} \right) ^{-1 /2}\label{eq:kxslconv}
+,\end{equation}
+and
+\begin{equation}
+	\hat{W}\ps\ssl=\frac{\hat{W}\ssl}{u_{\tau,\gls*{sl}}}\frac{u_{\tau,\gls*{zer}}}{u_{\tau,\gls*{zer}}}=\hat{W}\ssl\pz\left( \frac{\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}} \right) ^{-1 /2}\label{eq:whtslconv}
+.\end{equation}
+The ratio of wall shear stress is incredibly useful, as by the definition of $P_\text{sav,\gls*{sl}} $, it is equivalent to
+\begin{equation}
+	P_\text{sav,\gls*{sl}}=100\%\frac{\tau_{w,\gls*{zer}}-\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}}\implies \frac{\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}}= 1-\frac{ P_\text{sav,\gls*{sl}} }{100\%} \label{eq:taupsavconv}
+.\end{equation}
+Finally, we know that for the flat plate reference flow the dissipation on one side of the channel is given by	$\Phi \pz\zz = U_b\pz$, where $U_b$ is the bulk velocity (the time and space averaged velocity in the channel) \cite{chernyshenko2013}. Definitionally, the coefficient of friction of a flow based on the bulk velocity is given by $C_f=\frac{\tau_w}{\frac{1}{2}\rho U_b}=\frac{2u_{\tau}}{U_b}=\frac{2}{U_b^{+}}$. Therefore,
+\begin{equation}
+	\Phi\pz\zz=U_b\pz=\sqrt{\frac{2}{C_{f,\gls*{zer}}}} \label{eq:fizero}
+.\end{equation}
+\gls{dns} by \textcite{viotti2009} at $\gls*{ret}=200$ was in good correlation with the estimate $C_{f,\gls*{zer}}=0.0336 \gls*{ret}^{-0.273}$ given by \cite{pope2001}, where $\gls*{ret}$ is the friction Reynolds number, defined using the friction velocity $u_\tau$ and channel half height  $h$ as the characteristic velocity and length respectively. As in \cite{viotti2009,chernyshenko2013}, we will use this estimate.
+Thus, from the definition of $P_\text{req,\gls*{sl}} $ in Equation \eqref{eq:psavpreqsl}, and by using Equations \eqref{eq:fislconv}, \eqref{eq:fislps}, \eqref{eq:kxslconv}, \eqref{eq:whtslconv}, \eqref{eq:taupsavconv}, and \eqref{eq:fizero}, we get
+\begin{align}
+	P_\text{req,\gls*{sl}}&=-100\%\frac{\Phi \pz\ssl}{\Phi \pz\zz}\\
+			      &=-100\%\left( \hat{W}\ssl\pz \right)^2 \sqrt{\frac{C_{f,\gls*{zer}}}{2}} \left( \frac{2\pi}{\lambda_x\ps}\left( 1-\frac{P_\text{sav,\gls*{sl}} }{100\%} \right)  \right) ^{1 /3}  \int_{0}^{\infty}\frac{1}{2} \left( \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right) ^2 \dd{\check{y}\ps}\\
+			      &=-100\%(0.3157)\left( \hat{W}\ssl\pz \right)^2 \sqrt{\frac{C_{f,\gls*{zer}}}{2}} \left( \frac{2\pi}{\lambda_x\ps}\left( 1-\frac{P_\text{sav,\gls*{sl}} }{100\%} \right)  \right) ^{1 /3}\label{eq:preqsl}
+.\end{align}
+
+By inserting $P_\text{sav,\gls*{sl}} $ from Equation \eqref{eq:psavsl} for each $\hat{W}\ssl\pz$ with the corresponding coefficients from Table \ref{tab:psavslcoeff}, we will find $P_\text{req,\gls*{sl}} $. We plot  in Figure \ref{fig:preqsl}
+
+\begin{figure}[htbp]
+	\centering
+	\def\svgwidth{0.7\textwidth}
+	\import{introduction/fig/}{preqsl.pdf_tex}
+	\caption[$P_\text{req,\gls*{sl}} $ as a function of wall forcing wavelength $\lambda_x\pz$]{Power required to drive the forcing in the  \gls{ssl} flow, $P_\text{req,\gls*{sl}} $, as a function of wall forcing wavelength $\lambda_x\pz$ from Equation \eqref{eq:preqsl} at $\hat{W}\pz\ssl=6$ (solid) and $\hat{W}\pz\ssl=12$ (dashed) with corresponding \gls{dns} data from \textcite{viotti2009}. The figure is slightly modified from \cite{chernyshenko2013}.} 
+	\label{fig:preqsl}
+\end{figure}
+
+\subsubsection{\gls{ssl} Final Results}
+By using Equation \eqref{eq:psavpreqsl}, which says $P_\text{net,\gls*{sl}}=P_\text{sav,\gls*{sl}}+P_\text{req,\gls*{sl}} $, the results for $\hat{W}\pz\ssl$ along with its corresponding \gls{dns} data are plotted in Figure \ref{fig:pnet}. Based on these results of \textcite{viotti2009} at their parameters, it can be shown that a maximum net power decrease of 23\% at $\hat{W}\pz\ssl=6$ and at $\lambda_x\pz=1000-1250$.
+
+Other results presented by \textcite{viotti2009}, include the clear modification of the near-wall turbulence compared to the reference case, with much fewer turbulent vortical structures visible based on a $\lambda_2\pz$ quantity introduced by \textcite{jeong1995} that they set at $-0.03$ that we will not discuss here. They also found a reduction of the turbulence intensity (the root-mean-square of turbulent fluctuations). Most importantly for this project, they found that, like other \gls{dr} techniques (such as riblets), ``[t]he \gls{dr} manifests itself through the thickening of the viscous sublayer, which results in the upward shift of the logarithmic portion of the velocity profile'' \cite{viotti2009}. This result will be explored later in this report. (-------------------------------------------section?-------------------------------------------------------------------------)
+
+\begin{figure}[htbp]
+	\centering
+	\def\svgwidth{0.7\textwidth}
+	\import{introduction/fig/}{pnet.pdf_tex}
+	\caption[$P_\text{net} $ for SSL and WW as a function of wall forcing wavelength $\lambda_x\pz$]{Net power reduction $P_\text{net}$ as a function of wall forcing wavelength $\lambda_x\pz$ for \gls{ssl} at $\hat{W}\pz\ssl=6$ (thin-dashes) corresponding \gls{dns} data from \textcite{viotti2009}, and for \gls{ww} at $\hat{W}\pz\ww=2$ (solid) and at $\hat{W}\pz\ww=6$ (thick-dashes). The figure is slightly modified from \cite{chernyshenko2013}.} 
+	\label{fig:pnet}
+\end{figure}
 
 \subsection{The Oblique Wavy Wall (WW)}
 \subsubsection{Description}
-As mentioned in Section \ref{sec:motivation}, \gls{ssl} is
+As mentioned in Section \ref{sec:motivation}, \gls{tsl} and \gls{ssl} are active control strategy, which requires actuators. Several mechanisms are being trialed in laboratories experimentally to effect \gls{tsl} or \gls{ssl} such as dielectric-barrier discharge plasma actuators \cite{choi2011}, azimuthally moving pipe walls \cite{auteri2010}, etc. However, as these actuators have low \gls{trl}, \gls{ssl} was conjectured, analysed, and simulated via \gls{cfd} mainly so that a passive device (most likely via wall roughness) could emulate the flow patterns to affect the \gls{tbl} the same way to reduce drag. In fact, \textcite{viotti2009} mentions a patent for riblets that would oscillate sinusoidally in the streamwise direction \cite{quadrio2008}; the idea has been briefly studied although the positive effects of small amplitudes ``could not be determined outside the uncertainty range'', whilst the larger amplitudes actually reduce the total drag reduction due to increase in pressure drag \cite{kramer2010}. The same authors claimed that a 1.3\% drag reduction was possible \cite{gruneberger2012}  More research should be done on that to better evaluate its viability.
+\glsreset{ww}
 
+In \cite{chernyshenko2013} \citeauthor{chernyshenko2013} proposes instead to use an undulating \gls{ww} placed at an oblique angle to the direction of the flow (Figure \ref{fig:ww}). Since this wavy wall is at an angle to the streamwise direction, it creates a spanwise pressure gradient that accelerates it towards the crests when approaching them and when leaving them. This oscillatory force that the fluid experiences generates alternating spanwise motion \cite{ghebali2017}. An visualisation of the \gls{ssl} forcing and \gls{ww} in Figure \ref{fig:sslwwcomparison} shows that the spanwise oscillation caused 
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.7\linewidth]{introduction/fig/ww.jpg}
+	\caption[Schematic of the oblique wavy wall]{Schematic of the oblique wavy wall from \cite{ghebali2018}. The green arrow represents the flow direction, at an oblique angle $\theta$ to the wavy wall.}
+	\label{fig:ww}
+\end{figure}
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=0.7\linewidth]{introduction/fig/wwssl.jpeg}
+	\caption[Comparison of mean streaklines close to the wall between SSL and WW]{An emulation of the forcing by \gls{ssl} (left) and \gls{ww} (right) showing mean streaklines close to the wall, where the background is coloured according to the norm of the velocity vector.}
+	\label{fig:sslwwcomparison}
+\end{figure}
 %Intro: Motivation, Riblets, and others in general, Lit Review – Stokes Layer Results; SSL+Chernyshenko. Refer to Ghebali DNS. End:Formulation of problem: want to be able to predict drag reduction by WW as f’n of $k_x, k_z$, and What
 
 

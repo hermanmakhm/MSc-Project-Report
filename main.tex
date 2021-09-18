@@ -11,6 +11,7 @@
 \addbibresource{Project.bib}
 \usepackage{csquotes}
 \usepackage{bookmark}
+\DefineBibliographyExtras{british}{\def\finalandcomma{\addcomma}}
 
 \usepackage[justification=centering]{caption}
 %paragraph indentation
@@ -42,6 +43,7 @@
 \newcommand\Rey{\mbox{\textit{Re}}}  % Reynolds number
 \newcommand\Pran{\mbox{\textit{Pr}}} % Prandtl number, cf TeX's \Pr product
 \newcommand\Pen{\mbox{\textit{Pe}}}  % Peclet number
+\usepackage{import}
 \usepackage{cancel}
 \usepackage{graphicx}
 \usepackage{textcomp}
@@ -72,6 +74,20 @@
 	name={\ensuremath{\mbox{\textit{Re}}}},
 	description={Reynolds number, and is equal to $\frac{U L}{\nu}$, a characteristic velocity $U$ multiplied by a characteristic length $L$ divided by kinematic viscosity $\nu$},
 	sort={Re}
+}
+\newglossaryentry{ret}
+{
+	type=notation,
+	name={\ensuremath{\mbox{\textit{Re}}_{\tau}}},
+	description={friction Reynolds number, defined using friction velocity $u_\tau$ and channel half height $h$ as the characteristic velocity and length respectively},
+	sort={Retau}
+}
+\newglossaryentry{hgt}
+{
+	type=notation,
+	name={\ensuremath{h}},
+	description={channel half height},
+	sort={h}
 }
 \newglossaryentry{nu}
 {
@@ -119,7 +135,7 @@
 {
 	type=notation,
 	name={\ensuremath{T}},
-	description={period},
+	description={oscillation period},
 	sort={T}
 }
 \newglossaryentry{tim}
