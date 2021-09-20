@@ -6,7 +6,7 @@
 \usepackage{hyperref}
 \usepackage{multirow}
 \usepackage{enumitem}
-\usepackage[backend=biber,style=numeric-comp,sorting=none]{biblatex}
+\usepackage[backend=biber,style=numeric-comp,sorting=none,maxcitenames=2]{biblatex}
 \usepackage{url}
 \addbibresource{Project.bib}
 \usepackage{csquotes}
@@ -35,11 +35,19 @@
 \newcommand{\p}{\ensuremath{^{+}}}
 \newcommand{\ps}{\ensuremath{^{+\gls*{sl}}}}
 \newcommand{\ssl}{\ensuremath{_{\gls*{sl}}}}
-\newcommand{\pw}{\ensuremath{^{+\gls*{wav}}}}
-\newcommand{\ww}{\ensuremath{_{\gls*{wav}}}}
+\newcommand{\pw}{\ensuremath{^{+\gls*{wv}}}}
+\newcommand{\ww}{\ensuremath{_{\gls*{wv}}}}
 \newcommand{\pz}{\ensuremath{^{+\gls*{zer}}}}
 \newcommand{\zz}{\ensuremath{_{\gls*{zer}}}}
 \newcommand{\Ai}{\operatorname{Ai}}
+\newcommand{\sct}{\textcite{chernyshenko2013}}
+\newcommand{\scc}{\cite{chernyshenko2013}}
+\newcommand{\vqt}{\textcite{viotti2009}}
+\newcommand{\vqc}{\cite{viotti2009}}
+\newcommand{\sgt}{\textcite{ghebali2017}}
+\newcommand{\sgc}{\cite{ghebali2017}}
+\newcommand{\lut}{\textcite{luchini1996}}
+\newcommand{\luc}{\cite{luchini1996}}
 \newcommand\Rey{\mbox{\textit{Re}}}  % Reynolds number
 \newcommand\Pran{\mbox{\textit{Pr}}} % Prandtl number, cf TeX's \Pr product
 \newcommand\Pen{\mbox{\textit{Pe}}}  % Peclet number
@@ -156,9 +164,17 @@
 {
 	type=notation,
 	name={\ensuremath{A}},
-	description={oscillation amplitude of spanwise wall velocity $W_w$},
+	description={oscillation amplitude of spanwise wall velocity $W_w$ (sometimes denoted $A_\text{ssl}$)},
+	sort={A}
+}
+\newglossaryentry{awwall}
+{
+	type=notation,
+	name={\ensuremath{A_w}},
+	description={wavy wall oscillation amplitude (sometimes denoted $\alpha$)},
 	sort={Aw}
 }
+
 \newglossaryentry{diss}
 {
 	type=notation,
@@ -212,22 +228,43 @@
 {
 	type=notation,
 	name={\ensuremath{\mathbf{u'}}},
-	description={fluctuating velocity vector with components $(u',v',w')$},
-	sort={u}
-}
-\newglossaryentry{phase}
-{
-	type=notation,
-	name={\ensuremath{\phi}},
-	description={phase along a wave},
-	sort={zzphi}
+	description={randomly fluctuating velocity vector with components $(u',v',w')$},
+	sort={U5}
 }
 \newglossaryentry{press}
 {
 	type=notation,
 	name={\ensuremath{p}},
-	description={pressure field},
-	sort={pressure}
+	description={pressure field, it is equal to its triple decomposition, which is $\overline{P}+\tilde{p}+p'$},
+	sort={p1}
+}
+\newglossaryentry{mpress}
+{
+	type=notation,
+	name={\ensuremath{\overline{p}}},
+	description={mean pressure},
+	sort={p2}
+}
+\newglossaryentry{ppress}
+{
+	type=notation,
+	name={\ensuremath{\tilde{p}}},
+	description={periodically fluctuating pressure field},
+	sort={p3}
+}
+\newglossaryentry{fpress}
+{
+	type=notation,
+	name={\ensuremath{p'}},
+	description={randomly fluctuating pressure fieldj},
+	sort={p4}
+}
+\newglossaryentry{phase}
+{
+	type=notation,
+	name={\ensuremath{\phi}},
+	description={phase along a wave or phase shift for WW},
+	sort={zzphi}
 }
 \newglossaryentry{sl}
 {
@@ -236,12 +273,12 @@
 	description={denoting the spatial Stokes layer (SSL) flow},
 	sort={s}
 }
-\newglossaryentry{wav}
+\newglossaryentry{wv}
 {
 	type=notation,
-	name={\text{ww}},
-	description={denoting the oblique wavy wall (WW) flow},
-	sort={ww}
+	name={\text{w}},
+	description={denoting the oblique wavy wall (WW) flow (note different from $w$, which denotes the variable is measured at the wall)},
+	sort={w}
 }
 \newglossaryentry{zer}
 {
@@ -285,6 +322,21 @@
 	description={part of phase average velocity in the $z$ direction dependent on  $\check{y}^{+}$},
 	sort={wcheck}
 }
+\newglossaryentry{thet}
+{
+	type=notation,
+	name={\ensuremath{\theta} },
+	description={oblique angle between wavy wall and streamwise direction},
+	sort={zztheta}
+}
+\newglossaryentry{alph}
+{
+	type=notation,
+	name={\ensuremath{\alpha} },
+	description={amplitude of the height of undulations of the wavy wall},
+	sort={zzalpha}
+}
+
 
 \newacronym{tbl}{TBL}{turbulent boundary layer}
 \newacronym{bl}{BL}{boundary layer}
@@ -297,6 +349,7 @@
 \newacronym{ww}{WW}{wavy wall}
 \newacronym{ode}{ODE}{ordinary differential equation}
 \newacronym{pde}{PDE}{partial differential equation}
+\newacronym{rans}{RANS}{Reynolds Averaged Navier-Stokes}
 
 \begin{document}
 \sisetup{range-phrase=--}
@@ -322,7 +375,7 @@ Your abstract goes here. The abstract is a very brief summary of the dissertatio
 
 \input{introduction/introduction.tex}
 %\input{background/background.tex}
-%\input{project/project.tex}
+\input{project/project.tex}
 %\input{evaluation/evaluation.tex}
 \input{conclusion/conclusion.tex}
 %\input{appendix/appendix.tex}

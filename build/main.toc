@@ -21,12 +21,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Power Saved from \gls {ssl} Wall Forcing}{14}{section*.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Power Required to Drive \gls {ssl} Wall Forcing}{15}{section*.15}%
+\contentsline {subsubsection}{Power Required to Drive \gls {ssl} Wall Forcing}{14}{section*.15}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\gls {ssl} Final Results}{16}{section*.17}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}The Oblique Wavy Wall (WW)}{17}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.2}Analysis of The Oblique Wavy Wall (WW)}{17}{subsection.1.2.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Description}{17}{section*.19}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Conclusion}{19}{chapter.2}%
+\contentsline {subsubsection}{Phase Averaged Velocity}{18}{section*.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Matching Spanwise Shear Profile with SSL}{20}{section*.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Net Power Reduction for WW}{21}{section*.25}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}CFD Results of the Wavy Wall (WW)}{24}{subsection.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Problem Formulation}{25}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Project}{26}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}The Spatial Stokes Layer (SSL) Mean Velocity Profile}{26}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Conclusion}{28}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{34}{chapter*.28}%
