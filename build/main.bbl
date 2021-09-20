@@ -34,8 +34,8 @@
       \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explore analysis, reports, news and events about Transport}
@@ -74,8 +74,8 @@
       \strng{authorbibnamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authornamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authorfullhash}{8d2bebb19abb94a0648a7595d952fc1c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{\_eprint: https://doi.org/10.2514/2.2796}
@@ -122,8 +122,8 @@
       \strng{authorbibnamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authornamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authorfullhash}{c9c5a29c29c124de95fa1b6fabde8022}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Third International Mathematical Congress}
@@ -168,8 +168,8 @@
       \strng{authorbibnamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authornamehash}{ed609df4a0b4e66f9f5fadd5dffe2b35}
       \strng{authorfullhash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{13}
@@ -246,8 +246,8 @@
       \strng{authorbibnamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authornamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authorfullhash}{bcab59f1cad1c838b120517bec900e7f}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Turbulent boundary layer control (TBLC) for skin-friction drag reduction is a relatively new technology made possible through the advances in computational-simulation capabilities, which have improved the understanding of the flow structures of turbulence. Advances in micro-electronic technology have enabled the fabrication of active device systems able to manipulating these structures. The combination of simulation, understanding and micro-actuation technologies offers new opportunities to significantly decrease drag, and by doing so, to increase fuel efficiency of future aircraft. The literature review that follows shows that the application of active control turbulent skin-friction drag reduction is considered of prime importance by industry, even though it is still at a low technology readiness level (TRL). This review presents the state of the art of different technologies oriented to the active and passive control for turbulent skin-friction drag reduction and contributes to the improvement of these technologies.}
@@ -309,8 +309,8 @@
       \strng{authornamehash}{7a9658cc07efd5d5d5a5ad9d4c8021cb}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The objective of this study is to explore concepts for active control of turbulent boundary layers leading to skin-friction reduction using the direct numerical simulation technique. Significant drag reduction is achieved when the surface boundary condition is modified to suppress the dynamically significant coherent structures present in the wall region. The drag reduction is accompanied by significant reduction in the intensity of the wall-layer structures and reductions in the magnitude of Reynolds shear stress throughout the flow. The apparent outward shift of turbulence statistics in the controlled flows indicates a displaced virtual origin of the boundary layer and a thickened sublayer. Time sequences of the flow fields show that there are essentially two drag-reduction mechanisms. Firstly, within a short time after the control is applied, drag is reduced mainly by deterring the sweep motion without modifying the primary streamwise vortices above the wall. Consequently, the high-shear-rate regions on the wall are moved to the interior of the channel by the control schemes. Secondly, the active control changes the evolution of the wall vorticity layer by stabilizing and preventing lifting of the spanwise vorticity near the wall, which may suppress a source of new streamwise vortices above the wall.}
@@ -364,8 +364,8 @@
       \strng{authorbibnamehash}{086ae8add5ea2b61448103e607542db2}
       \strng{authornamehash}{91c4cd59b979599f950716f044047222}
       \strng{authorfullhash}{086ae8add5ea2b61448103e607542db2}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper extends the resolvent analysis of McKeon \& Sharma (J. Fluid Mech., vol.~658, 2010, pp. 336–382) to consider flow control techniques that employ linear control laws, focusing on opposition control (Choi, Moin \& Kim, J. Fluid Mech., vol.~262, 1994, pp. 75–110) as an example. Under this formulation, the velocity field for turbulent pipe flow is decomposed into a series of highly amplified (rank-1) response modes, identified from a gain analysis of the Fourier-transformed Navier–Stokes equations. These rank-1 velocity responses represent propagating structures of given streamwise/spanwise wavelength and temporal frequency, whose wall-normal footprint depends on the phase speed of the mode. Opposition control, introduced via the boundary condition on wall-normal velocity, affects the amplification characteristics (and wall-normal structure) of these response modes; a decrease in gain indicates mode suppression, which leads to a decrease in the drag contribution from that mode. With basic assumptions, this rank-1 model reproduces trends observed in previous direct numerical simulation and large eddy simulation, without requiring high-performance computing facilities. Further, a wavenumber–frequency breakdown of control explains the deterioration of opposition control performance with increasing sensor elevation and Reynolds number. It is shown that slower-moving modes localized near the wall (i.e.~attached modes) are suppressed by opposition control. Faster-moving detached modes, which are more energetic at higher Reynolds number and more likely to be detected by sensors far from the wall, are further amplified. These faster-moving modes require a phase lag between sensor and actuator velocity for suppression. Thus, the effectiveness of opposition control is determined by a trade-off between the modes detected by the sensor. However, it may be possible to develop control strategies optimized for individual modes. A brief exploration of such mode-optimized control suggests the potential for significant performance improvement.}
@@ -424,8 +424,8 @@
       \strng{authorbibnamehash}{7686bae2563cd62f84fb300369868ca5}
       \strng{authornamehash}{f1e2dd49a50511b6b74a225d25fd59b8}
       \strng{authorfullhash}{7686bae2563cd62f84fb300369868ca5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -484,8 +484,8 @@
       \strng{authornamehash}{6554c2dc632c2ef534519926ece4cb09}
       \strng{authorfullhash}{55897cddbe5e19a72e600954ebc5770e}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -541,8 +541,8 @@
       \strng{authorbibnamehash}{7c21d58e943eb193da96b1de9b3efe4d}
       \strng{authornamehash}{77d0072d78da2711e93b06a580d90b56}
       \strng{authorfullhash}{7c21d58e943eb193da96b1de9b3efe4d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1070-6631, 1089-7666}
@@ -1056,8 +1056,8 @@
       \strng{authorbibnamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authornamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authorfullhash}{f7299e038368868d15e7b1a318c52667}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present an experimental study of a low-Reynolds number shear flow between two surfaces, one of which has a regular grooved texture augmented with a superhydrophobic coating. The combination reduces the effective fluid-surface contact area, thereby appreciably decreasing the drag on the surface and effectively changing the macroscopic boundary condition on the surface from no slip to limited slip. We measure the force on the surface and the velocity field in the immediate vicinity on the surface (and thus the wall shear) simultaneously. The latter facilitates a direct assessment of the effective slip length associated with the drag reduction.}
@@ -1106,8 +1106,8 @@
       \strng{authorbibnamehash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
       \strng{authornamehash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
       \strng{authorfullhash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{\_eprint: https://doi.org/10.2514/3.60126}
@@ -1165,8 +1165,8 @@
       \strng{authornamehash}{7a9658cc07efd5d5d5a5ad9d4c8021cb}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Direct numerical simulations of turbulent flows over riblet-mounted surfaces are performed to educe the mechanism of drag reduction by riblets. The computed drag on the riblet surfaces is in good agreement with the existing experimental data. The mean-velocity profiles show upward and downward shifts in the log–law for drag-decreasing and drag-increasing cases, respectively. Turbulence statistics above the riblets are computed and compared with those above a flat plate. Differences in the mean-velocity profile and turbulence quantities are found to be limited to the inner region of the boundary layer. Velocity and vorticity fluctuations as well as the Reynolds shear stresses above the riblets are reduced in drag-reducing configurations. Quadrant analysis indicates that riblets mitigate the positive Reynolds-shear-stress-producing events in drag-reducing configurations. From examination of the instantaneous flow fields, a drag reduction mechanism by riblets is proposed: riblets with small spacings reduce viscous drag by restricting the location of the streamwise vortices above the wetted surface such that only a limited area of the riblets is exposed to the downwash of high-speed fluid that the vortices induce.}
@@ -1219,8 +1219,8 @@
       \strng{authorbibnamehash}{c3f23c05e0ceaca5b1c98e6ec4002270}
       \strng{authornamehash}{c3f23c05e0ceaca5b1c98e6ec4002270}
       \strng{authorfullhash}{c3f23c05e0ceaca5b1c98e6ec4002270}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The interaction of the overlying turbulent flow with riblets, and its impact on their drag reduction properties are analysed. In the so-called viscous regime of vanishing riblet spacing, the drag reduction is proportional to the riblet size, but for larger riblets the proportionality breaks down, and the drag reduction eventually becomes an increase. It is found that the groove cross section A+g is a better characterization of this breakdown than the riblet spacing, with an optimum . It is also found that the breakdown is not associated with the lodging of quasi-streamwise vortices inside the riblet grooves, or with the inapplicability of the Stokes hypothesis to the flow along the grooves, but with the appearance of quasi-two-dimensional spanwise vortices below y+{$\approx$}30, with typical streamwise wavelengths . They are connected with a Kelvin–Helmholtz-like instability of the mean velocity profile, also found in flows over plant canopies and other surfaces with transpiration. A simplified stability model for the ribbed surface approximately accounts for the scaling of the viscous breakdown with~A+g.}
@@ -1596,6 +1596,7 @@
       \strng{authorbibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
       \strng{authornamehash}{0a26cca89a601c477ee609ea21c0c5cb}
       \strng{authorfullhash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -1942,8 +1943,8 @@
       \strng{authorbibnamehash}{e20729737572ebb1b43dc018ca831aa9}
       \strng{authornamehash}{e20729737572ebb1b43dc018ca831aa9}
       \strng{authorfullhash}{e20729737572ebb1b43dc018ca831aa9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1469-7645, 0022-1120}
@@ -2691,6 +2692,60 @@
       \verb https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=2723803
       \endverb
       \keyw{Actionneur,Agent surface,Article synthèse,Ecoulement turbulent,Frottement superficiel,Nervure,Paroi mobile,Polymère,Réduction traînée,Système commande}
+    \endentry
+    \entry{chernyshenko2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0a26cca89a601c477ee609ea21c0c5cb}{%
+           family={Chernyshenko},
+           familyi={C\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{fullhash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{bibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{authorbibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{authornamehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{authorfullhash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The QSQH theory is extended to all three velocity components taking into account the fluctuations of the direction of the large-scale component of the wall friction. This effect is found to be significant. It explains the large sensitivity of the fluctuations of longitudinal and spanwise velocities to variations in the Reynolds number in comparison with the sensitivity of the mean velocity, the Reynolds stress, and the wall-normal velocity fluctuations. The analysis shows that the variation of the longitudinal velocity fluctuations with the Reynolds number is dominated by the variation of the amplitude and wall-normal-scale modulation of the universal mean velocity profile by the outer, large-scale, Reynolds-number-dependent motions. The variation of spanwise velocity fluctuations is dominated by the fluctuations of the direction of the large-scale component of the wall friction. The Reynolds number dependence of the other second moments is not dominated by these mechanisms because the mean wall-normal velocity and the mean spanwise velocity are zero. Explicit relationships between the differences in the second moments of velocity in any two high-Reynolds-number near-wall flows were derived. The comparisons gave a satisfactory agreement for the root-mean square of the wall-parallel velocity components in the range of the distances from the wall where modulation by large-scale motions dominates. Relationships between the differences of the constants of the logarithmic law, the shape of the mean velocity profile, and the differences of the second moments of velocity caused by the differences in large-scale motions were derived and estimated quantitatively.}
+      \field{day}{10}
+      \field{eprinttype}{arxiv}
+      \field{issn}{0022-1120, 1469-7645}
+      \field{journaltitle}{Journal of Fluid Mechanics}
+      \field{month}{6}
+      \field{shortjournal}{J. Fluid Mech.}
+      \field{title}{Extension of {{QSQH}} Theory of Scale Interaction in Near-Wall Turbulence to All Velocity Components}
+      \field{urlday}{20}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{version}{2}
+      \field{volume}{916}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{A52}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1017/jfm.2021.180
+      \endverb
+      \verb{eprint}
+      \verb 2002.05585
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\WWDSZBVP\\Chernyshenko - 2021 - Extension of QSQH theory of scale interaction in n.pdf;C\:\\Users\\Herman\\Zotero\\storage\\M24PW4AD\\2002.html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2002.05585
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2002.05585
+      \endverb
+      \keyw{Physics - Fluid Dynamics}
     \endentry
   \enddatalist
 \endrefsection

@@ -12,6 +12,17 @@
 \usepackage{csquotes}
 \usepackage{bookmark}
 \DefineBibliographyExtras{british}{\def\finalandcomma{\addcomma}}
+\renewbibmacro*{doi+eprint+url}{%
+    \printfield{doi}%
+    \newunit\newblock%
+    \iftoggle{bbx:eprint}{%
+        \usebibmacro{eprint}%
+    }{}%
+    \newunit\newblock%
+    \iffieldundef{doi}{%
+        \usebibmacro{url+urldate}}%
+        {}%
+    }
 
 \usepackage[justification=centering]{caption}
 %paragraph indentation
@@ -65,6 +76,9 @@
 \definecolor{mylilas}{RGB}{170,55,241}
 \usepackage[toc,acronyms,nomain,nonumberlist]{glossaries}
 \newglossary[nlg]{notation}{not}{ntn}{Notation}
+\usepackage{etoolbox}
+\patchcmd{\abstract}{\titlepage}{}{}{}
+\patchcmd{\endabstract}{\endtitlepage}{}{}
 
 %% Sets page size and margins
 \usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=2cm]{geometry}
@@ -356,6 +370,7 @@
 \sisetup{range-units=single}
 \input{title/title.tex}
 
+\begin{titlepage}
 \begin{abstract}
 Your abstract goes here. The abstract is a very brief summary of the dissertation's contents. It should be about half a page long. Somebody unfamiliar with your project should have a good idea of what it's about having read the abstract alone and will know whether it will be of interest to them.
 \end{abstract}
@@ -364,12 +379,14 @@ Your abstract goes here. The abstract is a very brief summary of the dissertatio
 \begin{abstract}
 	It is usual to thank those individuals who have provided particularly useful assistance, technical or otherwise, during your project.
 \end{abstract}
+\end{titlepage}
 
 \tableofcontents
 \listoffigures
 %\listoftables
 
 %\clearpage
+
 \glsaddall
 \printnoidxglossaries
 

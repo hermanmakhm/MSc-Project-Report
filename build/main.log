@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  20 SEP 2021 04:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.14)  20 SEP 2021 05:39
 entering extended mode
 **./main.tex
 (main.tex
@@ -624,7 +624,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen171
 \@vwid@roff=\dimen172
 ))
-Package hyperref Info: Option `colorlinks' set `false' on input line 27.
+Package hyperref Info: Option `colorlinks' set `false' on input line 38.
 
 (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.st
 y
@@ -1350,26 +1350,26 @@ Package csquotes Info: Redefining alias 'default' -> 'british'.
 t\MSc Project Report\build\main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 354.
-LaTeX Font Info:    ... okay on input line 354.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 368.
+LaTeX Font Info:    ... okay on input line 368.
 \c@lstlisting=\count506
-Package hyperref Info: Link coloring OFF on input line 354.
+Package hyperref Info: Link coloring OFF on input line 368.
 
 (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1383,9 +1383,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count507
 )
-LaTeX Info: Redefining \ref on input line 354.
-LaTeX Info: Redefining \pageref on input line 354.
-LaTeX Info: Redefining \nameref on input line 354.
+LaTeX Info: Redefining \ref on input line 368.
+LaTeX Info: Redefining \pageref on input line 368.
+LaTeX Info: Redefining \nameref on input line 368.
 Package biblatex Info: Trying to load language 'british'...
 Package biblatex Info: ... file 'british.lbx' found.
 
@@ -1419,8 +1419,8 @@ Package biblatex Info: ... file 'main.bbl' found.
 
 (C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
 t\MSc Project Report\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 354.
-Package biblatex Info: Reference segment=0 on input line 354.
+Package biblatex Info: Reference section=0 on input line 368.
+Package biblatex Info: Reference segment=0 on input line 368.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1514,13 +1514,8 @@ ng>])pdfTeX warning (ext4): destination with the same identifier (name{page.1})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.361 \end{abstract}
-                     [1]pdfTeX warning (ext4): destination with the same identi
-fier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.366 \end{abstract}
-                     [1]
+l.382 \end{titlepage}
+                      [1]
 (C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
 t\MSc Project Report\build\main.toc)
 \tf@toc=\write5
@@ -1557,93 +1552,93 @@ Underfull \vbox (badness 3758) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-<introduction/fig/riblets.jpeg, id=247, 698.61pt x 331.99031pt>
+<introduction/fig/riblets.jpeg, id=242, 698.61pt x 331.99031pt>
 File: introduction/fig/riblets.jpeg Graphic file (type jpg)
 <use introduction/fig/riblets.jpeg>
 Package pdftex.def Info: introduction/fig/riblets.jpeg  used on input line 18.
 (pdftex.def)             Requested size: 213.39568pt x 101.40633pt.
 
 [9 <./introduction/fig/riblets.jpeg>]
-<introduction/fig/ssl.png, id=284, 907.39pt x 590.205pt>
+<introduction/fig/ssl.png, id=279, 907.39pt x 590.205pt>
 File: introduction/fig/ssl.png Graphic file (type png)
 <use introduction/fig/ssl.png>
 Package pdftex.def Info: introduction/fig/ssl.png  used on input line 51.
 (pdftex.def)             Requested size: 213.39568pt x 138.79726pt.
  [10 <./introduction/fig/ssl.png>]
 [11] [12] [13] (introduction/fig/psavsl.pdf_tex
-<introduction/fig//psavsl.pdf, id=382, page=1, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=377, page=1, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 1>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page1 used on input lin
 e 56.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=383, page=2, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=378, page=2, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 2>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page2 used on input lin
 e 58.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=384, page=3, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=379, page=3, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 3>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page3 used on input lin
 e 60.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=385, page=4, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=380, page=4, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 4>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page4 used on input lin
 e 62.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=386, page=5, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=381, page=5, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 5>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page5 used on input lin
 e 64.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=387, page=6, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=382, page=6, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 6>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page6 used on input lin
 e 66.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=388, page=7, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=383, page=7, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 7>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page7 used on input lin
 e 68.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=389, page=8, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=384, page=8, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 8>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page8 used on input lin
 e 70.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=390, page=9, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=385, page=9, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 9>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page9 used on input lin
 e 72.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=391, page=10, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=386, page=10, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 10>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page10 used on input li
 ne 74.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=392, page=11, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=387, page=11, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 11>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page11 used on input li
 ne 76.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=393, page=12, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=388, page=12, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 12>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page12 used on input li
 ne 78.
 (pdftex.def)             Requested size: 298.75264pt x 199.28209pt.
-<introduction/fig//psavsl.pdf, id=394, page=13, 375.27728pt x 250.31017pt>
+<introduction/fig//psavsl.pdf, id=389, page=13, 375.27728pt x 250.31017pt>
 File: introduction/fig//psavsl.pdf Graphic file (type pdf)
 <use introduction/fig//psavsl.pdf, page 13>
 Package pdftex.def Info: introduction/fig//psavsl.pdf , page13 used on input li
@@ -1702,79 +1697,79 @@ multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./introduction/fig//psavsl.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >] (introduction/fig/preqsl.pdf_tex
-<introduction/fig//preqsl.pdf, id=465, page=1, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=460, page=1, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 1>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page1 used on input lin
 e 56.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=466, page=2, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=461, page=2, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 2>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page2 used on input lin
 e 58.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=467, page=3, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=462, page=3, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 3>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page3 used on input lin
 e 60.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=468, page=4, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=463, page=4, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 4>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page4 used on input lin
 e 62.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=469, page=5, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=464, page=5, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 5>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page5 used on input lin
 e 64.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=470, page=6, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=465, page=6, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 6>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page6 used on input lin
 e 66.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=471, page=7, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=466, page=7, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 7>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page7 used on input lin
 e 68.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=472, page=8, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=467, page=8, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 8>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page8 used on input lin
 e 70.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=473, page=9, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=468, page=9, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 9>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page9 used on input lin
 e 73.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=474, page=10, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=469, page=10, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 10>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page10 used on input li
 ne 76.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=475, page=11, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=470, page=11, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 11>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page11 used on input li
 ne 79.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=476, page=12, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=471, page=12, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 12>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page12 used on input li
 ne 82.
 (pdftex.def)             Requested size: 298.75264pt x 186.42764pt.
-<introduction/fig//preqsl.pdf, id=477, page=13, 384.31721pt x 239.82242pt>
+<introduction/fig//preqsl.pdf, id=472, page=13, 384.31721pt x 239.82242pt>
 File: introduction/fig//preqsl.pdf Graphic file (type pdf)
 <use introduction/fig//preqsl.pdf, page 13>
 Package pdftex.def Info: introduction/fig//preqsl.pdf , page13 used on input li
@@ -1829,73 +1824,73 @@ multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./introduction/fig//preqsl.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >] (introduction/fig/pnet.pdf_tex
-<introduction/fig//pnet.pdf, id=528, page=1, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=523, page=1, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 1>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page1 used on input line 
 56.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=529, page=2, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=524, page=2, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 2>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page2 used on input line 
 58.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=530, page=3, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=525, page=3, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 3>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page3 used on input line 
 60.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=531, page=4, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=526, page=4, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 4>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page4 used on input line 
 62.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=532, page=5, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=527, page=5, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 5>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page5 used on input line 
 64.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=533, page=6, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=528, page=6, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 6>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page6 used on input line 
 66.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=534, page=7, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=529, page=7, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 7>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page7 used on input line 
 69.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=535, page=8, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=530, page=8, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 8>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page8 used on input line 
 72.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=536, page=9, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=531, page=9, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 9>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page9 used on input line 
 75.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=537, page=10, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=532, page=10, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 10>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page10 used on input line
  77.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=538, page=11, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=533, page=11, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 11>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page11 used on input line
  79.
 (pdftex.def)             Requested size: 298.75264pt x 190.77135pt.
-<introduction/fig//pnet.pdf, id=539, page=12, 375.58562pt x 239.82242pt>
+<introduction/fig//pnet.pdf, id=534, page=12, 375.58562pt x 239.82242pt>
 File: introduction/fig//pnet.pdf Graphic file (type pdf)
 <use introduction/fig//pnet.pdf, page 12>
 Package pdftex.def Info: introduction/fig//pnet.pdf , page12 used on input line
@@ -1946,454 +1941,454 @@ ltiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./introduction/fig//pnet.pdf): PDF inclusion: mu
 ltiple pdfs with page group included in a single page
 >]
-<introduction/fig/ww.jpg, id=612, 935.74594pt x 363.60844pt>
+<introduction/fig/ww.jpg, id=606, 935.74594pt x 363.60844pt>
 File: introduction/fig/ww.jpg Graphic file (type jpg)
 <use introduction/fig/ww.jpg>
 Package pdftex.def Info: introduction/fig/ww.jpg  used on input line 236.
 (pdftex.def)             Requested size: 298.75264pt x 116.09076pt.
-<introduction/fig/wwssl.jpeg, id=615, 168.63pt x 65.88615pt>
+<introduction/fig/wwssl.jpeg, id=609, 168.63pt x 65.88615pt>
 File: introduction/fig/wwssl.jpeg Graphic file (type jpg)
 <use introduction/fig/wwssl.jpeg>
 Package pdftex.def Info: introduction/fig/wwssl.jpeg  used on input line 242.
 (pdftex.def)             Requested size: 384.1096pt x 150.08018pt.
  [18 <./introduction/fig/ww.jpg> <./introduction/fig/wwssl.jpeg>] [19]
 [20] (introduction/fig/spanshear/spanshearmatch.pdf_tex
-<introduction/fig/spanshear//spanshearmatch.pdf, id=697, page=1, 1622.11832pt x
+<introduction/fig/spanshear//spanshearmatch.pdf, id=692, page=1, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 1>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
  used on input line 56.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=698, page=2, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=693, page=2, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 2>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
  used on input line 59.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=699, page=3, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=694, page=3, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 3>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page3
  used on input line 61.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=700, page=4, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=695, page=4, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 4>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page4
  used on input line 63.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=701, page=5, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=696, page=5, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 5>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page5
  used on input line 65.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=702, page=6, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=697, page=6, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 6>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page6
  used on input line 67.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=703, page=7, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=698, page=7, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 7>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page7
  used on input line 70.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=704, page=8, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=699, page=8, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 8>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page8
  used on input line 72.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=705, page=9, 1622.11832pt x
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=700, page=9, 1622.11832pt x
  495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 9>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page9
  used on input line 74.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=706, page=10, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=701, page=10, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 10>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 0 used on input line 76.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=707, page=11, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=702, page=11, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 11>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 1 used on input line 78.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=708, page=12, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=703, page=12, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 12>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 2 used on input line 81.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=709, page=13, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=704, page=13, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 13>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 3 used on input line 83.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=710, page=14, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=705, page=14, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 14>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 4 used on input line 85.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=711, page=15, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=706, page=15, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 15>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 5 used on input line 87.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=712, page=16, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=707, page=16, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 16>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 6 used on input line 89.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=713, page=17, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=708, page=17, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 17>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 7 used on input line 92.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=714, page=18, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=709, page=18, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 18>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 8 used on input line 94.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=715, page=19, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=710, page=19, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 19>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page1
 9 used on input line 96.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=716, page=20, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=711, page=20, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 20>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 0 used on input line 98.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=717, page=21, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=712, page=21, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 21>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 1 used on input line 100.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=718, page=22, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=713, page=22, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 22>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 2 used on input line 103.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=719, page=23, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=714, page=23, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 23>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 3 used on input line 105.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=720, page=24, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=715, page=24, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 24>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 4 used on input line 107.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=721, page=25, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=716, page=25, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 25>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 5 used on input line 109.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=722, page=26, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=717, page=26, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 26>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 6 used on input line 111.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=723, page=27, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=718, page=27, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 27>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 7 used on input line 114.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=724, page=28, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=719, page=28, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 28>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 8 used on input line 116.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=725, page=29, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=720, page=29, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 29>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page2
 9 used on input line 118.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=726, page=30, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=721, page=30, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 30>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page3
 0 used on input line 120.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
-<introduction/fig/spanshear//spanshearmatch.pdf, id=727, page=31, 1622.11832pt 
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
+<introduction/fig/spanshear//spanshearmatch.pdf, id=722, page=31, 1622.11832pt 
 x 495.82686pt>
 File: introduction/fig/spanshear//spanshearmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanshear//spanshearmatch.pdf, page 31>
 Package pdftex.def Info: introduction/fig/spanshear//spanshearmatch.pdf , page3
 1 used on input line 122.
-(pdftex.def)             Requested size: 405.45047pt x 123.9337pt.
+(pdftex.def)             Requested size: 384.1096pt x 117.40451pt.
 )
 (introduction/fig/spanvel/spanvelmatch.pdf_tex
-<introduction/fig/spanvel//spanvelmatch.pdf, id=728, page=1, 1621.08199pt x 495
+<introduction/fig/spanvel//spanvelmatch.pdf, id=723, page=1, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 1>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page1 use
 d on input line 56.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=729, page=2, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=724, page=2, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 2>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page2 use
 d on input line 59.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=730, page=3, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=725, page=3, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 3>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page3 use
 d on input line 61.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=731, page=4, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=726, page=4, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 4>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page4 use
 d on input line 63.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=732, page=5, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=727, page=5, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 5>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page5 use
 d on input line 65.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=733, page=6, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=728, page=6, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 6>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page6 use
 d on input line 67.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=734, page=7, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=729, page=7, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 7>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page7 use
 d on input line 70.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=735, page=8, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=730, page=8, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 8>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page8 use
 d on input line 72.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=736, page=9, 1621.08199pt x 495
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=731, page=9, 1621.08199pt x 495
 .89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 9>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page9 use
 d on input line 74.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=737, page=10, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=732, page=10, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 10>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page10 us
 ed on input line 76.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=738, page=11, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=733, page=11, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 11>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page11 us
 ed on input line 78.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=739, page=12, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=734, page=12, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 12>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page12 us
 ed on input line 81.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=740, page=13, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=735, page=13, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 13>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page13 us
 ed on input line 83.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=741, page=14, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=736, page=14, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 14>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page14 us
 ed on input line 85.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=742, page=15, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=737, page=15, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 15>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page15 us
 ed on input line 87.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=743, page=16, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=738, page=16, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 16>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page16 us
 ed on input line 89.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=744, page=17, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=739, page=17, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 17>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page17 us
 ed on input line 92.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=745, page=18, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=740, page=18, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 18>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page18 us
 ed on input line 94.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=746, page=19, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=741, page=19, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 19>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page19 us
 ed on input line 96.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=747, page=20, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=742, page=20, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 20>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page20 us
 ed on input line 98.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=748, page=21, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=743, page=21, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 21>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page21 us
 ed on input line 100.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=749, page=22, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=744, page=22, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 22>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page22 us
 ed on input line 103.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=750, page=23, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=745, page=23, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 23>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page23 us
 ed on input line 105.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=751, page=24, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=746, page=24, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 24>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page24 us
 ed on input line 107.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=752, page=25, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=747, page=25, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 25>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page25 us
 ed on input line 109.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=753, page=26, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=748, page=26, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 26>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page26 us
 ed on input line 111.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=754, page=27, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=749, page=27, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 27>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page27 us
 ed on input line 114.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=755, page=28, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=750, page=28, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 28>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page28 us
 ed on input line 116.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=756, page=29, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=751, page=29, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 29>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page29 us
 ed on input line 118.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=757, page=30, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=752, page=30, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 30>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page30 us
 ed on input line 120.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
-<introduction/fig/spanvel//spanvelmatch.pdf, id=758, page=31, 1621.08199pt x 49
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
+<introduction/fig/spanvel//spanvelmatch.pdf, id=753, page=31, 1621.08199pt x 49
 5.89395pt>
 File: introduction/fig/spanvel//spanvelmatch.pdf Graphic file (type pdf)
 <use introduction/fig/spanvel//spanvelmatch.pdf, page 31>
 Package pdftex.def Info: introduction/fig/spanvel//spanvelmatch.pdf , page31 us
 ed on input line 122.
-(pdftex.def)             Requested size: 405.45047pt x 124.02614pt.
+(pdftex.def)             Requested size: 384.1096pt x 117.49606pt.
 ) [21] [22 <./introduction/fig/spanshear//spanshearmatch.pdf> <./introduction/f
 ig/spanshear//spanshearmatch.pdf
 
@@ -2645,44 +2640,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [24])
 (project/project.tex [25]
 Chapter 2.
-<project/fig/sslmeanprofile.png, id=923, 1294.8375pt x 969.6225pt>
+<project/fig/sslmeanprofile.png, id=919, 1294.8375pt x 969.6225pt>
 File: project/fig/sslmeanprofile.png Graphic file (type png)
 <use project/fig/sslmeanprofile.png>
 Package pdftex.def Info: project/fig/sslmeanprofile.png  used on input line 7.
 (pdftex.def)             Requested size: 213.39568pt x 159.78847pt.
-<project/fig/sslmeanprofilelin.png, id=932, 361.35pt x 271.0125pt>
+
+Underfull \vbox (badness 1354) has occurred while \output is active []
+
+ [26
+
+ <./project/fig/sslmeanprofile.png>]
+<project/fig/sslmeanprofilelin.png, id=943, 361.35pt x 271.0125pt>
 File: project/fig/sslmeanprofilelin.png Graphic file (type png)
 <use project/fig/sslmeanprofilelin.png>
 Package pdftex.def Info: project/fig/sslmeanprofilelin.png  used on input line 
-18.
+24.
 (pdftex.def)             Requested size: 206.99406pt x 155.24374pt.
-<project/fig/sslmeanprofileest.png, id=933, 361.35pt x 271.0125pt>
+<project/fig/sslmeanprofileest.png, id=944, 361.35pt x 271.0125pt>
 File: project/fig/sslmeanprofileest.png Graphic file (type png)
 <use project/fig/sslmeanprofileest.png>
 Package pdftex.def Info: project/fig/sslmeanprofileest.png  used on input line 
-21.
+27.
 (pdftex.def)             Requested size: 206.99406pt x 155.24374pt.
-) (conclusion/conclusion.tex [26
-
- <./project/fig/sslmeanprofile.png>] [27 <./project/fig/sslmeanprofilelin.png> 
-<./project/fig/sslmeanprofileest.png>]
+<project/fig/sslmeandiff.png, id=951, 361.35pt x 271.0125pt>
+File: project/fig/sslmeandiff.png Graphic file (type png)
+<use project/fig/sslmeandiff.png>
+Package pdftex.def Info: project/fig/sslmeandiff.png  used on input line 34.
+(pdftex.def)             Requested size: 206.99406pt x 155.24374pt.
+) (conclusion/conclusion.tex [27 <./project/fig/sslmeanprofilelin.png> <./proje
+ct/fig/sslmeanprofileest.png>] [28 <./project/fig/sslmeandiff.png>]
 Chapter 3.
-) [28
-
-]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-83.
- (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [29
 
-] [30] [31] [32] [33]
-Overfull \hbox (21.60196pt too wide) in paragraph at lines 384--384
-\T1/cmtt/m/n/10 boundary -[] layer -[] with -[] riblets / 70DC944A25CFA3CEB6BFC
-DD7ACE83F22$[] \T1/cmr/m/n/10 (vis-ited on 20/09/2021). 
- []
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
+00.
+ (C:\Users\Herman\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [30
 
-[34]
+] [31] [32] [33] [34]
 (C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Projec
 t\MSc Project Report\build\main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -2690,13 +2688,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46105 strings out of 478927
- 907485 string characters out of 2852061
- 1677869 words of memory out of 3000000
- 62967 multiletter control sequences out of 15000+600000
+ 46119 strings out of 478927
+ 907873 string characters out of 2852061
+ 1678047 words of memory out of 3000000
+ 62977 multiletter control sequences out of 15000+600000
  421793 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,19n,97p,4077b,3215s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,19n,97p,4077b,2325s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-su
 per-t1.enc}{C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-su
 per/cm-super-ts1.enc}<C:/Users/Herman/AppData/Local/Programs/MiKTeX/fonts/type1
@@ -2735,10 +2733,10 @@ grams/MiKTeX/fonts/type1/public/cm-super/sfti1000.pfb><C:/Users/Herman/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfti1200.pfb><C:/Users/Herman
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftt1000.pfb>
 Output written on "C:\Users\Herman\OneDrive - Imperial College London\Documents
-\School\MSc\Project\MSc Project Report\build\main.pdf" (36 pages, 1491000 bytes
+\School\MSc\Project\MSc Project Report\build\main.pdf" (35 pages, 1485345 bytes
 ).
 PDF statistics:
- 1334 PDF objects out of 1440 (max. 8388607)
- 241 named destinations out of 1000 (max. 500000)
- 657 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1280 PDF objects out of 1440 (max. 8388607)
+ 244 named destinations out of 1000 (max. 500000)
+ 662 words of extra memory for PDF output out of 10000 (max. 10000000)
 

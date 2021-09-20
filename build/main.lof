@@ -27,10 +27,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Streamwise mean velocity profiles of SSL and reference flow}}{26}{figure.caption.26}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Both plots show data on the mean streamwise velocity profiles of \gls {ssl} (orange-circle) and the reference flow (blue-triangles) were digitised from \textcite {viotti2009} and plotted on a linear scale, as well as $\overline {U}^+=y^+$ (solid-line). \relax }}{27}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Mean streamwise velocity profiles of SSL and reference flows, and analytical approximations thereof}}{27}{figure.caption.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Curve fit.}}}{27}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Curve fits.}}}{27}{figure.caption.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Estimated Logarithmic profiles.}}}{27}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Estimated logarithmic profiles.}}}{27}{figure.caption.27}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Mean streamwise shear profile squared of SSL and reference flows}}{28}{figure.caption.28}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
