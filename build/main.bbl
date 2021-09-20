@@ -19,6 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{chernyshenko2013}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0a26cca89a601c477ee609ea21c0c5cb}{%
+           family={Chernyshenko},
+           familyi={C\bibinitperiod},
+           given={Sergei},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{fullhash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{bibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{authorbibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{authornamehash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \strng{authorfullhash}{0a26cca89a601c477ee609ea21c0c5cb}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new idea for turbulent skin-friction reduction is proposed, wherein the shape of the solid wall is designed to create the spanwise pressure gradient acting similarly to the well-known method of drag reduction by in-plane spanwise wall motion. Estimates based on the assumption of similarity with drag reduction effect of in-plane wall motion suggest that drag reduction of about 2.4\% can be achieved in the flow past a wavy wall, with the crests forming an angle of about 38 degrees with the main flow direction, and the wave period in the main flow direction equal to about 1500 wall units. The required height of the wall waves have to be adjusted to achieve the same intensity of the spanwise motion as that created by an in-plane moving wall of the same wavelength and with peak wall velocity equal to 2 wall units. Further research is being conducted in order to determine this height. Suggestions are made for further research on confirming the feasibility of the proposed method and on optimising the wall shape.}
+      \field{day}{16}
+      \field{eprintclass}{physics.flu-dyn}
+      \field{eprinttype}{arxiv}
+      \field{month}{4}
+      \field{title}{Drag Reduction by a Solid Wall Emulating Spanwise Oscillations. {{Part}} 1}
+      \field{urlday}{10}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 1304.4638
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\MNHCKJ6U\\Chernyshenko - 2013 - Drag reduction by a solid wall emulating spanwise .pdf;C\:\\Users\\Herman\\Zotero\\storage\\I42MV6M5\\1304.html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1304.4638
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1304.4638
+      \endverb
+      \keyw{Physics - Fluid Dynamics}
+    \endentry
     \entry{iea2021}{online}{}
       \name{author}{1}{}{%
         {{hash=18fdbec513c87989c7580f31bb7f03ab}{%
@@ -34,8 +79,8 @@
       \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explore analysis, reports, news and events about Transport}
@@ -74,8 +119,8 @@
       \strng{authorbibnamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authornamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authorfullhash}{8d2bebb19abb94a0648a7595d952fc1c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{\_eprint: https://doi.org/10.2514/2.2796}
@@ -122,8 +167,8 @@
       \strng{authorbibnamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authornamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authorfullhash}{c9c5a29c29c124de95fa1b6fabde8022}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Third International Mathematical Congress}
@@ -168,8 +213,8 @@
       \strng{authorbibnamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authornamehash}{ed609df4a0b4e66f9f5fadd5dffe2b35}
       \strng{authorfullhash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{13}
@@ -246,8 +291,8 @@
       \strng{authorbibnamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authornamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authorfullhash}{bcab59f1cad1c838b120517bec900e7f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Turbulent boundary layer control (TBLC) for skin-friction drag reduction is a relatively new technology made possible through the advances in computational-simulation capabilities, which have improved the understanding of the flow structures of turbulence. Advances in micro-electronic technology have enabled the fabrication of active device systems able to manipulating these structures. The combination of simulation, understanding and micro-actuation technologies offers new opportunities to significantly decrease drag, and by doing so, to increase fuel efficiency of future aircraft. The literature review that follows shows that the application of active control turbulent skin-friction drag reduction is considered of prime importance by industry, even though it is still at a low technology readiness level (TRL). This review presents the state of the art of different technologies oriented to the active and passive control for turbulent skin-friction drag reduction and contributes to the improvement of these technologies.}
@@ -309,8 +354,8 @@
       \strng{authornamehash}{7a9658cc07efd5d5d5a5ad9d4c8021cb}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The objective of this study is to explore concepts for active control of turbulent boundary layers leading to skin-friction reduction using the direct numerical simulation technique. Significant drag reduction is achieved when the surface boundary condition is modified to suppress the dynamically significant coherent structures present in the wall region. The drag reduction is accompanied by significant reduction in the intensity of the wall-layer structures and reductions in the magnitude of Reynolds shear stress throughout the flow. The apparent outward shift of turbulence statistics in the controlled flows indicates a displaced virtual origin of the boundary layer and a thickened sublayer. Time sequences of the flow fields show that there are essentially two drag-reduction mechanisms. Firstly, within a short time after the control is applied, drag is reduced mainly by deterring the sweep motion without modifying the primary streamwise vortices above the wall. Consequently, the high-shear-rate regions on the wall are moved to the interior of the channel by the control schemes. Secondly, the active control changes the evolution of the wall vorticity layer by stabilizing and preventing lifting of the spanwise vorticity near the wall, which may suppress a source of new streamwise vortices above the wall.}
@@ -364,8 +409,8 @@
       \strng{authorbibnamehash}{086ae8add5ea2b61448103e607542db2}
       \strng{authornamehash}{91c4cd59b979599f950716f044047222}
       \strng{authorfullhash}{086ae8add5ea2b61448103e607542db2}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This paper extends the resolvent analysis of McKeon \& Sharma (J. Fluid Mech., vol.~658, 2010, pp. 336–382) to consider flow control techniques that employ linear control laws, focusing on opposition control (Choi, Moin \& Kim, J. Fluid Mech., vol.~262, 1994, pp. 75–110) as an example. Under this formulation, the velocity field for turbulent pipe flow is decomposed into a series of highly amplified (rank-1) response modes, identified from a gain analysis of the Fourier-transformed Navier–Stokes equations. These rank-1 velocity responses represent propagating structures of given streamwise/spanwise wavelength and temporal frequency, whose wall-normal footprint depends on the phase speed of the mode. Opposition control, introduced via the boundary condition on wall-normal velocity, affects the amplification characteristics (and wall-normal structure) of these response modes; a decrease in gain indicates mode suppression, which leads to a decrease in the drag contribution from that mode. With basic assumptions, this rank-1 model reproduces trends observed in previous direct numerical simulation and large eddy simulation, without requiring high-performance computing facilities. Further, a wavenumber–frequency breakdown of control explains the deterioration of opposition control performance with increasing sensor elevation and Reynolds number. It is shown that slower-moving modes localized near the wall (i.e.~attached modes) are suppressed by opposition control. Faster-moving detached modes, which are more energetic at higher Reynolds number and more likely to be detected by sensors far from the wall, are further amplified. These faster-moving modes require a phase lag between sensor and actuator velocity for suppression. Thus, the effectiveness of opposition control is determined by a trade-off between the modes detected by the sensor. However, it may be possible to develop control strategies optimized for individual modes. A brief exploration of such mode-optimized control suggests the potential for significant performance improvement.}
@@ -424,8 +469,8 @@
       \strng{authorbibnamehash}{7686bae2563cd62f84fb300369868ca5}
       \strng{authornamehash}{f1e2dd49a50511b6b74a225d25fd59b8}
       \strng{authorfullhash}{7686bae2563cd62f84fb300369868ca5}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -484,8 +529,8 @@
       \strng{authornamehash}{6554c2dc632c2ef534519926ece4cb09}
       \strng{authorfullhash}{55897cddbe5e19a72e600954ebc5770e}
       \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -541,8 +586,8 @@
       \strng{authorbibnamehash}{7c21d58e943eb193da96b1de9b3efe4d}
       \strng{authornamehash}{77d0072d78da2711e93b06a580d90b56}
       \strng{authorfullhash}{7c21d58e943eb193da96b1de9b3efe4d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1070-6631, 1089-7666}
@@ -983,8 +1028,8 @@
       \strng{authorbibnamehash}{af230ce9757f0eea38283561d5f59e20}
       \strng{authornamehash}{af230ce9757f0eea38283561d5f59e20}
       \strng{authorfullhash}{af230ce9757f0eea38283561d5f59e20}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The present paper describes the effect of drag reduction of circular cylinders due to a porous coating on their leeward sides. To investigate the coating effect, experiments were conducted in a wind tunnel of Goettingen type. Systematic drag measurements were carried out for different cylinder configurations and flow velocities. The drag measurements were complemented by pressure and particle image velocimetry (PIV) flow field measurements around selected cylinders. The Reynolds numbers were varied in the subcritical range of 3 \texttimes{} 104 {$<$} Re {$<$} 1.4 \texttimes{} 105. The results show that a thin porous layer on the leeward side, either incorporated in the cylinder shape or applied on the cylinder surface, leads to an increase of base pressure on the leeward side of the cylinder. It causes a reduction of drag and dampens oscillation amplitudes when compared to a cylinder without coating. Results obtained for different configurations with varying key parameters (coating angles, layer thicknesses and pore sizes of the porous material) clearly indicate the drag-reducing and amplitude-damping potential of leeward coating. The amount of drag reduction and amplitude damping depends on the combination of key parameters. It was demonstrated that the lowered drag coefficients cd were almost constant in the tested range of Reynolds numbers. A maximum reduction of drag of 13.2 \% was measured. In addition, the results revealed a strong reduction of the pressure fluctuations around cylinders with a leeward coating due to the shift of the vortex region further downstream.}
@@ -1056,8 +1101,8 @@
       \strng{authorbibnamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authornamehash}{514a462a3bbd3455eb9a239470e64ca4}
       \strng{authorfullhash}{f7299e038368868d15e7b1a318c52667}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{We present an experimental study of a low-Reynolds number shear flow between two surfaces, one of which has a regular grooved texture augmented with a superhydrophobic coating. The combination reduces the effective fluid-surface contact area, thereby appreciably decreasing the drag on the surface and effectively changing the macroscopic boundary condition on the surface from no slip to limited slip. We measure the force on the surface and the velocity field in the immediate vicinity on the surface (and thus the wall shear) simultaneously. The latter facilitates a direct assessment of the effective slip length associated with the drag reduction.}
@@ -1106,8 +1151,8 @@
       \strng{authorbibnamehash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
       \strng{authornamehash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
       \strng{authorfullhash}{4fcd81a2eee60f83eb04ebdaf2d8c3f5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{\_eprint: https://doi.org/10.2514/3.60126}
@@ -1165,8 +1210,8 @@
       \strng{authornamehash}{7a9658cc07efd5d5d5a5ad9d4c8021cb}
       \strng{authorfullhash}{c0c4af01894faa89fcdabe796a09bdb2}
       \field{extraname}{4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Direct numerical simulations of turbulent flows over riblet-mounted surfaces are performed to educe the mechanism of drag reduction by riblets. The computed drag on the riblet surfaces is in good agreement with the existing experimental data. The mean-velocity profiles show upward and downward shifts in the log–law for drag-decreasing and drag-increasing cases, respectively. Turbulence statistics above the riblets are computed and compared with those above a flat plate. Differences in the mean-velocity profile and turbulence quantities are found to be limited to the inner region of the boundary layer. Velocity and vorticity fluctuations as well as the Reynolds shear stresses above the riblets are reduced in drag-reducing configurations. Quadrant analysis indicates that riblets mitigate the positive Reynolds-shear-stress-producing events in drag-reducing configurations. From examination of the instantaneous flow fields, a drag reduction mechanism by riblets is proposed: riblets with small spacings reduce viscous drag by restricting the location of the streamwise vortices above the wetted surface such that only a limited area of the riblets is exposed to the downwash of high-speed fluid that the vortices induce.}
@@ -1219,8 +1264,8 @@
       \strng{authorbibnamehash}{c3f23c05e0ceaca5b1c98e6ec4002270}
       \strng{authornamehash}{c3f23c05e0ceaca5b1c98e6ec4002270}
       \strng{authorfullhash}{c3f23c05e0ceaca5b1c98e6ec4002270}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The interaction of the overlying turbulent flow with riblets, and its impact on their drag reduction properties are analysed. In the so-called viscous regime of vanishing riblet spacing, the drag reduction is proportional to the riblet size, but for larger riblets the proportionality breaks down, and the drag reduction eventually becomes an increase. It is found that the groove cross section A+g is a better characterization of this breakdown than the riblet spacing, with an optimum . It is also found that the breakdown is not associated with the lodging of quasi-streamwise vortices inside the riblet grooves, or with the inapplicability of the Stokes hypothesis to the flow along the grooves, but with the appearance of quasi-two-dimensional spanwise vortices below y+{$\approx$}30, with typical streamwise wavelengths . They are connected with a Kelvin–Helmholtz-like instability of the mean velocity profile, also found in flows over plant canopies and other surfaces with transpiration. A simplified stability model for the ribbed surface approximately accounts for the scaling of the viscous breakdown with~A+g.}
@@ -1582,51 +1627,6 @@
       \verb http://aip.scitation.org/doi/10.1063/1.5090881
       \endverb
     \endentry
-    \entry{chernyshenko2013}{online}{}
-      \name{author}{1}{}{%
-        {{hash=0a26cca89a601c477ee609ea21c0c5cb}{%
-           family={Chernyshenko},
-           familyi={C\bibinitperiod},
-           given={Sergei},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \strng{fullhash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \strng{bibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \strng{authorbibnamehash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \strng{authornamehash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \strng{authorfullhash}{0a26cca89a601c477ee609ea21c0c5cb}
-      \field{extraname}{1}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{A new idea for turbulent skin-friction reduction is proposed, wherein the shape of the solid wall is designed to create the spanwise pressure gradient acting similarly to the well-known method of drag reduction by in-plane spanwise wall motion. Estimates based on the assumption of similarity with drag reduction effect of in-plane wall motion suggest that drag reduction of about 2.4\% can be achieved in the flow past a wavy wall, with the crests forming an angle of about 38 degrees with the main flow direction, and the wave period in the main flow direction equal to about 1500 wall units. The required height of the wall waves have to be adjusted to achieve the same intensity of the spanwise motion as that created by an in-plane moving wall of the same wavelength and with peak wall velocity equal to 2 wall units. Further research is being conducted in order to determine this height. Suggestions are made for further research on confirming the feasibility of the proposed method and on optimising the wall shape.}
-      \field{day}{16}
-      \field{eprintclass}{physics.flu-dyn}
-      \field{eprinttype}{arxiv}
-      \field{month}{4}
-      \field{title}{Drag Reduction by a Solid Wall Emulating Spanwise Oscillations. {{Part}} 1}
-      \field{urlday}{10}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
-      \field{year}{2013}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{eprint}
-      \verb 1304.4638
-      \endverb
-      \verb{file}
-      \verb C\:\\Users\\Herman\\Zotero\\storage\\MNHCKJ6U\\Chernyshenko - 2013 - Drag reduction by a solid wall emulating spanwise .pdf;C\:\\Users\\Herman\\Zotero\\storage\\I42MV6M5\\1304.html
-      \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/1304.4638
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1304.4638
-      \endverb
-      \keyw{Physics - Fluid Dynamics}
-    \endentry
     \entry{schlichting2016}{book}{}
       \name{author}{2}{}{%
         {{hash=a40b2ac2ea6bf0e4fe92d78ea78c1553}{%
@@ -1680,8 +1680,8 @@
       \strng{authorbibnamehash}{327daee2bfb6c1ece14804854185c6e3}
       \strng{authornamehash}{327daee2bfb6c1ece14804854185c6e3}
       \strng{authorfullhash}{327daee2bfb6c1ece14804854185c6e3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{? Abstract?Drag reduction in wall-bounded flows can be achieved by transverse motions imposed by passive means, e.g., riblets, or by external forcing, such as wall oscillation or transverse traveling-wave excitation. In this article, we review possible physical mechanisms responsible for turbulent drag reduction and corresponding near-wall flow modification.}
@@ -1943,8 +1943,8 @@
       \strng{authorbibnamehash}{e20729737572ebb1b43dc018ca831aa9}
       \strng{authornamehash}{e20729737572ebb1b43dc018ca831aa9}
       \strng{authorfullhash}{e20729737572ebb1b43dc018ca831aa9}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1469-7645, 0022-1120}
