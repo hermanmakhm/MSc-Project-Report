@@ -2747,6 +2747,39 @@
       \endverb
       \keyw{Physics - Fluid Dynamics}
     \endentry
+    \entry{white1991}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1e681d94d9c783f7ceb9dd9e89c5c572}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Frank\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{1e681d94d9c783f7ceb9dd9e89c5c572}
+      \strng{fullhash}{1e681d94d9c783f7ceb9dd9e89c5c572}
+      \strng{bibnamehash}{1e681d94d9c783f7ceb9dd9e89c5c572}
+      \strng{authorbibnamehash}{1e681d94d9c783f7ceb9dd9e89c5c572}
+      \strng{authornamehash}{1e681d94d9c783f7ceb9dd9e89c5c572}
+      \strng{authorfullhash}{1e681d94d9c783f7ceb9dd9e89c5c572}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-0-07-069712-6}
+      \field{pagetotal}{614}
+      \field{series}{{{McGraw}}-{{Hill}} Series in Mechanical Engineering}
+      \field{title}{Viscous Fluid Flow}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \keyw{Viscous flow}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

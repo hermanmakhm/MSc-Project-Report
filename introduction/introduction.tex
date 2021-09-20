@@ -175,7 +175,7 @@ Now we will find $\Phi _{\tilde{w},\gls*{sl}}\ps$ by using Equation~\eqref{eq:wt
 \begin{align}
 	\Phi _{\tilde{w},\gls*{sl}}\ps &= \int_{0}^{\infty} \overline{\left( \dv{\tilde{w}\ssl\ps}{y\ps}  \right) ^2} \dd{y\ps}   \\
 				       &= \int_{0}^{\infty} \left( \dv{\overline{\gls*{wht}\ps\ssl\check{w}\ssl\ps e^{ik\ps_x x\ps}}}{\left((k_x\ps)^{-1 /3}\check{y}\ps\right)}  \right) ^2 \dd{\left(\left(k_x\ps\right)^{-1 /3}\check{y}\ps\right)}   \\
-				       &= \left(\gls*{wht}\ps\ssl\right)^2\left(k_x\ps\right)^{1 /3}\int_{0}^{\infty}\frac{1}{2} \left( \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right) ^2 \dd{\check{y}\ps} \label{eq:fislps}
+				       &= \left(\gls*{wht}\ps\ssl\right)^2\left(k_x\ps\right)^{1 /3}\int_{0}^{\infty}\frac{1}{2} \left| \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right| ^2 \dd{\check{y}\ps} \label{eq:fislps}
 .\end{align}
 Since $\check{w}\ssl\ps$ is a known function that we found in Equation~\eqref{eq:wchecksoln}, it is possible to evaluate the integral numerically. \textcite{chernyshenko2013} gives $\int_{0}^{\infty}  \frac{1}{2} \left( \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right) ^2 \dd{\check{y}\ps} = 0.3157$. For the other two terms, we wish to non-dimensionalise them with \pz units similar to Equation~\eqref{eq:fislconv}, as that is the units that are presented in \textcite{viotti2009}, whose data we will use for calculating both $P_\text{net,\gls*{sl}} $ and $P_\text{net,\gls*{wv}} $. Thus,
 \begin{equation}
@@ -197,7 +197,7 @@ Finally, we know that for the flat plate reference flow the dissipation on one s
 Thus, from the definition of $P_\text{req,\gls*{sl}} $ in Equation~\eqref{eq:psavpreqsl}, and by using Equations~\eqref{eq:fislconv},~\eqref{eq:fislps},~\eqref{eq:kxslconv},~\eqref{eq:whtslconv},~\eqref{eq:taupsavconv}, and~\eqref{eq:fizero}, we get
 \begin{align}
 	P_\text{req,\gls*{sl}}&=-100\%\frac{\Phi \pz\ssl}{\Phi \pz\zz}\\
-			      &=-100\%\left( \hat{W}\ssl\pz \right)^2 \sqrt{\frac{C_{f,\gls*{zer}}}{2}} \left( \frac{2\pi}{\lambda_x\ps}\left( 1-\frac{P_\text{sav,\gls*{sl}} }{100\%} \right)  \right) ^{1 /3}  \int_{0}^{\infty}\frac{1}{2} \left( \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right) ^2 \dd{\check{y}\ps}\\
+			      &=-100\%\left( \hat{W}\ssl\pz \right)^2 \sqrt{\frac{C_{f,\gls*{zer}}}{2}} \left( \frac{2\pi}{\lambda_x\ps}\left( 1-\frac{P_\text{sav,\gls*{sl}} }{100\%} \right)  \right) ^{1 /3}  \int_{0}^{\infty}\frac{1}{2} \left| \dv{\check{w}\ssl\ps}{\check{y}\ps}  \right| ^2 \dd{\check{y}\ps}\\
 			      &=-100\%(0.3157)\left( \hat{W}\ssl\pz \right)^2 \sqrt{\frac{C_{f,\gls*{zer}}}{2}} \left( \frac{2\pi}{\lambda_x\ps}\left( 1-\frac{P_\text{sav,\gls*{sl}} }{100\%} \right)  \right) ^{1 /3}\label{eq:preqsl}
 .\end{align}
 
@@ -346,12 +346,12 @@ Thus,
 \begin{align}
 	\Phi _{\tilde{u},\gls*{wv}}\pw &= \int_{0}^{\infty} \overline{\left( \dv{\tilde{u}\ww\pw}{y\pw}  \right) ^2} \dd{y\pw}   \\
 				       &= \int_{0}^{\infty} \left( \dv{\overline{i\left( k_z\pw \right) ^2 \left( k_x\pw \right) ^{-5 /3}  \hat{P}\pw\ww \check{u}\pw\ww e^{i\left( k_x\pw x\pw +k_z \pw z\pw \right)}}}{\left((k_x\pw)^{-1 /3}\check{y}\pw\right)}  \right) ^2 \dd{\left(\left(k_x\pw\right)^{-1 /3}\check{y}\pw\right)}   \\
-				       &= \left(k_z\pw\right)^4\left(k_x\pw\right)^{-3}\hat{P}\ww\pw\int_{0}^{\infty}\frac{1}{2} \left( \dv{\check{u}\ww\pw}{\check{y}\pw}  \right) ^2 \dd{\check{y}\pw} \label{eq:fiwwpwu}
+				       &= \left(k_z\pw\right)^4\left(k_x\pw\right)^{-3}\hat{P}\ww\pw\int_{0}^{\infty}\frac{1}{2} \left| \dv{\check{u}\ww\pw}{\check{y}\pw}  \right| ^2 \dd{\check{y}\pw} \label{eq:fiwwpwu}
 .\end{align}
 \begin{align}
 	\Phi _{\tilde{w},\gls*{wv}}\pw &= \int_{0}^{\infty} \overline{\left( \dv{\tilde{w}\ww\pw}{y\pw}  \right) ^2} \dd{y\pw}   \\
 				       &= \int_{0}^{\infty} \left( \dv{\overline{ik_z\pw \left( k_x\pw \right) ^{-2 /3}\hat{P}\pw\ww \check{w}\pw\ww e^{i\left( k_x\pw x\pw +k_z \pw z\pw \right)}}}{\left((k_x\pw)^{-1 /3}\check{y}\pw\right)}  \right) ^2 \dd{\left(\left(k_x\pw\right)^{-1 /3}\check{y}\pw\right)}   \\
-				       &= \left(k_z\pw\right)^{2}\left(k_x\pw\right)\hat{P}\ww\pw\int_{0}^{\infty}\frac{1}{2} \left( \dv{\check{w}\ww\pw}{\check{y}\pw}  \right) ^2 \dd{\check{y}\pw} \label{eq:fiwwpww}
+				       &= \left(k_z\pw\right)^{2}\left(k_x\pw\right)\hat{P}\ww\pw\int_{0}^{\infty}\frac{1}{2} \left| \dv{\check{w}\ww\pw}{\check{y}\pw}  \right| ^2 \dd{\check{y}\pw} \label{eq:fiwwpww}
 .\end{align}
 
 By selecting  $\hat{P}\ww\pw$ using Equation~\eqref{eq:phtselect}, we are guaranteeing that $\Phi _{\tilde{w},\gls*{wv}}\pw\leq\Phi _{\tilde{w},\gls*{sl}}\ps$. This is because by optimising over $C$ in Equation~\eqref{eq:minshear} ``is equivalent to projecting the \gls{ssl} solution onto the direction of the wavy-wall solution in the $L_2$ functional space'' \cite{chernyshenko2013}, i.e. it is equivalent to projecting the \gls{ssl} spanwise shear profile as a vector in the direction of that of \gls{ww}, which is necessarily equal or less than the magnitude of the \gls{ssl} vector. To be safe in their calculations, \textcite{chernyshenko2013} therefore assumed the maximum value of $\Phi _{\tilde{w},\gls*{sl}\ps}\pz$ which is equal to $\Phi _{\tilde{w},\gls*{sl}}\pz$. Thus,

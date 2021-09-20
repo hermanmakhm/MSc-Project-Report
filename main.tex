@@ -270,7 +270,7 @@
 {
 	type=notation,
 	name={\ensuremath{p'}},
-	description={randomly fluctuating pressure fieldj},
+	description={randomly fluctuating pressure field},
 	sort={p4}
 }
 \newglossaryentry{phase}
@@ -350,7 +350,34 @@
 	description={amplitude of the height of undulations of the wavy wall},
 	sort={zzalpha}
 }
-
+\newglossaryentry{ycrs}
+{
+	type=notation,
+	name={\ensuremath{y_{\times}^{+}}},
+	description={the crossing point between the linear profile $\overline{U}^{+}=y^{+}$ and the logarithmic profile $\frac{1}{\kappa}\ln y^{+}+B+\Delta h$},
+	sort={ycross}
+}
+\newglossaryentry{kp}
+{
+	type=notation,
+	name={\ensuremath{\kappa}},
+	description={a constant in the logarithmic profile $\frac{1}{\kappa}\ln y^{+}+B+\Delta h$, it is equal to 0.41},
+	sort={zzkappa}
+}
+\newglossaryentry{lnb}
+{
+	type=notation,
+	name={\ensuremath{B}},
+	description={a constant in the logarithmic profile $\frac{1}{\kappa}\ln y^{+}+B+\Delta h$, it is equal to 5.0},
+	sort={B}
+}
+\newglossaryentry{delh}
+{
+	type=notation,
+	name={\ensuremath{\Delta h}},
+	description={the vertical increase in the logarithmic profile accompanying drag reduction $\frac{1}{\kappa}\ln y^{+}+B+\Delta h$},
+	sort={B}
+}
 
 \newacronym{tbl}{TBL}{turbulent boundary layer}
 \newacronym{bl}{BL}{boundary layer}
@@ -395,9 +422,9 @@ Your abstract goes here. The abstract is a very brief summary of the dissertatio
 \input{project/project.tex}
 %\input{evaluation/evaluation.tex}
 \input{conclusion/conclusion.tex}
-%\input{appendix/appendix.tex}
 
 \printbibliography
 \addcontentsline{toc}{chapter}{Bibliography}
 
+\input{appendix/appendix.tex}
 \end{document}
