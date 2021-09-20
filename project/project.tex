@@ -1,6 +1,6 @@
 \chapter{Project - Wavy Wall Analysis}\glsresetall
 \section{Power Saved by the Wavy Wall (WW)}
-With our definition of $P_\text{sav,\gls*{wv}}$ staying the same, we no longer believe it is equal to $P_\text{sav,\gls*{sl}}$. However, since we matched the periodic spanwise shear, we still maintain that the reduction in stochastic turbulent dissipation is the same between the \gls{ww} and \gls{ssl} flow, i.e. $\frac{\Delta \Phi _{\mathbf{u} ',\gls*{sl}}\pz}{\Phi _{0}\pz}=\frac{\Delta \Phi _{\mathbf{u} ',\gls*{wv}}\pz}{\Phi _{0}\pz}$. Therefore,
+With our definition of $P_\text{sav,\gls*{wv}}$ staying the same, we no longer believe it is equal to $P_\text{sav,\gls*{sl}}$. However, since we matched the periodic spanwise shear, we still maintain that the reduction in stochastic turbulent dissipation is the same between the \gls*{ww} and \gls*{ssl} flow, i.e. $\frac{\Delta \Phi _{\mathbf{u} ',\gls*{sl}}\pz}{\Phi _{0}\pz}=\frac{\Delta \Phi _{\mathbf{u} ',\gls*{wv}}\pz}{\Phi _{0}\pz}$. Therefore,
 \begin{align}
 	P_\text{sav,\gls*{wv}}	-P_\text{sav,\gls*{sl}} &= 100\%\frac{\Delta \Phi _{\overline{U },\gls*{wv}}\pz+\Delta \Phi _{\mathbf{u} ',\gls*{wv}}\pz}{\Phi \zz\pz}-100\% \frac{\Delta \Phi _{\overline{U },\gls*{sl}}\pz+\Delta \Phi _{\mathbf{u} ',\gls*{sl}}\pz}{\Phi \zz\pz}\\
 	P_\text{sav,\gls*{wv}}	-P_\text{sav,\gls*{sl}}  &= 100\% \frac{\Delta \Phi _{\overline{U },\gls*{wv}}\pz-\Delta \Phi _{\overline{U },\gls*{sl}}\pz}{\Phi \zz\pz}\\
@@ -9,20 +9,20 @@ With our definition of $P_\text{sav,\gls*{wv}}$ staying the same, we no longer b
 
 
 \section{The Spatial Stokes Layer (SSL) Mean Velocity Profile}\label{sec:sslmean}
-Since we do not know the shape of the \gls{ww} mean streamwise velocity profile to figure out dissipation due to the mean profile, we must start elsewhere. The \gls{ssl} mean streamwise velocity profile $\overline{U}\ssl\ps$ was given by \vqt, along with that of \gls{tsl}, the reference channel flow, and $\overline{U}^{+}=y^{+}$ for comparison (Figure~\ref{fig:sslmeanprofile}). We can see that at $y^{+}<10$, they all coincide to the linear profile $\overline{U}^{+}=y^{+}$, and at some point between $10<y^{+}<40$, they stop being curved on the logarithmic plot and become straight with similar slopes, indicating a logarithmic profile at higher $y^{+}$. In fact, like other \gls{dr} techniques (e.g. riblets), the \gls{dr} is noticeable as a thickening of the viscous sublayer causing an upward shift in this logarithmic portion of the mean velocity profile \cite{viotti2009,choi1989,luchini1996}. 
+Since we do not know the shape of the \gls*{ww} mean streamwise velocity profile to figure out dissipation due to the mean profile, we must start elsewhere. The \gls*{ssl} mean streamwise velocity profile $\overline{U}\ssl\ps$ was given by \vqt, along with that of \gls*{tsl}, the reference channel flow, and $\overline{U}^{+}=y^{+}$ for comparison (Figure~\ref{fig:sslmeanprofile}). We can see that at $y^{+}<10$, they all coincide to the linear profile $\overline{U}^{+}=y^{+}$, and at some point between $10<y^{+}<40$, they stop being curved on the logarithmic plot and become straight with similar slopes, indicating a logarithmic profile at higher $y^{+}$. In fact, like other \gls*{dr} techniques (e.g. riblets), the \gls*{dr} is noticeable as a thickening of the viscous sublayer causing an upward shift in this logarithmic portion of the mean velocity profile \cite{viotti2009,choi1989,luchini1996}. 
 
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.7\linewidth]{project/fig/sslmeanprofile.png}
-	\caption[Streamwise mean velocity profiles of SSL and reference flow]{Streamwise mean velocity profiles in wall units averaged in $x$-$z$ space, time, and phase ($\overline{U}^{+}\equiv \left<u \right>^{+}_{xzt}$) for \gls{ssl}, \gls{tsl}, the reference flow, and $\overline{U}^{+}=y^{+}$ (dotted line) for comparison \cite{viotti2009}.}
+	\caption[Streamwise mean velocity profiles of SSL and reference flow]{Streamwise mean velocity profiles in wall units averaged in $x$-$z$ space, time, and phase ($\overline{U}^{+}\equiv \left<u \right>^{+}_{xzt}$) for \gls*{ssl}, \gls*{tsl}, the reference flow, and $\overline{U}^{+}=y^{+}$ (dotted line) for comparison \cite{viotti2009}.}
 	\label{fig:sslmeanprofile}
 \end{figure}
 
-In order to see the differences more clearly, the  \gls{ssl} and refence flow data from Figure~\ref{fig:sslmeanprofile} were digitised using the web app webplotdigitiser. Then a curve fit was implemented and plotted in Figure~\ref{fig:sslmpcf} using an analytical fit for a turbulent plane channel flows given in an unpublished supplement to \cite{chernyshenko2021}. Abnormally, though, when the curve fit given for the mean streamwise velocity was used, the derivative thereof fluctuated much more than expected. Therefore, the curve fit for the second moments of velocity near the wall (root mean square velocity) was trialled instead, which produced much more reasonable derivative whilst also maintaining a good curve fit in and of itself. This latter curve fit is given as
+In order to see the differences more clearly, the  \gls*{ssl} and refence flow data from Figure~\ref{fig:sslmeanprofile} were digitised using the web app webplotdigitiser. Then a curve fit was implemented and plotted in Figure~\ref{fig:sslmpcf} using an analytical fit for a turbulent plane channel flows given in an unpublished supplement to \cite{chernyshenko2021}. Abnormally, though, when the curve fit given for the mean streamwise velocity was used, the derivative thereof fluctuated much more than expected. Therefore, the curve fit for the second moments of velocity near the wall (root mean square velocity) was trialled instead, which produced much more reasonable derivative whilst also maintaining a good curve fit in and of itself. This latter curve fit is given as
 \begin{equation}
 	y^{+}  \frac{a\left(y^{+}\right)^2 + by^{+} + c}{q\left(y^{+}\right)^2 + ry^{+} + 1} + p \left( \ln(y^{+}+15)-\ln(15)\right)\label{eq:curvefit}
 ,\end{equation}
-where $a,b,c,p,q,r$ are some coefficients. This function, however, does not guarantee that $\dv{U^{+}}{y^{+}} =1$ at the wall, which would be most accurate. We can see again that at $y^{+}<10$, the curves both fit on the $\overline{U}^{+}=y^{+}$ line. Then there is an area where the two curves diverge, but then, at around $y^{+}>60$, the gradients $\dv{\overline{U}^{+}}{y^{+}} $ seem to look fairly similar and in fact become negligible. This, as \textcite{viotti2009} had done, lead us to conjecture that the logarithmic portion of the \gls{ssl} mean velocity profile was the same as that of the reference flow but with an extra vertical shift.
+where $a,b,c,p,q,r$ are some coefficients. This function, however, does not guarantee that $\dv{U^{+}}{y^{+}} =1$ at the wall, which would be most accurate. We can see again that at $y^{+}<10$, the curves both fit on the $\overline{U}^{+}=y^{+}$ line. Then there is an area where the two curves diverge, but then, at around $y^{+}>60$, the gradients $\dv{\overline{U}^{+}}{y^{+}} $ seem to look fairly similar and in fact become negligible. This, as \textcite{viotti2009} had done, lead us to conjecture that the logarithmic portion of the \gls*{ssl} mean velocity profile was the same as that of the reference flow but with an extra vertical shift.
 
 Therefore, we take the well known logarithmic portion of the law of the wall, which applies to the reference flow,
 \begin{equation} 
@@ -32,7 +32,7 @@ where $\kappa=0.41$, and  $B=5.0$ \cite{schlichting2016}, and add a vertical shi
  \begin{equation}
 	 \overline{U}\ps\ssl=\frac{1}{\kappa}\ln y\ps +B+\Delta h\ssl\label{eq:cfww}
 .\end{equation}
-$\Delta h$ can easily be estimated by drawing a straight line that follows the logarithmic portion of the \gls{ssl} mean profile (where $y^{+}>60$ ) on the logarithmic scale (in Figure~\ref{fig:sslmeanprofile}), reading the intercept of said straight line, and subtracting by $B$. By this method it was found that  $\Delta h\approx8$. Curve fits using Equations~\eqref{eq:cfref} and \eqref{eq:cfww} are plotted in Figure~\ref{fig:sslmpest}.
+$\Delta h$ can easily be estimated by drawing a straight line that follows the logarithmic portion of the \gls*{ssl} mean profile (where $y^{+}>60$ ) on the logarithmic scale (in Figure~\ref{fig:sslmeanprofile}), reading the intercept of said straight line, and subtracting by $B$. By this method it was found that  $\Delta h\approx8$. Curve fits using Equations~\eqref{eq:cfref} and \eqref{eq:cfww} are plotted in Figure~\ref{fig:sslmpest}.
 
 \begin{figure}[htbp]
 	\centering
@@ -42,21 +42,21 @@ $\Delta h$ can easily be estimated by drawing a straight line that follows the l
 	\subfigure[Estimated logarithmic profiles.]{
 		\label{fig:sslmpest}
 		\includegraphics[width=0.485\linewidth]{project/fig/sslmeanprofileest.png}}
-		\caption[Mean streamwise velocity profiles of SSL and reference flows, and analytical approximations thereof]{Both plots show data on the mean streamwise velocity profiles of \gls{ssl} (orange-circle) and the reference flow (blue-triangles) which were digitised from \textcite{viotti2009} (shown in Figure~\ref{fig:sslmeanprofile} and plotted on a linear scale, as well as $\overline{U}^+=y^+$ (solid-line). }
+		\caption[Mean streamwise velocity profiles of SSL and reference flows, and analytical approximations thereof]{Both plots show data on the mean streamwise velocity profiles of \gls*{ssl} (orange-circle) and the reference flow (blue-triangles) which were digitised from \textcite{viotti2009} (shown in Figure~\ref{fig:sslmeanprofile} and plotted on a linear scale, as well as $\overline{U}^+=y^+$ (solid-line). }
 	\label{fig:sslmplin}
 \end{figure}
-The validity of using the same logarithmic profile with vertical shift as an estimate can be further seen in Figure~\ref{fig:sslmpdiff}, where the squares of the derivatives of the curvefits found using Equation~\eqref{eq:curvefit} were plotted for the \gls{ssl} and reference flows. We can see that the differences in the derivatives are negligibly small. Moreover, since dissipation is equal to the integral of this derivative from 0 to infinity, we can see that contributions at $y^{+}>60$ are negligible. Whilst we can only numerically integrate the curve fitted solution, we can actually analytically integrate the estimated solution as
+The validity of using the same logarithmic profile with vertical shift as an estimate can be further seen in Figure~\ref{fig:sslmpdiff}, where the squares of the derivatives of the curvefits found using Equation~\eqref{eq:curvefit} were plotted for the \gls*{ssl} and reference flows. We can see that the differences in the derivatives are negligibly small. Moreover, since dissipation is equal to the integral of this derivative from 0 to infinity, we can see that contributions at $y^{+}>60$ are negligible. Whilst we can only numerically integrate the curve fitted solution, we can actually analytically integrate the estimated solution as
 \begin{align}
 	\Phi _{\overline{U}}^{+} &= \int_{0}^{y_{\times}^{+}} \left| \frac{dy^{+}}{dy^{+}} \right|^2dy^{+} + \int_{y_{\times}^{+}}^{\infty} \left| \frac{d\left( \frac{1}{\kappa}\ln y^{+} +B+\Delta h\right) }{dy^{+}} \right|^2dy^{+}  \\
 	&= \int_{0}^{y_{\times}^{+}} 1dy^{+} + \frac{1}{\kappa^2}\int_{y_{\times}^{+}}^{\infty} \left| \frac{1}{y^{+}} \right|^2dy^{+}  \\
 	&= y_{\times}^{+} + \frac{1}{\kappa^2}\frac{1}{y_{\times}^{+}}\\
 	&=\frac{\left(  \kappa y_{\times}^{+}  \right) ^2+ 1}{\kappa^2 y_{\times}^{+}}\label{eq:fiycross}
 ,\end{align}
-where \gls*{ycrs} is the single point at which the linear profile crosses the logarithmic profile. For \gls{ssl}, we have We find that for this estimated profile, the ratio $\frac{\Phi _{\overline{U},\gls*{sl}}\ps}{\Phi _{\overline{U},\gls*{zer}}\pz}\rvert_\text{est}=1.818$, whereas the same ratio for the curve fitted profile $\frac{\Phi _{\overline{U},\gls*{sl}}\ps}{\Phi _{\overline{U},\gls*{zer}}\pz}\rvert_\text{cfit}=1.650$. The estimated ratio is only 10.1\% higher than that of the curve fitted solution. Therefore, the idea is that perhaps if we could model the mean profile of the \gls{ww} using the linear plus logarithmic profile approach, perhaps it would be good enough to measure the net power reduction of the \gls{ww} flow.
+where \gls*{ycrs} is the single point at which the linear profile crosses the logarithmic profile. For \gls*{ssl}, we have We find that for this estimated profile, the ratio $\frac{\Phi _{\overline{U},\gls*{sl}}\ps}{\Phi _{\overline{U},\gls*{zer}}\pz}\rvert_\text{est}=1.818$, whereas the same ratio for the curve fitted profile $\frac{\Phi _{\overline{U},\gls*{sl}}\ps}{\Phi _{\overline{U},\gls*{zer}}\pz}\rvert_\text{cfit}=1.650$. The estimated ratio is only 10.1\% higher than that of the curve fitted solution. Therefore, the idea is that perhaps if we could model the mean profile of the \gls*{ww} using the linear plus logarithmic profile approach, perhaps it would be good enough to measure the net power reduction of the \gls*{ww} flow.
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.7\linewidth]{project/fig/sslmeandiff.png}
-	\caption[Mean streamwise shear profile squared of SSL and reference flows]{The squared mean streamwise shear profiles of \gls{ssl} (dot-dash), and reference (dash) flows, i.e. the squared derivative of mean streamwise velocity profiles $\dv{\overline{U}^{+}}{y^{+}} $ obtained using Equation~\eqref{eq:curvefit} for $\overline{U}^{+}$, which is shown in Figure~\ref{fig:sslmpcf}.}
+	\caption[Mean streamwise shear profile squared of SSL and reference flows]{The squared mean streamwise shear profiles of \gls*{ssl} (dot-dash), and reference (dash) flows, i.e. the squared derivative of mean streamwise velocity profiles $\dv{\overline{U}^{+}}{y^{+}} $ obtained using Equation~\eqref{eq:curvefit} for $\overline{U}^{+}$, which is shown in Figure~\ref{fig:sslmpcf}.}
 	\label{fig:sslmpdiff}
 \end{figure}
 
@@ -67,14 +67,14 @@ With Equation~\eqref{eq:cfww}, \textcite{luchini1996} wrote that ``an increment 
 ,\end{equation}
 where $\Rey_D $ is based on the velocity boundary-layer thickness \cite{white1991}. It turns out that for small increments in $B$,
  \begin{equation}
-	 \frac{\Delta C_f}{C_{f,\gls*{zer}}}=-\frac{\Delta h}{\left(2C_{f,\gls*{zer}}\right)^{-1 /2} +\kappa /2}
+	 \frac{\Delta C_f}{C_{f,\gls*{zer}}}=-\frac{\Delta h}{\left(2C_{f,\gls*{zer}}\right)^{-1 /2} +\kappa /2}\label{eq:luchini}
 ,\end{equation}
-where $\Delta C_f=C_f-C_{f,\gls*{zer}}$ \cite{luchini1996}. For \gls{ww}, $P_\text{net,\gls*{wv}} \equiv100\% \frac{C_{f,\gls*{zer}-C_{f,\gls*{wv}}}}{C_{f,\gls*{zer}}}$. Therefore,
+where $\Delta C_f=C_f-C_{f,\gls*{zer}}$ \cite{luchini1996}. For \gls*{ww}, $P_\text{net,\gls*{wv}} \equiv100\% \frac{C_{f,\gls*{zer}-C_{f,\gls*{wv}}}}{C_{f,\gls*{zer}}}$. Therefore,
 \begin{align}
 	-\frac{P_\text{net,\gls*{wv}}}{100\%} &=-\frac{\Delta h\ww}{(2C_{f,\gls*{zer}})^{-1 / 2}+\kappa / 2}\\
 	\Delta h\ww &= \frac{P_\text{net,\gls*{wv}}}{100\%\left[(2C_{f,\gls*{zer}})^{-1 / 2}+\kappa / 2\right]}
 .\end{align}
-Thus, we believe the \gls{ww} mean velocity profile can be modelled by
+Thus, we believe the \gls*{ww} mean velocity profile can be modelled by
 \begin{equation}
 	\overline{U}\ww\pw =
 	\begin{cases}
@@ -83,7 +83,7 @@ Thus, we believe the \gls{ww} mean velocity profile can be modelled by
 	\end{cases}
 .\end{equation}
 
-By modelling the \gls{ww} mean velocity profile like so, we can find $P_\text{net,\gls*{wv}} $ as only a function of $y_{\times}\pw$ by solving the two cases as a system of equations, i.e. we let $\overline{U}\ww\pw=y\pw$ in the logarithmic profile as follows
+By modelling the \gls*{ww} mean velocity profile like so, we can find $P_\text{net,\gls*{wv}} $ as only a function of $y_{\times}\pw$ by solving the two cases as a system of equations, i.e. we let $\overline{U}\ww\pw=y\pw$ in the logarithmic profile as follows
 \begin{align}
 	\overline{U}\pw\ww &=\frac{1}{\kappa}\ln y\pw +B +\frac{P_\text{net,\gls*{wv}}}{100\%\left[(2C_{f,\gls*{zer}})^{-1 / 2}+\kappa / 2\right]} \\
 	y_\times\pw &=\frac{1}{\kappa}\ln y_\times\pw +B +\frac{P_\text{net,\gls*{wv}}}{100\%\left[(2C_{f,\gls*{zer}})^{-1 / 2}+\kappa / 2\right]} \\
@@ -95,14 +95,15 @@ Moreover, we can also employ Equation~\eqref{eq:fiycross} combined with the wall
 	\Phi _{\overline{U},\gls*{wv}}\pz = \Phi _{\overline{U},\gls*{wv}}\pw \left( \frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}} \right) ^{3 /2 }=\frac{\left(  \kappa y_{\times}^{+}  \right) ^2+ 1}{\kappa^2 y_{\times}^{+}} \left(  \frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}} \right) ^{3 /2 } \label{eq:fiwwpzycr}
 .\end{equation}
 
-But there is a slight problem here. Previously, for $\frac{\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}}$, we have simply said this is equal to $1-\frac{P_\text{sav,\gls*{sl}}}{100\%} $ in an \gls{ssl} flow. However, in a \gls{ww} flow, this is not necessarily the case. $\tau_w$ only involves the frictional drag of the flow (the wall shear stress), but leaves out pressure drag which is present in the  \gls{ww} due to the undulations which create pressure gradients. As of writing, the author knows of no way to extract $\frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}}$. The only solution was to turn to \gls{dns} by \sgt. Through their results we were able to find that although the drag reduction and pressure drag reduction were of the same order, the pressure drag reduction was at least an order of magnitude smaller than the total drag, i.e. we conjecture that pressure drag on the \gls{ww} is $\ll \tau_{w,\gls*{wv}}$. Therefore, we let
+But there is a slight problem here. Previously, for $\frac{\tau_{w,\gls*{sl}}}{\tau_{w,\gls*{zer}}}$, we have simply said this is equal to $1-\frac{P_\text{sav,\gls*{sl}}}{100\%} $ in an \gls*{ssl} flow. However, in a \gls*{ww} flow, this is not necessarily the case. $\tau_w$ only involves the frictional drag of the flow (the wall shear stress), but leaves out pressure drag which is present in the  \gls*{ww} due to the undulations which create pressure gradients. As of writing, the author knows of no way to extract $\frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}}$. The only solution was to turn to \gls*{dns} by \sgt. Through their results we were able to find that although the drag reduction and pressure drag reduction were of the same order, the pressure drag reduction was at least an order of magnitude smaller than the total drag, i.e. we conjecture that pressure drag on the \gls*{ww} is $\ll \tau_{w,\gls*{wv}}$. Therefore, we let
 \begin{equation}
 	P_\text{net,\gls*{wv}}\approx 100\% \frac{\tau_{w,\gls*{zer}-\tau_{w,\gls*{wv}}}}{\tau_{w,\gls*{zer}}} \implies  \frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}}\approx1-\frac{P_\text{net,\gls*{wv}} }{100\%}\label{eq:tauassump}
 ,\end{equation}
 even though it isn't necessarily true.
 
-\section{Net Power Reduction by Wavy Wall (WW) - Results}
-By accepting the assumption in Equation~\eqref{eq:tauassump}, quite accidentally, we have now stumbled upon a closed set of equations for which we can solve numerically for a given  $\lambda_x\pz$, $\lambda_z\pz$, and $\hat{W}\ssl\pz$. We start by recognising that nowhere in our analysis did we need to involve $P_\text{req,\gls*{wv}}=r_\text{min} P_\text{req,\gls*{sl}}  $. Therefore, $r_\text{min} $ stays the same, and $\frac{\lambda_x\pz}{\lambda_z\pz}\rvert_\text{opt} $ stays the same. Thus the closed set of equations is as follows
+\section{Net Power Reduction by Wavy Wall (WW)}
+\subsection{Results}
+By accepting the assumption in Equation~\eqref{eq:tauassump}, quite accidentally, we have now stumbled upon a closed set of equations for which we can solve numerically for a given  $\lambda_x\pz$, $\lambda_z\pz$, and $\hat{W}\ssl\pz$. We start by recognising that nowhere in our analysis did we need to involve $P_\text{req,\gls*{wv}}=r_\text{min} P_\text{req,\gls*{sl}}  $, and that minimising $r$ still minimises  $P_\text{net,\gls*{wv}} $. Therefore, $r_\text{min} $ stays the same, and $\frac{\lambda_x\pz}{\lambda_z\pz}\rvert_\text{opt} $ stays the same. Thus the closed set of equations is as follows
 \begin{align}
 	P_\text{net,\gls*{wv}} &= P_\text{sav,\gls*{wv}} + r_\text{min} P_\text{req,\gls*{sl}} \label{eq:Pnetww}\\  
 	P_\text{sav,\gls*{wv}} &=  100\% \sqrt{\frac{C_{f,\gls*{zer}}}{2}}\left(  \frac{\left(  \kappa y_{\times,\gls*{wv}}\pw  \right) ^2+ 1}{\kappa^2 y_{\times,\gls*{wv}}\pw} \left( \frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}} \right) ^{\frac{3}{2}}-\Phi _{\overline{U},\gls*{sl}}\pz\right) +P_\text{sav,\gls*{sl}} \label{eq:Psavww}\\
@@ -113,12 +114,19 @@ By accepting the assumption in Equation~\eqref{eq:tauassump}, quite accidentally
 	y_{\times,\gls*{sl}}\ps&=\frac{1}{\kappa}\ln  y_{\times,\gls*{sl}}\ps +B+\Delta h\ssl \\
 	C_{f,\gls*{zer}} &= 0.00336\Rey_{\tau}^{-0.273}
 ,\end{align}
-where $\Delta h \ssl=8$, $\Rey_{\tau} = 200$,  $\kappa=0.41$,  $B=5.0$,  $r_\text{min} =5.846$, and $\int_{0}^{\infty} \frac{1}{2} \left| \frac{d\check{w}\ps\ssl}{d\check{y}\ps} \right| ^2 d\check{y}\ps = 0.3157$.
+where $\Delta h \ssl=8$, $\Rey_{\tau} = 200$,  $\kappa=0.41$,  $B=5.0$,  $r_\text{min} =5.846$, and $\int_{0}^{\infty} \frac{1}{2} \left| \frac{d\check{w}\ps\ssl}{d\check{y}\ps} \right| ^2 d\check{y}\ps = 0.3157$. This system is only a function of $\lambda_x\pz$ and  $\hat{W}\ssl\pz$, so given those we only have to solve for $y_{\times}\pw$ (which is also equivalent to finding $\Delta h$), which uniquely defines $P_\text{net,\gls*{wv}} $.
 
-We solved this for $P_\text{net,\gls*{wv}} $ as a function of $\lambda_x\pz$ for $\hat{W}\ssl\pz=1,2,6,12$ and plotted them in Figure~\ref{fig:pnetww}. The code for solving these equations, as well as others in this report, along with many of the figures generated is in Appendix~\ref{app:code}.
+We solved this for $P_\text{net,\gls*{wv}} $ as a function of $\lambda_x\pz$ for $\hat{W}\ssl\pz=1,2,6,12$ and plotted them in Figure~\ref{fig:pnetww}. The code for solving these equations, as well as others in this report, along with many of the figures generated is in Appendix~\ref{app:code}. As we can see, this predicted a net power increase for all cases. The minimum power increase compared to the reference flow was 23.8\% for $\hat{W}\ssl\pz=2$, at $\lambda_x\pz\approx1400$.
 \begin{figure}[htbp]
 	\centering
 	\includegraphics[width=0.7\linewidth]{project/fig/pnetww.png}
-	\caption[Net power reduction for the wavy wall $P_\text{net,w}$]{Calculated net power reduction $P_\text{net,\gls*{wv}} $ for the wavy wall $P_\text{net,\gls*{wv}} $.}
+	\caption[Net power reduction for the wavy wall $P_\text{net,w}$]{Calculated net power reduction for the wavy wall $P_\text{net,\gls*{wv}} $ as a function of the prescribed $\lambda_x\pz$ and \gls*{ssl} based $\hat{W}\ssl\pz$.}
 	\label{fig:pnetww}
 \end{figure}
+
+\subsection{Analysis}
+The high net power increase is surprising. Based on \gls*{dns} results from \sgt, we believe that the net power reduction should be around 0.6\% at maximum, therefore it may be reasonable that the maximum power reduction would be negative, but not $<-20\%$. In fact, the solution to these equations give a $y_{\times,\gls*{wv}}\pw\approx 11$. Moreover, if we manipulate the equations to solve for the \gls*{ssl} flow instead, we also get a $y_{\times,\gls*{sl}}\ps\approx11$, which is completely different from the predicted value of $\approx20$ and instead quite close to the reference $y_{\times,\gls*{zer}}\p0$. This suggests that one or a few things may have gone wrong in the production of our results.
+
+One possibility is that our assumptions are incorrect. This includes the assumption made in Equation~\eqref{eq:tauassump}, that $\frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}}=1-\frac{P_\text{net,\gls*{wv}} }{100\%}$. Another assumption made was the choice to use Equation~\eqref{eq:luchini}. This equation uses linear theory and thereby is only suitable for small increments in logarithmic profile height. It is obvious that the logarithmic portion of the \gls*{ssl} profile is much higher than one might consider ``small.'' One last major assumption that may have large impact on our results was the idea of using two portions to approximate the mean velocity profile. Although we found that when finding the ratio of $\frac{\Phi _{\overline{U},\gls*{sl}}\ps}{\Phi _{\overline{U},\gls*{zer}}\pz}$ the percentage error was only around 10\%; however, in Equation~\eqref{eq:Psavww}, the denominator was instead the entire dissipation rate $\Phi _{\gls*{zer}}\pz$, where we would then find that the percentage error was 33\%.
+
+The other possibility, is of course human error. Due to time constraints the algebra and code were not checked as rigorously as it should be. It is for that reason that the entirety of the algebra needed to reproduce the results presented along with the code used to do so (see Appendix~\ref{app:code}) is given. If you so wish, please feel free to find the mistake.

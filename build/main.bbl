@@ -2780,6 +2780,60 @@
       \field{dateera}{ce}
       \keyw{Viscous flow}
     \endentry
+    \entry{denison2015}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=84cca2b954acfeee964ff7225f876042}{%
+           family={Denison},
+           familyi={D\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=09ca962542af675ec4262c6c0fa3a062}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=7cf5f87b2388b3a5d110712b84f266c9}{%
+           family={Balakumar},
+           familyi={B\bibinitperiod},
+           given={Ponnampalam},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Aeronautics and Astronautics}%
+      }
+      \strng{namehash}{b1ec1957c2ac92d5313993ac78a15627}
+      \strng{fullhash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \strng{bibnamehash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \strng{authorbibnamehash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \strng{authornamehash}{b1ec1957c2ac92d5313993ac78a15627}
+      \strng{authorfullhash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{\_eprint: https://arc.aiaa.org/doi/pdf/10.2514/6.2015-3221}
+      \field{booktitle}{{{AIAA AVIATION Forum}}}
+      \field{eventtitle}{45th {{AIAA Fluid Dynamics Conference}}}
+      \field{title}{On the {{Effect}} of {{Rigid Swept Surface Waves}} on {{Turbulent Drag}}}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2514/6.2015-3221
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\7M3N9ITV\\Denison et al. - On the Effect of Rigid Swept Surface Waves on Turb.pdf;C\:\\Users\\Herman\\Zotero\\storage\\8Y8DBYQB\\6.html
+      \endverb
+      \verb{urlraw}
+      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2015-3221
+      \endverb
+      \verb{url}
+      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2015-3221
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

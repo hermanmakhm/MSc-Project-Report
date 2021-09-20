@@ -57,7 +57,6 @@ plt.plot(x_ssl, y_ssl, mfc='none', mec='tab:orange',marker='o', markersize=6, li
 x_ref = ref[:,0]
 y_ref = ref[:,1]
 plt.plot(x_ref, y_ref, mfc='none', mec='tab:blue',marker='^', markersize=6, linestyle='none', label='ref')
-
 #establish plotting linspace
 xspace_ssl = np.linspace(0.5,109, num=250)
 xspace_ref = np.linspace(0.5,198, num=600)
@@ -125,7 +124,7 @@ ref_cross = fsolve(linlog, [11,11], args=(0))
 #integrate estimate analytically
 in_est_ssl = ssl_cross[0] + (1/(.41**2)) * (1/ssl_cross[0])
 in_est_ref = ref_cross[0] + (1/(.41**2)) * (1/ref_cross[0])
-print(ssl_cross[0],in_est_ssl,in_est_ref)
+print(ssl_cross[0],ref_cross[0],in_est_ssl,in_est_ref)
 
 
 #integrate curve fit numerically
@@ -181,6 +180,9 @@ plt.figure(figsize=[5,3.75],dpi=246)
 for i in range(4): 
     for j in range(len(lamb)):
         Pnet_ww_st[i,j], Psav_ww_st[i,j], ycross_st[i,j] = fsolve(P_solve, [0,0,10], args=(i,lamb[j]))
+        #print \hat{W}_{s}^{+0} and lambda_x^{+0} for least power loss
+        if Pnet_ww_st[i,j]>-24:
+            print(Pnet_ww_st[i,j],What[i],lamb[j])
 
 #plot P_{net,w} as function of \lambda_{x}^{+0}
 plt.plot(lamb, Pnet_ww_st[0], ls='-', label='%i' % What[0])
