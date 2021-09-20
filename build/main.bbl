@@ -79,8 +79,8 @@
       \strng{authorbibnamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authornamehash}{18fdbec513c87989c7580f31bb7f03ab}
       \strng{authorfullhash}{18fdbec513c87989c7580f31bb7f03ab}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Explore analysis, reports, news and events about Transport}
@@ -119,8 +119,8 @@
       \strng{authorbibnamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authornamehash}{8d2bebb19abb94a0648a7595d952fc1c}
       \strng{authorfullhash}{8d2bebb19abb94a0648a7595d952fc1c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{annotation}{\_eprint: https://doi.org/10.2514/2.2796}
@@ -167,8 +167,8 @@
       \strng{authorbibnamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authornamehash}{c9c5a29c29c124de95fa1b6fabde8022}
       \strng{authorfullhash}{c9c5a29c29c124de95fa1b6fabde8022}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the Third International Mathematical Congress}
@@ -213,8 +213,8 @@
       \strng{authorbibnamehash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
       \strng{authornamehash}{ed609df4a0b4e66f9f5fadd5dffe2b35}
       \strng{authorfullhash}{7a9bfbb6ceaf4153a4819df0cd71ceb1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{13}
@@ -291,8 +291,8 @@
       \strng{authorbibnamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authornamehash}{f0296060f1e7ea0816378735ac242557}
       \strng{authorfullhash}{bcab59f1cad1c838b120517bec900e7f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Turbulent boundary layer control (TBLC) for skin-friction drag reduction is a relatively new technology made possible through the advances in computational-simulation capabilities, which have improved the understanding of the flow structures of turbulence. Advances in micro-electronic technology have enabled the fabrication of active device systems able to manipulating these structures. The combination of simulation, understanding and micro-actuation technologies offers new opportunities to significantly decrease drag, and by doing so, to increase fuel efficiency of future aircraft. The literature review that follows shows that the application of active control turbulent skin-friction drag reduction is considered of prime importance by industry, even though it is still at a low technology readiness level (TRL). This review presents the state of the art of different technologies oriented to the active and passive control for turbulent skin-friction drag reduction and contributes to the improvement of these technologies.}
@@ -977,8 +977,8 @@
       \strng{authornamehash}{f3682584620ec6e47a5e1d945df0a2f8}
       \strng{authorfullhash}{955a586db34ac3d1630f63e9d3ce7f27}
       \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Over the past forty years intensive investigations into the use of compliant surfaces have been undertaken, both theoretically and experimentally, in order to obtain turbulent drag reduction in boundary–layer flows. Although positive results were found in some of the studies, none of these had been successfully validated by independent researchers. In this paper the results are reported of a recent investigation carried out by the authors to verify the experimental results of Semenov in 1991 and Kulik and co–workers in 1991, who successfully demonstrated the ability of compliant surfaces to reduce the skin–friction drag and surface–flow noise in a turbulent boundary layer. A strain–gauge force balance was used in the present study to directly measure the turbulent skin–friction drag of a slender body of revolution in a water tunnel. Changes in the structure of turbulent boundary layer over a compliant surface in comparison with that over a rigid surface were also examined. The results clearly demonstrate that the turbulent skin friction is reduced for one of the two compliant coatings tested, indicating a drag reduction of up to 7 per cent within the entire speed range of the tests. The intensities of skin–friction and wall–pressure fluctuations measured immediately downstream from the compliant coating show reductions in the intensities of up to 7 and 19 per cent, respectively. The results also indicate reductions in turbulence intensity by up to 5 per cent across almost the entire boundary layer. Furthermore, an upwards shift of the logarithmic velocity profile is also evident indicating that the thickness of the viscous sublayer is increased as a result of turbulent drag reduction due to the compliant coating. It is considered that the results of the present experimental investigation convincingly demonstrate for the first time since the earlier work in Russia (by Semenov and Kulik) that a compliant surface can indeed produce turbulent drag reduction in boundary–layer flows.}
@@ -1497,8 +1497,8 @@
       \strng{editorbibnamehash}{520a6a4bf80700f94ec0e1e876faee00}
       \strng{editornamehash}{520a6a4bf80700f94ec0e1e876faee00}
       \strng{editorfullhash}{520a6a4bf80700f94ec0e1e876faee00}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Reduction of wall friction of turbulent boundary layer flows can be achieved by using surfaces with properties that are related to skin structures occurring in nature. The scales of several species of fast-swimming sharks show a tiny ribbed structure. This ribbed structure hampers the momentum exchange at the surface that is the origin of the turbulent shear stress. The drag-reducing mechanism of ribbed surfaces (or riblets) is explained by using an analytical model that defines the viscous region of the flow, where the riblets are completely immersed in the viscous sublayer of the turbulent boundary layer. Wall shear stress reduction has been investigated experimentally for various riblet surfaces including a replica of sharkskin consisting of 800 plastic model scales with compliant anchoring. The application of these types of structure to long-range commercial aircraft is discussed, including the effect of the drag reductions on the operational costs of the aircraft.}
@@ -1549,8 +1549,8 @@
       \strng{authorbibnamehash}{41c017df56ee30db1340625bf4b198ec}
       \strng{authornamehash}{41c017df56ee30db1340625bf4b198ec}
       \strng{authorfullhash}{41c017df56ee30db1340625bf4b198ec}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{29th {{Aerospace Sciences Meeting}}}
@@ -1840,8 +1840,8 @@
       \strng{authorbibnamehash}{dfba54a6f0e00652cf048e6eb041a309}
       \strng{authornamehash}{a1a88cee85c72042289a57d965979786}
       \strng{authorfullhash}{dfba54a6f0e00652cf048e6eb041a309}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new method for the triple decomposition of a multiscale flow, which is based on the novel optimal mode decomposition (OMD) technique, is presented. OMD provides low order linear dynamics, which fits a given data set in an optimal way and is used to distinguish between a coherent (periodic) part of a flow and a stochastic fluctuation. The method needs no external phase indication since this information, separate for coherent structures associated with each length scale introduced into the flow, appears as the output. The proposed technique is compared against two traditional methods of the triple decomposition, i.e., bin averaging and proper orthogonal decomposition. This is done with particle image velocimetry data documenting the near wake of a multiscale bar array. It is shown that both traditional methods are unable to provide a reliable estimation for the coherent fluctuation while the proposed technique performs very well. The crucial result is that the coherence peaks are not observed within the spectral properties of the stochastic fluctuation derived with the proposed method; however, these properties remain unaltered at the residual frequencies. This proves the method's capability of making a distinction between both types of fluctuations. The sensitivity to some prescribed parameters is checked revealing the technique's robustness. Additionally, an example of the method application for analysis of a multiscale flow is given, i.e., the phase conditioned transverse integral length is investigated in the near wake region of the multiscale object array.}
@@ -1890,8 +1890,8 @@
       \strng{authorbibnamehash}{43d7dcd70771120215c9bf615a5fa52f}
       \strng{authornamehash}{43d7dcd70771120215c9bf615a5fa52f}
       \strng{authorfullhash}{43d7dcd70771120215c9bf615a5fa52f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{It was a pleasure to read this important book. To understand and predict the development of turbulent flows represents both a continuing scientific challenge and also a serious practical problem in many different fields. Professor Pope has based his book on graduate level lecture courses on turbulence that he has presented at MIT and at Cornell University. It is intended for students in engineering, applied mathematics, oceanography and atmospheric sciences, as well as researchers and practising engineers. The emphasis is on turbulent flows, rather than on the theory of homogeneous turbulence, and only constant-density, nonreacting flows are considered. The author states that his aim is to explain concepts and develop the necessary mathematical tools, rather than to provide a practical guide to turbulence modelling. The text is divided into two parts. Part I provides an introduction to turbulent flows and the fundamental physical processes involved. Topics discussed in separate chapters include: the equations of fluid motion, the statistical description of turbulent flows, the mean flow equations, free shear flows, scales of turbulent motion and wall flows. The chapter on statistical methods for turbulence is particularly good; together with the related appendices it represents a valuable and accessible introduction to the subject. Several approaches for modelling or simulating turbulent flows are then described in Part II, in which the various chapters describe direct numerical simulation (DNS), turbulent viscosity models such as the k-{$\epsilon$} model, Reynolds stress and related second-moment models, probability density function (pdf) models and large-eddy simulation (LES) techniques. Finally, some necessary mathematical tools are summarized in ten Appendices dealing with a wide range of relevant topics including tensors, Dirac delta functions, Fourier transforms, random processes, derivation of pdf equations, characteristic functions and stochastic descriptions of diffusion processes. I particularly enjoyed the chapters on modelling and simulation of turbulent flows. A unified treatment of the different types of model has enabled the author to make valuable connections between them and to reach clear and logical conclusions about the strengths and weaknesses of each approach. Over many years Professor Pope has made very important contributions to the development and application of pdf methods for the prediction of nonreactive and also reactive turbulent flows. The chapter on this subject is an exceptionally clear description of these powerful and often under-utilized simulation methods. The final chapter, on LES, provides an excellent introduction, with valuable and novel insights into both the promise and the problems of this relatively new and rapidly developing approach. It should be compulsory reading for many LES practitioners. Each section of the book contains a number of exercises, which typically invite the reader either to derive an expression that is quoted in the text or to generalize an analysis set out in the text. These exercises are often divided into several stages, and contain appropriate instructions, so that a diligent student will find his or her way through them. An advantage of the extensive use of appendices and student exercises is that analytical clarity and physical understanding are not obscured by unnecessary algebraic detail or by the need to review basic mathematical tools. The result is an exceptionally clear presentation, together with an often penetrating critique of both classical methods and recent developments in the theory and modelling of turbulent flows. There is excellent cross-referencing between one section and another, and an extensive and up-to-date bibliography. I strongly recommend this book to advanced students of fluid mechanics, to their teachers and to all researchers, engineers and others with a professional interest in turbulent flows. K N C Bray}
@@ -2477,6 +2477,60 @@
       \verb http://www.journals.cambridge.org/abstract_S0022112005006506
       \endverb
     \endentry
+    \entry{denison2015}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=84cca2b954acfeee964ff7225f876042}{%
+           family={Denison},
+           familyi={D\bibinitperiod},
+           given={Marie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=09ca962542af675ec4262c6c0fa3a062}{%
+           family={Wilkinson},
+           familyi={W\bibinitperiod},
+           given={Stephen\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=7cf5f87b2388b3a5d110712b84f266c9}{%
+           family={Balakumar},
+           familyi={B\bibinitperiod},
+           given={Ponnampalam},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Aeronautics and Astronautics}%
+      }
+      \strng{namehash}{b1ec1957c2ac92d5313993ac78a15627}
+      \strng{fullhash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \strng{bibnamehash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \strng{authorbibnamehash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \strng{authornamehash}{b1ec1957c2ac92d5313993ac78a15627}
+      \strng{authorfullhash}{bf4ededbaee6f46df8e0fc14283c70be}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{\_eprint: https://arc.aiaa.org/doi/pdf/10.2514/6.2015-3221}
+      \field{booktitle}{{{AIAA AVIATION Forum}}}
+      \field{eventtitle}{45th {{AIAA Fluid Dynamics Conference}}}
+      \field{title}{On the {{Effect}} of {{Rigid Swept Surface Waves}} on {{Turbulent Drag}}}
+      \field{urlday}{18}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2514/6.2015-3221
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\Herman\\Zotero\\storage\\7M3N9ITV\\Denison et al. - On the Effect of Rigid Swept Surface Waves on Turb.pdf;C\:\\Users\\Herman\\Zotero\\storage\\8Y8DBYQB\\6.html
+      \endverb
+      \verb{urlraw}
+      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2015-3221
+      \endverb
+      \verb{url}
+      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2015-3221
+      \endverb
+    \endentry
     \entry{vannesselrooij2016}{article}{}
       \name{author}{4}{}{%
         {{useprefix=true,hash=63c5c98138b67116958f8f0966a2ba6d}{%
@@ -2767,8 +2821,8 @@
       \strng{authorbibnamehash}{1e681d94d9c783f7ceb9dd9e89c5c572}
       \strng{authornamehash}{1e681d94d9c783f7ceb9dd9e89c5c572}
       \strng{authorfullhash}{1e681d94d9c783f7ceb9dd9e89c5c572}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd ed}
@@ -2779,60 +2833,6 @@
       \field{year}{1991}
       \field{dateera}{ce}
       \keyw{Viscous flow}
-    \endentry
-    \entry{denison2015}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=84cca2b954acfeee964ff7225f876042}{%
-           family={Denison},
-           familyi={D\bibinitperiod},
-           given={Marie},
-           giveni={M\bibinitperiod}}}%
-        {{hash=09ca962542af675ec4262c6c0fa3a062}{%
-           family={Wilkinson},
-           familyi={W\bibinitperiod},
-           given={Stephen\bibnamedelima P.},
-           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=7cf5f87b2388b3a5d110712b84f266c9}{%
-           family={Balakumar},
-           familyi={B\bibinitperiod},
-           given={Ponnampalam},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {American Institute of Aeronautics and Astronautics}%
-      }
-      \strng{namehash}{b1ec1957c2ac92d5313993ac78a15627}
-      \strng{fullhash}{bf4ededbaee6f46df8e0fc14283c70be}
-      \strng{bibnamehash}{bf4ededbaee6f46df8e0fc14283c70be}
-      \strng{authorbibnamehash}{bf4ededbaee6f46df8e0fc14283c70be}
-      \strng{authornamehash}{b1ec1957c2ac92d5313993ac78a15627}
-      \strng{authorfullhash}{bf4ededbaee6f46df8e0fc14283c70be}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{\_eprint: https://arc.aiaa.org/doi/pdf/10.2514/6.2015-3221}
-      \field{booktitle}{{{AIAA AVIATION Forum}}}
-      \field{eventtitle}{45th {{AIAA Fluid Dynamics Conference}}}
-      \field{title}{On the {{Effect}} of {{Rigid Swept Surface Waves}} on {{Turbulent Drag}}}
-      \field{urlday}{18}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.2514/6.2015-3221
-      \endverb
-      \verb{file}
-      \verb C\:\\Users\\Herman\\Zotero\\storage\\7M3N9ITV\\Denison et al. - On the Effect of Rigid Swept Surface Waves on Turb.pdf;C\:\\Users\\Herman\\Zotero\\storage\\8Y8DBYQB\\6.html
-      \endverb
-      \verb{urlraw}
-      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2015-3221
-      \endverb
-      \verb{url}
-      \verb https://arc.aiaa.org/doi/abs/10.2514/6.2015-3221
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

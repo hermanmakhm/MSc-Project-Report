@@ -399,16 +399,18 @@
 
 \begin{titlepage}
 \begin{abstract}
-	By matching the spanwise shear components of a spatial Stokes layer (SSL) flow and an oblique wavy wall (WW) flow, we are able to study the net power reduction of oblique wavy walls analytically when defined by some spanwise and streamwise wavelength as well as the corresponding SSL wall forcing amplitude. Unlike \textcite{chernyshenko2013}, we will consider how potential changes in the mean streamwise velocity profile affects the results of the net power reduction. In order to do so, it was found that the ratio of wall skill friction between WW and the reference channel flow is needed to close a system of equations which is uniquely defined by the vertical displacement of the logarithmic portion of the mean velocity profile. However, the ratio remains elusive as the WW includes pressure drag as well as wall skin friction. Nonetheless it was assumed that pressure drag was low compared to wall skin friction in order to close and solve the system of equations. Unfortunately, the net power reduction results presented here are thought to be erroneous likely due to an unknown error or incorrect assumption.
+	This report aims to study the net power reduction that may occur with a fluid flowing past a wavy wall (WW) at an oblique angle $\theta$ to the flow as compared to a reference flat-plate channel flow. The analysis is done by comparing dissipation rates of WW and the spatial Stokes layer (SSL) via linearised boundary layer equations. By prescribing the spanwise and streamwise wavelengths of the WW walls $k_z\pz,k_x\pz$, along with a corresponding SSL forcing amplitude $\hat{W}\ssl\pz$ that matches the spanwise WW phase averaged shear with that of SSL, we are able to make assumptions to utilise SSL data for the WW flow. This was done in \textcite{chernyshenko2013}. However, at the low Reynolds number regimes for the SSL flow from which data were sourced ($\Rey_\tau=200$), it is now believed that there may be significant differences in the mean streamwise velocity profile, and therefore changes the dissipation due to the mean profile, which was not considered in  \textcite{chernyshenko2013}.
+
+	Therefore this report attempts to correct for that by estimating the mean velocity profile of WW flow with a linear and logarithmic portion in order to find the actual net power reduction achieved by WW. It was found that there is a system of equations that uniquely solves for the net power reduction for a given configuration by simply solving for the vertical displacement of the logarithmic portion of the mean profile compared to the reference flow. However, this is contingent on a proper estimate of the ratio of wall friction drag between WW and the reference flow $\frac{\tau_{w,\gls*{wv}}}{\tau_{w,\gls*{zer}}}$, which is not easily defined due to the presence of pressure drag in WW. By assuming pressure drag is much smaller than total drag, we are able to close the system of equations to find that drag reduction with WW is not actually achievable but rather the WW requires a minimum of 17.15\% more power at $\hat{W}\ssl\pz=6$ with  $\lambda_x\pz\approx1200$. However, there is compelling evidence for why this result may be incorrect; although which step/assumption made caused this error remains to be seen.
 \end{abstract}
 
 \renewcommand{\abstractname}{Acknowledgements}
 \begin{abstract}
-	To my supervisor, Prof Sergei Chernyshenko, who awarded me with undeserved patience throughout this project and guided me throughout this difficult time.
+	To my supervisor, Prof Sergei Chernyshenko, who granted me undeserved patience throughout this project and guided me throughout this difficult time.
 
-	To my mentors, Dr Andrew Hamilton, and Dr Christina Vanderwel, both of whom saw my potential and led me towards a road to success.
+	To my prior mentors, Dr Andrew Hamilton, and Dr Christina Vanderwel, both of whom saw my potential, and led me towards the fascinatingly wonderful path I roam today.
 
-	To my friends and family, the support you give me is immeasurable, I don't know where I'd be without all of you. Thank you for being here.
+	To my friends and family, the support you gave and continually give me is immeasurable. Thank you so much for being here.
 \end{abstract}
 \end{titlepage}
 

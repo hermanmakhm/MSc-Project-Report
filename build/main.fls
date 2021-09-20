@@ -1699,6 +1699,9 @@ INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Herman\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0700.tfm
+INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0500.tfm
+INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
 INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.toc
@@ -1708,8 +1711,6 @@ OUTPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\P
 INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
 INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
 INPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
-INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0700.tfm
-INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0500.tfm
 OUTPUT C:\Users\Herman\OneDrive - Imperial College London\Documents\School\MSc\Project\MSc Project Report\build\main.lof
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1000.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
@@ -1723,7 +1724,6 @@ INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm20
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2074.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
-INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0700.tfm
 INPUT C:\Users\Herman\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0500.tfm

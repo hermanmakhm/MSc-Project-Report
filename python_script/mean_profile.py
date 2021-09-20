@@ -155,7 +155,7 @@ def Pnet_ww_ycross(ycross):
 
 def Psav_ww(ycross, tau_rat, lm, i):
     return 100*(Phi0inv*((((k*ycross)**2 + 1)/(ycross*(k**2)))*.9*(1-tau_rat/100)**(3/2)\
-            -in_est_ssl*(1-Psav_ssl(lm, Psav_ssl_coeff[i])/100)))+Psav_ssl(lm, Psav_ssl_coeff[i])
+            -in_est_ssl*((1-Psav_ssl(lm, Psav_ssl_coeff[i])/100)**(3/2))))+Psav_ssl(lm, Psav_ssl_coeff[i])
 
 def P_solve(z, *data):
     index, lmd = data
@@ -181,7 +181,7 @@ for i in range(4):
     for j in range(len(lamb)):
         Pnet_ww_st[i,j], Psav_ww_st[i,j], ycross_st[i,j] = fsolve(P_solve, [0,0,10], args=(i,lamb[j]))
         #print \hat{W}_{s}^{+0} and lambda_x^{+0} for least power loss
-        if Pnet_ww_st[i,j]>-24:
+        if Pnet_ww_st[i,j]>-18:
             print(Pnet_ww_st[i,j],What[i],lamb[j])
 
 #plot P_{net,w} as function of \lambda_{x}^{+0}
